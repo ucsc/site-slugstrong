@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Campus climate"
+title: "Moving beyond COVID-19"
 menu: "Home"
 order: 1
 sidebar: true

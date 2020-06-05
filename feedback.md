@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Your comments"
+title: "Feedback"
 description: >
   Submit your thoughts and feedback.
 menu: "Comments"
@@ -13,6 +13,7 @@ front:
   icon: "speech-bubble-6.svg"
 ---
 
+NOTE: This is the comment form from Campus Climate site.
 <form class="pa2 black-80" name="comments" method="POST" data-netlify="true">
   <div class="pa2">
     <label for="name" class="f5 db mb2 navy">Your name</label>
