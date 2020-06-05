@@ -1,0 +1,15 @@
+<ul id="mainNav">
+  {% assign sorted_pages = site.pages  | sort: 'order' %}
+  {% for item in sorted_pages %}
+    {% if item.order %}
+      {% if page.url == item.url %}
+        <li><a href="{{ item.url | relative_url }}" class="current">{{ item.menu | default: item.title }}</a></li>
+      {% else %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.menu | default: item.title }}</a></li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% if site.links.size > 0 %}
+    <li><a href="/media/">In the news</a></li>
+  {% endif %}
+</ul>

@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+    <div class="row">
+      <div class="main-content">
+
+        <h1>{{ page.title }}</h1>
+
+        {{ content }}
+
+        {% assign c = page.collection %}
+
+        <ul class="{{ c }}">
+
+        {% if page.data == 'messages' %}
+            {% for link in site.data[page.data] %}
+              <li><span>{{ link.date | date: "%b %-d, %Y" }}</span> <a href="{{ link.url }}">{{ link.title }}</a>
+              </li>
+            {% endfor %}
+        {% endif %}
+
+        {% if c == 'links' %}
+
+          {% for item in site[c] %}
+            <li>
+              <a href="{{ item.link }}">
+                <span class="date">{{ item.date | date: "%b %d, %Y" }} - </span>
+                <span class="source">{{ item.source }}</span>
+                <h3>{{ item.title }}</h3>
+                {{ item.content | markdownify }}
+              </a>
+            </li>
+          {% endfor %}
+
+        {% else %}
+
+          {% for item in site[c] %}
+              <li><span>{{ item.date | date: "%b %-d, %Y" }}</span> <a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+
+        {% endif %}
+
+        </ul>
+
+      </div>
+    </div>

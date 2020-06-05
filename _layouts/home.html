@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+        {% if page.hero %}
+          <section class="row hero">
+            <div class="hero-area">
+              {%- if page.hero.link %}
+              <a href="{{ page.hero.link }}">
+              {% endif %}
+              <img src="{{ page.hero.url }}" alt="{{ page.hero.text }}">
+              <div class="text">
+                <h2>{{ page.hero.headline }}</h2>
+                <p>{{ page.hero.description }}</p>
+              </div>
+              {%- if page.hero.link %}
+              </a>
+              {% endif %}
+            </div>
+          </section>
+        {% endif %}
+
+          <div class="row">
+            <div class="main-content">
+              {{ content }}
+            </div>
+          </div>
+
+         <div class="row">
+           <ul class="grid-container">
+              {% assign blocks = site.pages | sort: "order" %}
+              {% for p in blocks %}
+              {% if p.front %}
+                <li>
+                  <a style="background-color: {{ p.front.bg }}; color: {{ p.front.color }};" href="{{ p.url | relative_url }}">
+                  {% include svg/{{ p.front.icon }} %}
+                  <div class="block profile-block" id="profile">
+                    <h3 class="block-header">{{ p.title }}</h3>
+                    <p class="inner">
+                    {{ p.description }}
+                    </p>
+                  </div>
+                  </a>
+                </li>
+              {% endif %}
+              {% endfor %}
+            </ul>
+          </div>

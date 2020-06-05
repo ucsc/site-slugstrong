@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% if page.sidebar %}
+  {% assign page_id = "sprflt" %}
+  {% assign page_class = "left-column" %}
+{% else %}
+  {% assign page_id = "noflt" %}
+  {% assign page_class = "single-column" %}
+{% endif %}
+<div class="row" id="{{ page_id }}" class="{{ page_class }}">
+  <div class="main-content" id="main" role="main">
+
+    <h1 class="page-title" id="title">{{ page.title }}</h1>
+
+    {% if page.banner %}
+    <div class="banners bannerBox" id="bannerBox">
+      <img alt="{{ page.banner.text }}" id="banner" src="{{ page.banner.url | relative_url }}">
+      {% if page.image.description %}
+      <p class="caption">{{ page.banner.description }}</p>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <div class="content contentBox">
+      {{ content }}
+    </div>
+
+  </div>
+
+  {% if page.sidebar %}
+    <div class="sidebar" id="subNav" role="navigation">
+
+    <ul class="navlist">
+      {% assign current_page_id = page.url %}
+      {% assign menu_pages = site.pages | where: "left_col", true | sort: "order" %}
+      {% for item in menu_pages %}
+        <li>
+
+          {% if item.url == page.url %}
+            <a class="current" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% else %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endif %}
+
+          {% if page.category and page.category == item.category %}
+          <ul>
+            {% assign sub_pages = site.pages | where: "category", page.category %}
+            {% for sub_item in sub_pages %}
+              {% if sub_item.name != 'index.md' %}
+                <li><a {% if sub_item.url == page.url %}class="current"{% endif %} href="{{ sub_item.url }}">{{ sub_item.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+          {% endif %}
+
+        </li>
+      {% endfor %}
+    </ul>
+
+    </div>
+  {% endif %}
+
+</div>

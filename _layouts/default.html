@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+
+<link rel="dns-prefetch" href="https://static.ucsc.edu"/>
+<meta charset="UTF-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0" name="viewport"/>
+
+<link href="https://www.ucsc.edu/favicon.ico" rel="shortcut icon"/>
+<link href="https://www.ucsc.edu/apple-touch-icon.png" rel="apple-touch-icon"/>
+
+<link href="https://static.ucsc.edu/_responsive/css/ucsc.css?t=20190115113000" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}" />
+<script src="https://static.ucsc.edu/_responsive/lib/modernizr/modernizr.js" type="text/javascript"></script>
+<script src="https://static.ucsc.edu/_responsive/lib/jquery/dist/jquery.js" type="text/javascript"></script>
+<script async="async" src="https://static.ucsc.edu/_responsive/js/main.js?t=20190213144600" type="text/javascript"></script>
+<script defer="true" src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+
+{%- if page.url == '/' %}
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+{%- endif %}
+
+
+<title>{{ page.title }}</title>
+
+{% seo %}
+
+
+</head>
+
+<body class="home {{ page.title | slugify }}">
+
+<!-- Accessibility links. Hidden until they receive :focus -->
+<ul id="access-links">
+  <li><a href="#main">Skip to main content</a></li>
+  <li><a href="#mainNav">Skip to main navigation</a></li>
+</ul>
+
+
+
+  <div id="wrap">
+    <div id="container">
+      <div id="content">
+
+        <div class="site-header" role="banner">
+
+          <div class="page-top">
+            <div class="row">
+
+              <div class="page-top-left">
+                <a class="campus-secondary" href="https://www.ucsc.edu/index.html" id="logo">UC Santa Cruz</a>
+              </div>
+
+              <div class="page-top-right">
+                <ul id="topNav">
+                  <li><a href="https://my.ucsc.edu" title="The student portal">MyUCSC</a></li>
+                  <li><a href="https://www.ucsc.edu/tools/people.html" title="Campus directory">People</a></li>
+                  <li><a href="https://www.ucsc.edu/tools/calendars.html" title="Upcoming events, academic, and administrative calendars">Calendars</a></li>
+                  <li><a href="https://www.ucsc.edu/visit/maps-directions.html">Maps</a></li>
+                  <li><a href="https://www.ucsc.edu/tools/azindex.html" title="A to Z index of UCSC websites">A-Z Index</a></li>
+                </ul>
+
+                <!-- Google Custom Search -->
+                <div class="search" role="search">
+                <form action="/search/" id="cse-search-box-site">
+                  <div>
+                    <label class="hide" for="search-site">Search</label>
+                    <input class="query" id="search-site" name="q" placeholder="Search this site" type="text"/>
+                    <input class="srchBtn" type="submit"/>
+                  </div>
+                 </form>
+                </div>
+                <!-- end Google Custom Search -->
+              </div>
+
+            </div>
+          </div>
+
+    <div class="main-header">
+
+      <div class="row names">
+        <div class="secondary-name">
+          <p><a href="{{ site.baseurl }}/">{{ site.title }}</a></p>
+          <a class="mobile-menu" href="#mainNav"></a>
+        </div>
+      </div>
+
+    </div>
+
+</div>
+
+        <div id="main" role="main">
+
+        {{ content }}
+
+        </div>
+
+        <div class="main-footer">
+          <div class="row" id="footer">
+              <div class="footer-left">
+                  <img alt="University of California" class="seal" height="84" src="https://static.ucsc.edu/_responsive/images/logos/uc-seal.svg" width="84"/>
+<div class="address home">
+<div class="location">UC Santa Cruz, 1156 High Street, Santa Cruz, Ca 95064</div>
+<div class="copyright">&#169;{{ "now" | date: "%Y" }} Regents of the University of California. All Rights Reserved.</div>
+</div>
+              </div>
+              <div class="footer-right">
+
+
+    <div class="social-media">
+      <a href="https://www.facebook.com/ucsantacruz/"><i aria-label="Follow us on Facebook" class="fab fa-facebook-f"></i></a>
+      <a href="https://twitter.com/ucsc"><i aria-label="Follow us on Twitter" class="fab fa-twitter"></i></a>
+      <a href="https://www.instagram.com/ucsc/"><i aria-label="Follow us on Instagram" class="fab fa-instagram"></i></a>
+    </div>
+
+<div class="links">
+
+
+        <a href="mailto:{{ site.email }}">Feedback</a>
+    </div>
+
+              </div>
+          </div>
+          <div class="sub-footer row">
+              <div class="legal">
+                <ul class="legal">
+                  <li><a href="https://academicaffairs.ucsc.edu/accreditation/">Accreditation</a></li>
+                  <li><a href="https://diversity.ucsc.edu/eeo-aa/images/non-discrimination-policy.pdf">Non-Discrimination&nbsp;Policy</a></li>
+                  <li><a href="https://www.ucsc.edu/land-acknowledgement/">Land Acknowledgment</a></li>
+                  <li><a href="https://www.ucsc.edu/about/employment.html">Employment</a></li>
+                  <li><a href="https://its.ucsc.edu/terms/">Privacy&nbsp;Policy&nbsp;&amp;&nbsp;Terms&nbsp;of&nbsp;Use</a></li>
+                  <li><a href="https://safe.ucsc.edu">Sexual&nbsp;Violence&nbsp;Prevention&nbsp;&amp;&nbsp;Response</a></li>
+                </ul>
+
+              </div>
+          </div>
+        </div>
+
+      </div><!-- /content -->
+    </div><!-- /container -->
+  </div><!-- /wrap -->
+
+{% include analytics.html %}
+
+</body>
+</html>
