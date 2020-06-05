@@ -1,4 +1,4 @@
-# Making Sense of the Current Campus Climate 
+# UC Santa Cruz Roadmap to Recovery
 
 Built with Jekyll, hosted in the campus WCMS.
 
