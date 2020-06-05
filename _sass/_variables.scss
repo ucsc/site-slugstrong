@@ -1,0 +1,56 @@
+@charset "utf-8";
+// Define defaults for each variable.
+
+/*--------------------------------------------------------------
+## Typography
+--------------------------------------------------------------*/
+
+$base-font-size: 1.6rem !default;
+$base-font-weight: 400 !default;
+$small-font-size: $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+$spacing-unit: 30px !default;
+
+/*--------------------------------------------------------------
+### UCSC Colors
+--------------------------------------------------------------*/
+
+$ucsc-primary-blue: #003c6c;
+$ucsc-primary-yellow: #fdc700;
+$ucsc-light-blue: #006aad;
+$ucsc-lighter-blue: #13a5dc;
+$ucsc-orange: #f29813;
+$ucsc-light-orange: #ffbf00;
+$ucsc-green: #93c02d;
+$ucsc-blue-green: #007988;
+$ucsc-magenta: #da216d;
+
+/*--------------------------------------------------------------
+### General Colors
+--------------------------------------------------------------*/
+
+$text-color: #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color: $ucsc-light-blue !default;
+$grey-color: #737373 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark: darken($grey-color, 25%) !default;
+$table-text-align: left !default;
+$white: #ffffff;
+
+/*--------------------------------------------------------------
+## Structure
+--------------------------------------------------------------*/
+
+// Width of the content area
+$size__max-width: 67.5em; //1080px;
+$size__desktop-max-width: $size__max-width; // 1170px
+$size__tablet-max-width: 48em; //768px or iPad portrait;
+$size__phone-max-width: 22.5em; //360px
+// $size_desktop-max-width: 67.5em; //1080px;
+$content-width: $size__max-width !default;
+$on-palm: 600px !default;
+$on-laptop: 800px !default;
+$on-phone: 25.938em; //415px or 1px wider than the widest portrait phone;
+$on-tablet: 48em; //768px or iPad portrait;
+$on-desktop: 48em;

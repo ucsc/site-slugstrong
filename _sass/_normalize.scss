@@ -1,0 +1,87 @@
+/**
+ * Font reset
+ */
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: $base-font-size;
+}
+
+p,
+pre,
+blockquote,
+ul,
+ol,
+dl,
+figure,
+figcaption,
+table,
+fieldset,
+details {
+    font-size: $base-font-size;
+}
+
+h1 {
+    @include relative-font-size(2);
+}
+
+h2 {
+    @include relative-font-size(0.0875);
+    font-weight: 400;
+}
+
+h3,
+legend {
+    @include relative-font-size(0.7375);
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #333333;
+}
+
+// h4 {
+// @include relative-font-size(1.2);
+// }
+//
+// h5 {
+// @include relative-font-size(1);
+// }
+//
+// h6 {
+// @include relative-font-size(0.875);
+// }
+.page-top #topNav {
+    @include relative-font-size(0.9);
+}
+
+.names .secondary-name,
+.names .secondary-name>* {
+    @include relative-font-size (2.25);
+}
+
+#mainNav li,
+.site-nav li {
+    @include relative-font-size (1.15);
+}
+
+@media screen and (min-width: 992px) {
+    #mainNav li,
+    .site-nav li {
+        @include relative-font-size (1.35);
+    }
+}
+
+.main-footer {
+    .footer-left {
+        .address {
+            .location {
+                @include relative-font-size (.95);
+            }
+            .copyright {
+                @include relative-font-size (.8);
+            }
+        }
+    }
+}
