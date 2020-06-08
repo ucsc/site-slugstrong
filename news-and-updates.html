@@ -1,0 +1,28 @@
+---
+layout: page
+collection: announcements
+data: feed
+title: "News &amp; Updates"
+description: >
+  Clone campus status box
+order: 2
+sidebar: true
+left_col: true
+front:
+  bg: "#f29813"
+  color: "#fff"
+  icon: "megaphone-12.svg"
+---
+ {%- if site.posts.size > 0 -%}
+<ul class="post-list">
+ {%- for post in site.posts -%}
+ <li class="post-list-item">
+ <h3>
+    <a class="post-link" href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a>
+  </h3>
+  </li>
+  {% endfor %}
+  </ul>
+  {% endif %}

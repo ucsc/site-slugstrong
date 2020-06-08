@@ -7,7 +7,7 @@ timezone: "America/Los_Angeles"
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:month/:title/
+permalink: /news-and-updates/:year-:month-:title/
 
 plugins:
   - jekyll-feed
