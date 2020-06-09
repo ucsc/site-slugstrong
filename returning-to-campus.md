@@ -20,8 +20,9 @@ There are five general phases to campus COVID-19 operating status. They align wi
 
 Increases in county or regional COVID-19 positive cases may require regional Public Health Departments (County of Santa Cruz, Santa Clara County, etc.) to issue new orders that may result in the campus adjusting plans and reverting to prior phases.
 
-
-Instruction, research, co-curricular and housing planning
+### Instruction, research, co-curricular and housing planning
+## Instruction, research, co-curricular and housing planning
+# Instruction, research
 
 The Academic Recovery and Resiliency Task Force continues its work in developing the proposals for research, instruction, co-curricular activities, student housing and dining services. As proposals and recommendations come from this group, the Operations and Employee Recovery and Resiliency Task Force works to operationalize them in a way to advance public health and comply with the many Federal, State, County, and UC directives and guidelines framing campus in-person resumption efforts. 
 
