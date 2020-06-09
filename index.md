@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Moving beyond COVID-19"
+title: "Roadmap to Recovery"
 menu: "Home"
 order: 1
 sidebar: true
