@@ -22,6 +22,7 @@ front:
       {{ post.title | escape }}
     </a>
   </h3>
+  <span class="post-meta">By: <span itemprop="author"><a href="{{post.author_email}}">{{post.author}}</a></span>, {{post.date | date_to_string }}</span>
   </li>
   {% endfor %}
   </ul>
