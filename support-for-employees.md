@@ -12,7 +12,7 @@ title: Support for Employees
 description: >
   Subpage with links to shr.ucsc.edu apo.ucsc.edu other resources
 ---
-Staff Human Resources offers a wealth of support and is holding weekly [virtual office hours](https://shr.ucsc.edu/covid-19-resources/index.html#new%3Avirtualofficehours) for staff. 
+*Staff Human Resources offers a wealth of support and is holding weekly [virtual office hours](https://shr.ucsc.edu/covid-19-resources/index.html#new%3Avirtualofficehours) for staff, and the [Academic Personnel Office](https://apo.ucsc.edu/covid-19/index.html) is providing information for academic employees, supervisors and administrators*
 
 # Leave Information
 
@@ -27,3 +27,4 @@ Staff Human Resources offers a wealth of support and is holding weekly [virtual 
 * [Support for student employees](https://shr.ucsc.edu/covid-19-resources/index.html#questionsforstudentemployees)
 * [Information about time and attedance](https://shr.ucsc.edu/covid-19-resources/index.html#questionsabouttimeandattendance)
 * [General questions](https://shr.ucsc.edu/covid-19-resources/index.html#generalquestions)
+
