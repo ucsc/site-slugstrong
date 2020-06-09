@@ -17,16 +17,15 @@ front:
 <ul class="post-list">
  {%- for post in site.posts -%}
  <li class="post-list-item">
- <h3>
+ <h2>
     <a class="post-link" href="{{ post.url | relative_url }}">
       {{ post.title | escape }}
-   COVID-19 Recovery and Resiliency Planning Update
 
- 
-   
+
+
    </a>
-  </h3>
-  <span class="post-meta">By: <span itemprop="author"><a href="{{post.author_email}}">{{post.author}}</a></span>, {{post.date | date_to_string }}</span>
+  </h2>
+  <span class="post-meta">By: <span itemprop="author"><a href="mailto:{{post.author_email}}">{{post.author}}</a></span>, {{post.date | date: '%B %d, %Y' }}</span>
   </li>
   {% endfor %}
   </ul>

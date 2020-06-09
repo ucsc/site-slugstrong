@@ -4,23 +4,28 @@
     color: rgba(7, 78, 132, 1.00);
 }
 
-// h2 {
-// font-size: 1.58rem;
-// font-weight: 400;
-// }
-//
-// h3 {
-// font-size: 1.18rem;
-// text-transform: uppercase;
-// font-weight: 400;
-// color: #333333;
-// }
 #sprflt {
     .main-content,
     .sidebar {
         float: none;
         margin: 0;
         width: 100%;
+    }
+}
+
+.post-list {
+    list-style-type: none;
+    margin: 0;
+    .post-list-item {
+        h2 {
+            @include relative-font-size (1.25);
+        }
+        margin: 0 0 $spacing-unit 0;
+    }
+    .post-meta {
+        font-size: 1.4rem;
+        @include relative-font-size(0.875);
+        color: $grey-color;
     }
 }
 

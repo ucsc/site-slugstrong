@@ -1,9 +1,9 @@
 ---
-title: Rad First Post
-date: 2020-06-08
+title: Rad Second Post
+date: 2020-06-09
 author: Jason Chafin
 author_email: jchafin@ucsc.edu
 layout: post
 ---
 
-Rad post text
+Rad second post text
