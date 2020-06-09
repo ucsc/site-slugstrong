@@ -6,11 +6,13 @@ order: 1
 sidebar: true
 left_col: true
 description: >
-  What's behind the unsanctioned graduate student strike?
+  News and information about how the campus moves beyond COVID-19
 ---
 
-As one of the most respected public research universities both nationally and internationally, UC Santa Cruz offers world-class facilities on one of the most visually spectacular settings in higher education. But this distinction is not without its own challenges. The desirability of our beautiful campus is matched by the attraction of the city and county of Santa Cruz itself, which in turn has lately drawn new residents commuting to nearby Silicon Valley. 
+Two tasks forces are focused on planning for how the campus can begin to resume regular operations. 
 
-These factors have created an environment in which finding an appropriate rental can be both difficult and costly--a reality that each and every person on our campus understands. It is a crisis that is complex, systemic and requires the serious attention of our whole community to solve.
+The first task force, focused on academic recovery and resiliency, is chaired by Interim Campus Provost and Executive Vice Chancellor Lori Kletzer. The focus of this group is identifying the possible modalities of our teaching, learning, and research, and related student affairs, housing and residential life operations for the coming 2020-21 academic year.
 
-Unfortunately, however, rather than working hand in hand to address the underlying fundamentals, our graduate teaching assistants have engaged in a grade strike which has recently evolved--for some--into a full teaching strike, unsanctioned by their own union.
+The second task force, focused on operations and employee recovery and resiliency, is chaired by Vice Chancellor for Business and Administration Sarah Latham. The focus of this group is on community and morale, how employees return to work, how people navigate the fears and uncertainties of returning to work, and how the campus leverages opportunities that have emerged over the last couple of months.
+
+As these groups identify recommendations, information will be shared with the campus community through campus emails and on this website.
