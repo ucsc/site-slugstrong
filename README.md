@@ -1,6 +1,8 @@
 # UC Santa Cruz Roadmap to Recovery
 
-Built with Jekyll, hosted in the campus WCMS.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4fc59578-e400-4c10-bc99-a3804eb38230/deploy-status)](https://app.netlify.com/sites/ucsc-recovery/deploys)
+
+Built with Jekyll, hosted on Netlify.
 
 ## Local development
 
