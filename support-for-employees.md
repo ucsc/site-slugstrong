@@ -14,15 +14,16 @@ description: >
 ---
 Staff Human Resources offers a wealth of support and is holding weekly [virtual office hours](https://shr.ucsc.edu/covid-19-resources/index.html#new%3Avirtualofficehours) for staff. 
 
-## Leave Information
+# Leave Information
 
-* UC's expanded paid administrative leave program
-* Emergency paid sick leave
-* Expanded family medical leave
+* [UC's expanded paid administrative leave program](https://shr.ucsc.edu/covid-19-resources/index.html#ucexpandedpaidadministrativeleave)
+* [Emergency paid sick leave](https://shr.ucsc.edu/covid-19-resources/index.html#emergencypaidsickleave)
+* [Expanded family medical leave](https://shr.ucsc.edu/covid-19-resources/index.html#expandedfamilymedicalleave)
 
-## Frequently Asked Questions
-* Support for managers and supervisors
-* Support for career employees
-* Support for noncareer employees
-* Support for student employees
+# Frequently Asked Questions
+* [Support for managers and supervisors](https://shr.ucsc.edu/covid-19-resources/index.html#questionsformanagerssupervisors)
+* [Support for career employees](https://shr.ucsc.edu/covid-19-resources/index.html#questionsforcareeremployees)
+* [Support for noncareer employees](https://shr.ucsc.edu/covid-19-resources/index.html#questionsfornon-careeremployeescontractbyagreementlimitedopenrecruitmentandnon-recruitmentpositions)
+* [Support for student employees](https://shr.ucsc.edu/covid-19-resources/index.html#questionsforstudentemployees)
 * [Information about time and attedance](https://shr.ucsc.edu/covid-19-resources/index.html#questionsabouttimeandattendance)
+* [General questions](https://shr.ucsc.edu/covid-19-resources/index.html#generalquestions)
