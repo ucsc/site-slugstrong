@@ -3,7 +3,7 @@ left_col: true
 front:
   bg: '#13a5dc'
   color: '#fff'
-  icon: home-7.svg
+  icon: laptop-4.svg
 layout: page
 order: 6
 menu: Support for Employees

@@ -10,7 +10,7 @@ left_col: true
 front:
   bg: "#da216d"
   color: "#fff"
-  icon: "newtons-cradle.svg"
+  icon: "school-28.svg"
 category: impacts
 ---
 This page redirects to https://keepteaching.ucsc.edu/

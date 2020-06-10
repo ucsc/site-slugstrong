@@ -10,6 +10,6 @@ left_col: true
 front:
   bg: "#93c02d"
   color: "#fff"
-  icon: "construction-28.svg"
+  icon: "school-25.svg"
 ---
 
