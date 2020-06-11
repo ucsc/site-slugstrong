@@ -8,7 +8,7 @@ sidebar: true
 left_col: true
 order: 7
 front: 
-  bg: "#13a5dc"
+  bg: "#f29813"
   color: "#fff"
   icon: "speech-bubble-6.svg"
 ---

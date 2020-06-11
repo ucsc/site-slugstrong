@@ -8,7 +8,7 @@ order: 4
 sidebar: true
 left_col: true
 front:
-  bg: "#da216d"
+  bg: "#13a5dc"
   color: "#fff"
   icon: "school-28.svg"
 category: impacts

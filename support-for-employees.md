@@ -1,7 +1,7 @@
 ---
 left_col: true
 front:
-  bg: '#13a5dc'
+  bg: '#93c02d'
   color: '#fff'
   icon: laptop-4.svg
 layout: page
