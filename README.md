@@ -18,7 +18,7 @@ This is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker]
 ### Installation
 
 1. Clone this repo
-2. in terminal, `cd` into this new repo's directory
-2. in terminal, run `docker-compose up`
-3. load site at `http://0.0.0.0:4000/`
+2. In terminal, `cd` into this new repo's directory
+2. In terminal, run `docker-compose up`
+3. Load site at `http://0.0.0.0:4000/`
 4. Profit!
