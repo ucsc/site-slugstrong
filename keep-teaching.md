@@ -11,6 +11,5 @@ front:
   bg: "#13a5dc"
   color: "#fff"
   icon: "school-28.svg"
-category: impacts
 ---
 This page redirects to https://keepteaching.ucsc.edu/
