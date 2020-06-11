@@ -6,7 +6,7 @@ Website for the UC Santa Cruz Roadmap to Recovery (from COVID-19). Built with Je
 
 url: [https://recovery.ucsc.edu](https://recovery.ucsc.edu)
 
-Author: [Jason Chafin](https://github.com/Herm71)
+Lead: [Jason Chafin](https://github.com/Herm71)
 
 Contributor(s): [Rob Knight](https://github.com/knice)
 
