@@ -3,7 +3,7 @@ left_col: true
 front:
   bg: '#FFC400'
   color: '#fff'
-  icon: tree-12.svg
+  icon: "tree-12.svg"
 layout: page
 order: 3
 sidebar: true
