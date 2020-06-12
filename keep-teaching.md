@@ -2,7 +2,7 @@
 layout: page
 title: "Keep Teaching"
 description: >
-  link to keepteaching.ucsc.edu
+  Most instruction in fall quarter will be remote. The Center for Innovations in Teaching & Learning is providing support and resources for instructors. 
 menu: "Campus Impacts"
 order: 4
 sidebar: true
