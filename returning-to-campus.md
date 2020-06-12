@@ -13,6 +13,14 @@ description: >
 category: return
 ---
 
+# Create a Workplace Plan
+# Do Your Part
+# Checking for Symptoms
+# Download Worksite Signs
+# Committees
+
+
+
 To support the public health of our community, the in-person return of our workforce and our students to onsite operations at all UC Santa Cruz locations will be conducted in a phased manner. The guiding emphasis of decisions will be on public health and reducing COVID-19 spread, while supporting our academic mission. In addition to the planning outlined below, work groups are also focused on several other areas of in-person resumption planning, including student support services, employee resiliency and morale, and remote working best practices and guidelines. 
 
 Though Santa Cruz County has been approved to move to Stage 2 of the [California Resilience Roadmap to Recovery](https://covid19.ca.gov/roadmap/), county orders currently allow us to operate only those activities that facilitate remote learning or performing essential functions. Higher education is listed by the state as one of the sectors still not allowed to fully operate in-person. The majority of operations continue to be remote. Essential functions allowed to take place on-site must continue to be undertaken in compliance with existing orders from the state and county. We are closely monitoring and assessing these orders as they are updated.
