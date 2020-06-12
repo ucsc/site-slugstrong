@@ -2,7 +2,7 @@
 layout: page
 title: "Support for Students"
 description: >
-  Subpage with links to keeplearning.ucsc.edu and studentsuccess.ucsc.edu
+  The Division of Student Success continues to serve and support students so they can continue to thrive both personally and academically during this uncertain time.
 menu: "Support for Students"
 order: 5
 sidebar: true
