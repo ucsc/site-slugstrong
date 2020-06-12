@@ -19,14 +19,7 @@ layout: default
             </div>
           </section>
         {% endif %}
-
-          <div class="row">
-            <div class="main-content">
-              {{ content }}
-            </div>
-          </div>
-
-         <div class="row">
+<div class="row">
            <ul class="grid-container">
               {% assign blocks = site.pages | sort: "order" %}
               {% for p in blocks %}
@@ -45,4 +38,9 @@ layout: default
               {% endif %}
               {% endfor %}
             </ul>
+          </div>
+          <div class="row">
+            <div class="main-content">
+              {{ content }}
+            </div>
           </div>
