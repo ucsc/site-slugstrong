@@ -9,7 +9,7 @@ order: 3
 sidebar: true
 title: Returning to campus
 description: >
-  Operational information
+  UC Santa Cruz is beginning to resume more on-campus operations. Learn more about what is needed to get the campus ready and start developing a worksite plan. 
 category: return
 ---
 
