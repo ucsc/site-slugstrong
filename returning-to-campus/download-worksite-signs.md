@@ -3,6 +3,7 @@ layout: page
 title: Download worksite signs
 description: >
   Download worksite signs
+sidebar: true
 category: return
 return_order: 4
 button:

@@ -4,7 +4,6 @@ title: Committees
 description: >
   Committees
 sidebar: true
-left_col: true
 category: return
 return_order: 5
 button:

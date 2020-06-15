@@ -3,6 +3,7 @@ layout: page
 title: Create a workplace plan
 description: >
   Create a workplace plan
+sidebar: true
 category: return
 return_order: 1
 button:
