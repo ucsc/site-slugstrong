@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Create a workplace plan
+title: Committees
 description: >
-  Create a workplace plan
+  Committees
 category: return
-return_order: 1
+return_order: 5
 button:
   bg: '#FFC400'
   color: '#fff'

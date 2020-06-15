@@ -1,0 +1,26 @@
+<div class="row">
+           <ul class="grid-container">
+              {% assign blocks = site.pages | where:"category", page.category | sort: "return_order"%}
+              {% for p in blocks %}
+              {% if p.name != 'returning-to-campus.md' %}
+              {% if p.button %}
+               <li>
+                  <a style="background-color: {{ p.button.bg }}; color: {{ p.button.color }};" href="{{ p.url | relative_url }}">
+                  {% include svg/{{ p.button.icon }} %}
+                  <div class="block profile-block" id="profile">
+                    <h3 class="block-header">{{ p.title }}</h3>
+                    <p class="inner">
+                    {{ p.description }}
+                    </p>
+                  </div>
+                  </a>
+                </li>
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+
+
+
+
