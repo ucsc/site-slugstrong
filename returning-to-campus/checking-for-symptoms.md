@@ -3,7 +3,8 @@ layout: page
 title: Checking for symptoms
 description: >
   Checking for symptoms
-category: return
+walter: return
+return_order: 3
 ---
 
 Hello world.

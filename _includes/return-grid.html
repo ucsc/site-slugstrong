@@ -1,0 +1,8 @@
+<div class="row">
+           <ul class="grid-container">
+              {% assign blocks = site.pages | where:"category", page.category%}
+              {% for p in blocks %}
+              <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
