@@ -29,29 +29,32 @@ h1 {
 }
 
 h2 {
-    @include relative-font-size(0.875);
+    @include relative-font-size(1.5);
     font-weight: 400;
 }
 
 h3,
 legend {
-    @include relative-font-size(0.7375);
-    text-transform: uppercase;
-    font-weight: 400;
-    color: #333333;
+    @include relative-font-size(1.5);
 }
 
-// h4 {
-// @include relative-font-size(1.2);
-// }
-//
-// h5 {
-// @include relative-font-size(1);
-// }
+h4 {
+    @include relative-font-size(1.2);
+}
+
+h5 {
+    @include relative-font-size(1);
+}
+
 //
 // h6 {
 // @include relative-font-size(0.875);
 // }
+#title,
+.page-title {
+    @include relative-font-size (2.625);
+}
+
 .page-top #topNav {
     @include relative-font-size(0.9);
 }
