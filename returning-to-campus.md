@@ -12,13 +12,6 @@ description: >
   UC Santa Cruz is beginning to resume more on-campus operations. Learn more about what is needed to get the campus ready and start developing a worksite plan. 
 category: return
 ---
-
-# Create a Workplace Plan
-# Do Your Part
-# Checking for Symptoms
-# Download Worksite Signs
-# Committees
-
 {% include return-grid.html %}
 
 To support the public health of our community, the in-person return of our workforce and our students to onsite operations at all UC Santa Cruz locations will be conducted in a phased manner. The guiding emphasis of decisions will be on public health and reducing COVID-19 spread, while supporting our academic mission. In addition to the planning outlined below, work groups are also focused on several other areas of in-person resumption planning, including student support services, employee resiliency and morale, and remote working best practices and guidelines. 
