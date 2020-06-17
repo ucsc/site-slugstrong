@@ -10,7 +10,7 @@ menu: Support for Employees
 sidebar: true
 title: Support for Employees
 description: >
-  Subpage with links to shr.ucsc.edu apo.ucsc.edu other resources
+  Staff Human Resources and the Academic Personnel Officer are provided assistance and resources for employees.
 ---
 
 # Working Remotely
