@@ -12,11 +12,9 @@ front:
   icon: "speech-bubble-6.svg"
 ---
 
-## Campus status
-
 _Last update: June 15, 2020_
 
-Preventing the spread of COVID-19 is one of our highest priorities. 
+Preventing the spread of COVID-19 is one of our highest priorities. UC Santa Cruz is responding to concerns from the campus community regarding COVID-19.
 
 *   **Employees:** If you have tested positive for COVID-19, or were exposed to someone who tested positive, please email your supervisor and the Office of Emergency Services (Lisa Ehret, director) at [oes@ucsc.edu. ](mailto:oes@ucsc.edu. )
 *   **Students:** If you've tested positive for COVID-19, please call Student Health Services at 831-459-2591 so that medical staff members are aware and coordinate care if needed.
