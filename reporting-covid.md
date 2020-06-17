@@ -2,7 +2,7 @@
 layout: page
 title: "Reporting COVID-19"
 description: >
-Preventing the spread of COVID-19 is one of our highest priorities. 
+  Preventing the spread of COVID-19 is one of our highest priorities. 
 sidebar: true
 left_col: true
 order: 7
