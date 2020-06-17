@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Reporting Covid"
+title: "Reporting COVID-19"
 description: >
-  Reporting COVID-19
+  How report COVID-19
 sidebar: true
 left_col: true
 order: 7
