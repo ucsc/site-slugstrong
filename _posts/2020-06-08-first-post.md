@@ -1,8 +1,8 @@
 ---
-title: Rad First Post
-date: 2020-06-08
-author: Jason Chafin
-author_email: jchafin@ucsc.edu
+title: Planning for Academic Year 2020-2021
+date: 2020-06-17
+author: Chancellor Cynthia Larive
+author_email: chancellor@ucsc.edu
 layout: post
 ---
 
