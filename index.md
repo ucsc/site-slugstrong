@@ -9,7 +9,7 @@ description: >
   News and information about how the campus moves beyond COVID-19
 ---
 
-Banana Slugs—we can't wait for you to be back on campus. UC Santa Cruz is carefully beginning to resume some on-campus research and in the coming months plans to increase other operations. 
+**Banana Slugs—we can't wait for you to be back on campus. UC Santa Cruz is carefully beginning to resume some on-campus research and in the coming months plans to increase other operations.**
 
 COVID-19 requires us to rethink how we teach, research, and work. There are new policies, guidelines, and protocols that we must all follow to prevent the virus's spread. 
 
