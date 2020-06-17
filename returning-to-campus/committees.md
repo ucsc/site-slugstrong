@@ -12,4 +12,34 @@ button:
   icon: "tree-12.svg"
 ---
 
-Hello world.
+## Recovery and Resiliency Steering Committee
+
+* Chancellor
+* Chair, Academic Recovery Committee
+* Chair, Operational Recovery Committee
+* Representatives from Task Force Sub-Committees
+* Representatives from the Academic Senate
+
+### Academic Recovery and Resiliency Task Force
+
+* Lori Kletzer, Campus Provost and Executive Vice Chancellor
+* Scott Brandt, Vice Chancellor, Research
+* Elizabeth Cowell, University Librarian
+* Anna Finn, Associate Chancellor and Chief of Staff
+* Richard Hughey, Vice Provost and Dean, Undergraduate Education
+* Sarah Latham, Vice Chancellor, Business and Administrative Services
+* Kimberly Lau, Chair, Academic Senate
+* Herbert K. H. Lee, Vice Provost, Academic Affairs
+* Grace McClintock, Assistant Vice Provost, Academic Personnel
+* Sue Matthews, Associate Vice Chancellor, Colleges, Housing and Educational Services
+* Jaye Padgett, Vice Provost, Student Success
+* Kimberly Register, Director, Budget and Resource Management
+* Quentin Williams, acting Vice Provost and Dean, Graduate Studies
+
+### Operations and Employee Recovery and Resiliency Task Force 
+
+* Sarah Latham, Vice Chancellor, Business and Administrative Services
+* Steve Stein, AVC, Staff Human Resources, chair for Community and Morale Workgroup
+* Jean Marie Scott, AVC, Risk and Safety Services, chair for Operations Resiliency Workgroup
+* Adrienne Harrell, Learning and Development Manager, Staff Human Resources, chair for Employee Resiliency Workgroup 
+* Biju Kamaleswaran, Associate Vice Chancellor & Campus Controller, chair for Leveraging Opportunities Workgroup
