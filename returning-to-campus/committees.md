@@ -2,7 +2,7 @@
 layout: page
 title: Committees
 description: >
-  Committees
+  The Recovery and Resiliency Steering Committee is guiding the work of two task forces.
 sidebar: true
 category: return
 return_order: 5
