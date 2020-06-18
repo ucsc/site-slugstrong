@@ -18,6 +18,7 @@ Preventing the spread of COVID-19 is one of our highest priorities. UC Santa Cru
 
 *   **Employees:** If you have tested positive for COVID-19, or were exposed to someone who tested positive, please email your supervisor and the Office of Emergency Services (Lisa Ehret, director) at [oes@ucsc.edu. ](mailto:oes@ucsc.edu. )
 *   **Students:** If you've tested positive for COVID-19, please call Student Health Services at 831-459-2591 so that medical staff members are aware and coordinate care if needed.
+*   **Managers and Supervisors:** UC Santa Cruz has [guidance](https://news.ucsc.edu/2020/03/covid-guidance-managers-supervisors.html) about how to respond to reports of COVID-19 exposures and/or positive test results.
 
 Santa Cruz County [announced its first confirmed](http://www.santacruzhealth.org/Portals/7/Pdfs/Coronavirus/COVID-19%20PR%203_6_20_FINAL.pdf) case on March 7 and [currently has 257 cases](http://santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx). People with questions about COVID-19 can call Santa Cruz County at 831-454-4242 between 8 a.m. and 6 p.m., Monday through Friday. Outside of these hours, people can call United Way of Santa Cruz County at 211 or text "covid19" to 211211.
 
