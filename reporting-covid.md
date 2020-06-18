@@ -47,7 +47,7 @@ Campus leaders are taking all appropriate measures to protect our community and 
 
 <tr>
 
-<th scope="row">Current Campus Cases (residing on campus in Santa Cruz County<sup>[1](#fn1)</sup>)</th>
+<th scope="row">Current Campus Cases (residing on campus in Santa Cruz County<sup>[1]</sup>)</th>
 
 <td>0</td>
 
@@ -55,7 +55,7 @@ Campus leaders are taking all appropriate measures to protect our community and 
 
 <tr>
 
-<th scope="row">Current Campus Cases (residing outside Santa Cruz County<sup>[2](#fn2)</sup>)</th>
+<th scope="row">Current Campus Cases (residing outside Santa Cruz County<sup>[2]</sup>)</th>
 
 <td>0</td>
 
