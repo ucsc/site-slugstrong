@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Reporting COVID-19"
+title: "Reporting and Tracking COVID-19"
 description: >
   Preventing the spread of COVID-19 is one of our highest priorities. 
 sidebar: true
@@ -22,6 +22,8 @@ Preventing the spread of COVID-19 is one of our highest priorities. UC Santa Cru
 Santa Cruz County [announced its first confirmed](http://www.santacruzhealth.org/Portals/7/Pdfs/Coronavirus/COVID-19%20PR%203_6_20_FINAL.pdf) case on March 7 and [currently has 257 cases](http://santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx). People with questions about COVID-19 can call Santa Cruz County at 831-454-4242 between 8 a.m. and 6 p.m., Monday through Friday. Outside of these hours, people can call United Way of Santa Cruz County at 211 or text "covid19" to 211211.
 
 Campus leaders are taking all appropriate measures to protect our community and closely following the guidance of our state and nation’s top health leaders to ensure we continue to support the safety and well-being of our students, faculty, and staff.
+
+### Tracking COVID-19
 
 <table><caption>Campus COVID-19 summary</caption>
 
