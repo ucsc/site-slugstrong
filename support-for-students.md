@@ -18,7 +18,7 @@ UC Santa Cruz staff members are dedicated to helping and serving Banana Slugs no
 # Division of Student Success
 
 - [Website](https://studentsuccess.ucsc.edu/index.html)
-- [Contact[(https://studentsuccess.ucsc.edu/staff/index.html)
+- [Contact](https://studentsuccess.ucsc.edu/staff/index.html)
 
 ## Health and Wellnes
 
