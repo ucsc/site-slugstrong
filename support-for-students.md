@@ -71,6 +71,38 @@ Even though we may be physically apart, Slugs are all in this together and stude
 * [Athletics and Recreation](https://opers.ucsc.edu)
 
 
+<body>
+
+<h2>Service</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Service</th>
+    <th>Status</th> 
+    <th>More info</th>
+  </tr>
+  <tr>
+    <td>Academic Advising</td>
+    <td>Academic Advisers are working remotely and are available for student consultations and appointments. See the link at left for information about making an appointment.</td>
+    <td>Make an advising appointment</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+
 <table>
 <tbody>
 <h3>Service</h3>
