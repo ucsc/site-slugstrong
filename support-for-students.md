@@ -71,10 +71,8 @@ Even though we may be physically apart, Slugs are all in this together and stude
 * [Athletics and Recreation](https://opers.ucsc.edu)
 
 
-<table style="width: 679px;">
+<table>
 <tbody>
-<tr style="height: 62px;">
-<td style="width: 273.0027160644531px; height: 62px;">
 <h3>Service</h3>
 </td>
 <td style="width: 194.7010955810547px; height: 62px;">
