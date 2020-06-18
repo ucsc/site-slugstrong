@@ -20,7 +20,7 @@ Even though we may be physically apart, Slugs are all in this together and stude
 - [Website](https://studentsuccess.ucsc.edu/index.html)
 - [Contact](https://studentsuccess.ucsc.edu/staff/index.html)
 
-## Health and Wellnes
+## Health and Wellness
 
 - [Basic Needs](https://basicneeds.ucsc.edu/)
 - [Campus Advocacy Resources and Education (CARE)](https://care.ucsc.edu/)
