@@ -17,4 +17,5 @@ This site is meant to provide everyone in our campus community with crucial info
 
 This will continue to be an incredibly dynamic moment in our lives. Never before have Banana Slugs needed to move so fast and adapt so quickly. 
 
- *Questions or feedback? Please email [publicaffairs@ucsc.edu](mailto:publicaffairs@ucsc.edu).* 
+ <p style=text-align:right">*Questions or feedback? Please email [publicaffairs@ucsc.edu](mailto:publicaffairs@ucsc.edu).*</p>. 
+   
