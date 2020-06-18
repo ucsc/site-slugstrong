@@ -13,7 +13,7 @@ front:
   icon: "school-25.svg"
 ---
 
-UC Santa Cruz staff members are dedicated to helping and serving Banana Slugs no matter where they are. Staff members continue to provide support and services. An overview of key services is available online, and below is a list of student-focused offices. 
+Even though we may be physically apart, Slugs are all in this together and students have a number of support and engagement services available to ensure their success. Student Health Services, Counseling and Psychological Services, Basic Needs support, Learning Support Services, and CARE are open and providing services remotely. A full list of services and operating hours is updated regularly. Below is a list of student-focused offices.
 
 # Division of Student Success
 
@@ -67,8 +67,6 @@ UC Santa Cruz staff members are dedicated to helping and serving Banana Slugs no
 * [Housing](https://housing.ucsc.edu/)
 * [Dining](https://dining.ucsc.edu/)
 
-# Undergraduate Education
-
+# More
 * [Advising](https://advising.ucsc.edu)
-
-# Athletics and Recreation
+* [Athletics and Recreation](https://opers.ucsc.edu)
