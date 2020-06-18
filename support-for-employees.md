@@ -15,7 +15,7 @@ description: >
 
 # Working Remotely
 
-To help assist employees and students during COVID-19, Information Technology Services has [compiled resources](https://its.ucsc.edu/covid-19/index.html) for the campus community. 
+To help assist employees and students during COVID-19, Information Technology Services has [compiled resources](https://its.ucsc.edu/covid-19/index.html) for the campus community. Environmental Health and Safety has information about [creating an ergonomic workspace](https://ehs.ucsc.edu/programs/ergo/index.html) at home. 
 
 # Leaves, Benefits, and FAQs
 
