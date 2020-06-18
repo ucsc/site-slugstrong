@@ -8,7 +8,7 @@ order: 5
 sidebar: true
 left_col: true
 front:
-  bg: "#13a5dc"
+  bg: "#f29813"
   color: "#fff"
   icon: "school-25.svg"
 ---

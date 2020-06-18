@@ -5,7 +5,7 @@ front:
   color: '#fff'
   icon: "tree-12.svg"
 layout: page
-order: 3
+order: 2
 sidebar: true
 title: Returning to Campus
 description: >

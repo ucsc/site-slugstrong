@@ -5,9 +5,9 @@ description: >
   Preventing the spread of COVID-19 is one of our highest priorities. 
 sidebar: true
 left_col: true
-order: 7
+order: 3
 front: 
-  bg: "#f29813"
+  bg: "#13a5dc"
   color: "#fff"
   icon: "speech-bubble-6.svg"
 ---
