@@ -48,10 +48,9 @@ Even though we may be physically apart, Slugs are all in this together and stude
 ## Student Engagement
 - [Cultural Arts & Diversity](https://someca.ucsc.edu/about/our-offices/cultural-arts-and-diversity.html)
 - [Dean of Students](https://deanofstudents.ucsc.edu/#Dean%20of%20Students)
-- [KZSC Santa Cruz - From The Trees To The Seas, 88.1 FM](https://www.kzsc.org/)
-- [Slug Support Program Overview](https://deanofstudents.ucsc.edu/slug-support/program/)
-- [https://someca.ucsc.edu](https://someca.ucsc.edu/)
-- [https://deanofstudents.ucsc.edu/student-conduct/](https://deanofstudents.ucsc.edu/student-conduct/)
+- [KZSC](https://www.kzsc.org/)
+- [Slug Support](https://deanofstudents.ucsc.edu/slug-support/program/)
+- [SOMeCA](https://someca.ucsc.edu/)
 - [Student Organization Advising & Resources](https://someca.ucsc.edu/about/our-offices/soar.html)
 - [Student Volunteer Center](https://volunteer.ucsc.edu/)
 - [Student Media](https://someca.ucsc.edu/about/our-offices/student-media.html)
