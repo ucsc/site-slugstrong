@@ -20,7 +20,7 @@ The questionnaire is brief and should take less than four minutes to complete.
 
 Questionnaire results will be used for limited purposes, e.g. only be used for COVID-19 exposure contact tracing notification or for workers’ compensation claims. Questionnaire responses will not be maintained in employee personnel files. Responses will be stored in a secure, HIPAA compliant application and purged after 90 days.
 
-All employees who are working on a UCSC property (owned or leased), must register for the Symptom Check program. Once registered, employees will receive a daily symptom questionnaire each morning at 3 a.m. Employees must complete this questionnaire at home, before coming to work. 
+All employees who are working on a UCSC property (owned or leased), must [register for the Symptom Check program](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR). Once registered, employees will receive a daily symptom questionnaire each morning at 3 a.m. Employees must complete this questionnaire at home, before coming to work. 
 
 ### More information
 * Campus announcement
