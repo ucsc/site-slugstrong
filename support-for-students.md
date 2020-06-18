@@ -2,7 +2,7 @@
 layout: page
 title: "Support for Students"
 description: >
-  The Division of Student Success continues to serve and support students so they can continue to thrive both personally and academically during this uncertain time.
+  UC Santa Cruz continues to provide an array of support services so students—on campus or remote—can continue to thrive both personally and academically during this uncertain time.
 menu: "Support for Students"
 order: 5
 sidebar: true
@@ -13,3 +13,11 @@ front:
   icon: "school-25.svg"
 ---
 
+
+# Division of Student Success
+
+# Colleges, Housing, and Educational Services
+
+# Undergraduate Education
+
+# Athletics and Recreation
