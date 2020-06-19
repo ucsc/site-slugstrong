@@ -9,7 +9,7 @@ category:
   - committee
 return_order: 5
 button:
-  bg: '#FFC400'
+  bg: '#b4436cff'
   color: '#fff'
   icon: "filter-7.svg"
 ---

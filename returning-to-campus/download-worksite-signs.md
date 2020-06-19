@@ -7,7 +7,7 @@ sidebar: true
 category: return
 return_order: 4
 button:
-  bg: '#FFC400'
+  bg: '#48acf0ff'
   color: '#fff'
   icon: "download-11.svg"
 ---

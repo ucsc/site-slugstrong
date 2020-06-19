@@ -7,7 +7,7 @@ sidebar: true
 category: return
 return_order: 6
 button:
-  bg: '#FFC400'
+  bg: '#f78154ff'
   color: '#fff'
   icon: "book-20.svg"
 ---

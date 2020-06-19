@@ -7,7 +7,7 @@ sidebar: true
 category: return
 return_order: 1
 button:
-  bg: '#FFC400'
+  bg: '#8d91c7ff'
   color: '#fff'
   icon: "task-thin.svg"
 ---
