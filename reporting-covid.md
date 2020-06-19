@@ -9,7 +9,7 @@ order: 3
 front: 
   bg: "#13a5dc"
   color: "#fff"
-  icon: "speech-bubble-6.svg"
+  icon: "virus-1.svg"
 ---
 
 _Last update: June 15, 2020_
