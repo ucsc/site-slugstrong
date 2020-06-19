@@ -48,7 +48,7 @@ layout: default
           <ul>
             {% assign sub_pages = site.pages | where: "category", page.category | sort: "return_order" %}
             {% for sub_item in sub_pages %}
-              {% if sub_item.name != 'returning-to-campus.md' %}
+              {% if sub_item.name != 'returning-to-campus.md' and sub_item.name !="support-for-students.md" %}
                 <li><a {% if sub_item.url == page.url %}class="current"{% endif %} href="{{ sub_item.url }}">{{ sub_item.title }}</a></li>
               {% endif %}
             {% endfor %}

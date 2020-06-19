@@ -7,6 +7,7 @@ menu: "Support for Students"
 order: 5
 sidebar: true
 left_col: true
+category: student-support
 front:
   bg: "#8d91c7ff"
   color: "#fff"
