@@ -12,11 +12,19 @@ button:
   icon: "tree-12.svg"
 ---
 
-COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.
 
-Employees who work on-site at a UCSC property must complete a daily COVID-19 symptom check questionnaire prior to reporting for work. Once [registered](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR), employees will receive a daily symptom questionnaire each morning at 3 a.m. Employees must complete this questionnaire at home, before coming to work. The questionnaire is brief and should take less than four minutes to complete.
+**COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
+
+All employees who work on-site at a UCSC property (owner or leased) must complete a daily COVID-19 symptom check questionnaire prior to reporting for work. Effective immediatley, these employees [must enroll in the program](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR).
+
+Once [registered](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR), employees will receive a daily symptom questionnaire each morning at 3 a.m. Employees must complete this questionnaire at home, before coming to work.  The questionnaire is brief and should take less than four minutes to complete.
+
+Employees who are not working on-site consistently, but making occasional visits to work on-site, must complete a [Symptom Check Questionnaire](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_7WXdjRMMuOrb0yh) for each instance that they come to campus to work on-site.
+
+For employees working at the main campus, select your location, region, then your specific building. See [map](https://ucsc.maps.arcgis.com/apps/View/index.html?appid=519c606a04f04957be9d8f14af8a735e) for reference.
 
 Questionnaire results will be used for limited purposes, e.g. only be used for COVID-19 exposure contact tracing notification or for workers’ compensation claims. Questionnaire responses will not be maintained in employee personnel files. Responses will be stored in a secure, HIPAA compliant application and purged after 90 days.
+
 
 ### More information
 * Campus announcement
