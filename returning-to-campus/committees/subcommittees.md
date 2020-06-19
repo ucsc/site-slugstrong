@@ -5,7 +5,7 @@ description: >
   Subcommittees description
 sidebar: true
 category: committee
-return_order: 5
+return_order: 1
 button:
   bg: '#FFC400'
   color: '#fff'
