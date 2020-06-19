@@ -1,5 +1,5 @@
 <div class="row">
-           <ul class="grid-container">
+           <ul class="return-grid-container">
               {% assign blocks = site.pages | where:"category", page.category | sort: "return_order"%}
               {% for p in blocks %}
               {% if p.name != 'returning-to-campus.md' %}
