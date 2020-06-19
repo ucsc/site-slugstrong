@@ -13,7 +13,11 @@ front:
   icon: "school-25.svg"
 ---
 
-Even though we may be physically apart, Slugs are all in this together and students have a number of support and engagement services available to ensure their success. Student Health Services, Counseling and Psychological Services, Basic Needs support, Learning Support Services, and CARE are open and providing services remotely. A full list of services and operating hours is updated regularly. Below is a list of student-focused offices.
+Even though we may be physically apart, Slugs are all in this together and students have a number of support and engagement services available to ensure their success. Student Health Services, Counseling and Psychological Services, Basic Needs support, Learning Support Services, and CARE are open and providing services remotely. 
+
+A new [Keep Learning site](https://keeplearning.ucsc.edu) provides resources for students who are learning remotely. 
+
+A full list of services and operating hours is available online. Below is a list of student-focused offices.
 
 # Division of Student Success
 
