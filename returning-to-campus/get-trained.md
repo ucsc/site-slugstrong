@@ -2,7 +2,7 @@
 layout: page
 title: Get trained
 description: >
-  Get trained description
+  Faculty, staff, and students must take a new training about keeping a safe environment for working and learning.  
 sidebar: true
 category: return
 return_order: 2
