@@ -15,7 +15,6 @@ button:
 
 <body>
 
-<h2>Service</h2>
 
 <table style="width:100%">
   <tr>
