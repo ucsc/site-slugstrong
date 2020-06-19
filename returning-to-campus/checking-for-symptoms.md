@@ -9,7 +9,7 @@ return_order: 3
 button:
   bg: '#FFC400'
   color: '#fff'
-  icon: "tree-12.svg" #thermometer.png won't work
+  icon: "weather-134.svg"
 ---
 
 
