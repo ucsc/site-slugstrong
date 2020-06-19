@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Do your part
+title: Do Your Part
 description: >
   There are a few basic practices we should all adopt to take care of ourselves—and our community. 
 sidebar: true
