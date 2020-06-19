@@ -2,7 +2,7 @@
 layout: page
 title: Create a worksite plan
 description: >
-  Create a workplace plan
+  Department must create a worksite plan that meets current public health guidelines.
 sidebar: true
 category: return
 return_order: 1
