@@ -20,10 +20,10 @@ The second task force is focused on operations and employee recovery and resilie
 
 ## Recovery and Resiliency Steering Committee
 
-* Chancellor
-* Chair, Academic Recovery Committee
-* Chair, Operational Recovery Committee
-* Representatives from Task Force Sub-Committees
+* Chancellor Cynthia Larive
+* CPEVC Lori Kletezer (Chair, Academic Recovery Committee)
+* Vice Chancellor Sarah Latham (Chair, Operational Recovery Committee)
+* Representatives from task force subcommittees
 * Representatives from the Academic Senate
 
 ### Academic Recovery and Resiliency Task Force
@@ -45,7 +45,13 @@ The second task force is focused on operations and employee recovery and resilie
 ### Operations and Employee Recovery and Resiliency Task Force 
 
 * Sarah Latham, Vice Chancellor, Business and Administrative Services
+* Anna Finn, Associate Chancellor
 * Steve Stein, AVC, Staff Human Resources, chair for Community and Morale Workgroup
 * Jean Marie Scott, AVC, Risk and Safety Services, chair for Operations Resiliency Workgroup
 * Adrienne Harrell, Learning and Development Manager, Staff Human Resources, chair for Employee Resiliency Workgroup 
 * Biju Kamaleswaran, Associate Vice Chancellor & Campus Controller, chair for Leveraging Opportunities Workgroup
+* Lorena Peñaloza, Chief Campus Counsel
+* Linda Rhoads, Chief of Staff, Office of CPEVC
+* Kimberly Register, Director, Budget and Resource Management
+
+
