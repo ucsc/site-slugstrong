@@ -9,7 +9,7 @@ return_order: 2
 button:
   bg: '#FFC400'
   color: '#fff'
-  icon: "tree-12.svg"
+  icon: "globe-2.svg"
 ---
 
 Hello world.

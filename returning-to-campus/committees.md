@@ -9,7 +9,7 @@ return_order: 5
 button:
   bg: '#FFC400'
   color: '#fff'
-  icon: "tree-12.svg"
+  icon: "filter-7.svg"
 ---
 
 Chancellor Cynthia Larive has appointed a Recovery and Resiliency Steering Committee to guide the work of two task forces.
