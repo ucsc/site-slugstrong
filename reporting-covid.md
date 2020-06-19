@@ -7,7 +7,7 @@ sidebar: true
 left_col: true
 order: 3
 front: 
-  bg: "#13a5dc"
+  bg: "#00487cff"
   color: "#fff"
   icon: "virus-1.svg"
 ---

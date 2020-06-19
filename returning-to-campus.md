@@ -1,7 +1,7 @@
 ---
 left_col: true
 front:
-  bg: '#FFC400'
+  bg: '#3d7068ff'
   color: '#fff'
   icon: "tree-12.svg"
 layout: page

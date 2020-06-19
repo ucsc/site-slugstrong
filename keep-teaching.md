@@ -8,7 +8,7 @@ order: 4
 sidebar: true
 left_col: true
 front:
-  bg: "#13a5dc"
+  bg: "#ffbc42ff"
   color: "#fff"
   icon: "school-28.svg"
 ---
