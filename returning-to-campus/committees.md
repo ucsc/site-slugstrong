@@ -4,13 +4,17 @@ title: Committee and Task Forces
 description: >
   The Recovery and Resiliency Steering Committee is guiding the work of two task forces.
 sidebar: true
-category: return
+category: 
+  - return
+  - committee
 return_order: 5
 button:
   bg: '#FFC400'
   color: '#fff'
-  icon: "tree-12.svg"
+  icon: "filter-7.svg"
 ---
+
+[Subcommittees placeholder](/returning-to-campus/committees/subcommittees/)
 
 Chancellor Cynthia Larive has appointed a Recovery and Resiliency Steering Committee to guide the work of two task forces.
 

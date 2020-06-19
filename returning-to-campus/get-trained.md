@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Do your part
+title: Get trained
 description: >
-  Do your part
+  Get trained description
 sidebar: true
 category: return
-return_order: 2
+return_order: 6
 button:
   bg: '#FFC400'
   color: '#fff'
-  icon: "globe-2.svg"
+  icon: "book-20.svg"
 ---
 
-Hello world.
+Hello World
