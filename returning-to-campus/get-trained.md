@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get trained
+title: Get Trained
 description: >
   Faculty, staff, and students must take a new training about keeping a safe environment for working and learning.  
 sidebar: true
