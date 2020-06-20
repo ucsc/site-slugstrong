@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download worksite signs
+title: Download Worksite Signs
 description: >
   New signs will help provide visual cues to minimize exposure.
 sidebar: true
