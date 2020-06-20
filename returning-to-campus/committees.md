@@ -14,13 +14,15 @@ button:
   icon: "filter-7.svg"
 ---
 
-[Subcommittees placeholder](/returning-to-campus/committees/subcommittees/)
+
 
 Chancellor Cynthia Larive has appointed a Recovery and Resiliency Steering Committee to guide the work of two task forces.
 
 The first task force is focused on academic recovery and resiliency, and is chaired by Interim Campus Provost and Executive Vice Chancellor Lori Kletzer. The focus of this group is identifying the possible modalities of our teaching, learning, and research, and related student affairs, housing and residential life operations for the coming 2020-21 academic year.
 
 The second task force is focused on operations and employee recovery and resiliency and is chaired by Vice Chancellor for Business and Administration Sarah Latham. The focus of this group is on community and morale, how employees return to work, how people navigate the fears and uncertainties of returning to work, and how the campus leverages opportunities that have emerged over the last couple of months.
+
+View members of the academic and operational [work groups](/returning-to-campus/committees/subcommittees/).
 
 ## Recovery and Resiliency Steering Committee
 
