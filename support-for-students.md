@@ -20,7 +20,7 @@ The [Keep Learning site](https://keeplearning.ucsc.edu) provides resources and s
 
 A full list of services and operating hours is available online. Below is a list of student-focused offices.
 
-# Division of Student Affairs and Success 
+# Student Affairs and Success 
 
 - [Website](https://studentsuccess.ucsc.edu/index.html)
 - [Contact](https://studentsuccess.ucsc.edu/staff/index.html)
@@ -79,7 +79,9 @@ A full list of services and operating hours is available online. Below is a list
 * [Housing](https://housing.ucsc.edu/)
 * [Residential Colleges](https://ches.ucsc.edu/colleges/index.html)
 
-# Undergraduate Education
+# [Undergraduate Education
+* [Website](https://ue.ucsc.edu)
+* [Contact](https://ue.ucsc.edu/about/staff-directory.html)
 
 ## [Advising](https://advising.ucsc.edu)
 * [Colleges Academic Advising contacts and information](https://advising.ucsc.edu/about/colleges-advising/index.html)
