@@ -41,6 +41,7 @@ A full list of services and operating hours is available online. Below is a list
 - [Lionel Cantú Queer Center](https://queer.ucsc.edu/)
 - [UCSC Career Center](https://careers.ucsc.edu/)
 - [Disability Resource Center](https://drc.ucsc.edu/)
+- [Diversity, Equity, and Inclusion](https://diversity.ucsc.edu)
 - [Educational Opportunity Programs (EOP)](https://eop.ucsc.edu/)
 - [El Centro Resource Center](https://elcentro.ucsc.edu/)
 - [First Generation Initiative](https://firstgen.ucsc.edu/)
