@@ -79,7 +79,7 @@ A full list of services and operating hours is available online. Below is a list
 * [Housing](https://housing.ucsc.edu/)
 * [Residential Colleges](https://ches.ucsc.edu/colleges/index.html)
 
-# [Undergraduate Education
+# Undergraduate Education
 * [Website](https://ue.ucsc.edu)
 * [Contact](https://ue.ucsc.edu/about/staff-directory.html)
 
