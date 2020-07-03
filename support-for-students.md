@@ -61,9 +61,10 @@ A full list of services and operating hours is available online. Below is a list
 - [Student Volunteer Center](https://volunteer.ucsc.edu/)
 - [Student Media](https://someca.ucsc.edu/about/our-offices/student-media.html)
 
-## [Get help](https://help.ucsc.edu)
+## Reach Out
 - [Disability Accommodations and Resources](https://ada.ucsc.edu/program-access/index.html)
 - [Equity & Equal Protection Office](https://equity.ucsc.edu/index.html)
+- [Get Help](https://help.ucsc.edu)
 - [UCSC Police Department](https://police.ucsc.edu)
 - [Report Hate](https://reporthate.ucsc.edu)
 - [Title IX Office](https://titleix.ucsc.edu)
@@ -84,7 +85,8 @@ A full list of services and operating hours is available online. Below is a list
 * [Website](https://ue.ucsc.edu)
 * [Contact](https://ue.ucsc.edu/about/staff-directory.html)
 
-## [Advising](https://advising.ucsc.edu)
+## Advising
+* [Undergraduate Advising](https://advising.ucsc.edu)
 * [Colleges Academic Advising contacts and information](https://advising.ucsc.edu/about/colleges-advising/index.html)
 * [Department and major academic advising contacts and information](https://advising.ucsc.edu/about/major-advising/index.html)
 
