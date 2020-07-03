@@ -47,4 +47,4 @@ button:
 <p>If you need assistance or have specific questions, please email <a href="worksite@ucsc.edu">worksite@ucsc.edu</a></p>
 
 <figure class="inline-image right">
-{% asset worksite.png magick:resize=120 alt="Main" %}</figure>
+{% asset/images worksite.png magick:resize=120 alt="Main" %}</figure>
