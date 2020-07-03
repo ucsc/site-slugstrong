@@ -36,7 +36,7 @@ button:
 
 <p><strong>Step 2:</strong> Complete mitigations and <a href="">submit your worksite plan [add link]</a> to worksite@ucsc.edu. </p>
 
-<center><p><em>Pending approval of worksite plan</em> </p></center>
+<p><em>Pending approval of worksite plan</em> </p>
 
 <p><strong>Step 3:</strong> Commence return of staff and resume on-site operations</p>
 
