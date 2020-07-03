@@ -37,7 +37,7 @@ button:
 
 <p><em>Pending approval to return</em></p>
 
-<p><strong>Step 2:</strong> Complete mitigations and <a href="">submit your worksite plan [add link]</a> to <mailto:worksite@ucsc.edu>. </p>
+<p><strong>Step 2:</strong> Complete mitigations and <a href="">submit your worksite plan [add link]</a> to <a href="mailto:worksite@ucsc.edu">worksite@ucsc.edu</a>.</p>
 
 <p><em>Pending approval of worksite plan</em> </p>
 
@@ -45,4 +45,4 @@ button:
 
 <p><strong>Step 4:</strong> Post-implementation review</p>
 
-<p>If you need assistance or have specific questions, please email <mailto:worksite@ucsc.edu></p>
+<p>If you need assistance or have specific questions, please email <a href="mailto:worksite@ucsc.edu">worksite@ucsc.edu</a>.
