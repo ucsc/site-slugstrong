@@ -22,7 +22,7 @@ Californians and Banana Slugs must wear face coverings in common and public indo
 Cloth face coverings serve to keep each of us from sharing respiratory “droplets” with those around us. Given the community spread of COVID-19 throughout Santa Cruz county and the Bay Area, some people may have been infected but will not have symptoms for several days, while others may be carriers of the virus but never show symptoms. Current information indicates that these people can unintentionally infect others around them.
 
 <figure class="inline-image right">
-{% asset sammy-mask-500px.png magick:resize=500 alt="Main" %}</figure>
+{% asset sammy-mask-500px.png magick:resize=300 alt="Main" %}</figure>
 
 Reusable cloth face coverings can be made from readily available items such as scarves, bandanas, or neck gaiters, as well as fitted masks that can be made at home or obtained online. 
 
@@ -52,3 +52,6 @@ UCSC is taking the following measures to ensure the health of faculty, staff, st
 * UCSC has stopped offering self-service food stations such as salad bars and buffets.
 * At high-traffic food facilities, floor markings have been applied to indicate six feet of separation for those in line, and customers are encouraged to use the markings to maintain distance.
 * UCSC encourages the use of contactless payment systems, where possible.
+
+<figure class="inline-image right">
+{% asset sammy-mask.gif magick:resize=300 alt="Main" %}</figure>
