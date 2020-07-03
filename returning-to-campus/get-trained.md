@@ -2,7 +2,7 @@
 layout: page
 title: Get Trained
 description: >
-  Faculty, staff, and students must take a new training about keeping a safe environment for working and learning.  
+  Faculty, staff, and students must take a new training about working and learning amid COVID-19.  
 sidebar: true
 category: return
 return_order: 2
