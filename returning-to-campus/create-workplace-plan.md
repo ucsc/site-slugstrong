@@ -12,9 +12,41 @@ button:
   icon: "task-thin.svg"
 ---
 
-Every UC Santa Cruz building is unique, so each department must create a worksite plan that meets current public health guidelines before employees who’ve been working remotely may gradually return to campus — when appropriate and necessary. The COVID-19 Worksite Plan outlines criteria to asses for building compliance to COVID-19 mandates, guidelines, or safety readiness. Following initial building assessment and identification of required mitigations, facilities will not be re-opened for operations until all mitigations are met and a statement of attestation is executed.
+
+<p>COVID&#8211;19 Worksite Plan</p>
+
+<h3>Current Status of Campus Operations</h3>
+
+<p>UC Santa Cruz remains in Phase 3 of operational resumption. All operations that can be done remotely should continue to do so. However, as the need to resume certain functions, particularly those needed in preparation for fall quarter, this document provides a summary of the process used to initiate a request for resumption and then complete the needed operational review.</p>
+
+<h3>Department/Unit Instructions</h3>
+
+<p>Department return-to-on site operations were developed to assist you in developing a plan for how your department slowly and deliberately moves your currently-remote operations back to on campus/on-site operations over the coming months ahead.</p>
+
+<p>The process is based on two key principles: </p>
+
+<ul>
+<li><strong>Maintaining the safety and health of our community by focusing first on those functions that must be on-site to serve the community.</strong> All operations will be required to have a review of their function prior to moving forward with resumption of on-site operations.</li>
+<li><strong>Ensuring compliance with federal, state and local guidance.</strong> In addition to the State of California’s Resilience Roadmap, we have guidance from the California Department of Public Health (CDPH), Cal OSHA and the Centers for Disease Control (CDC).</li>
+</ul>
+
+<p>We will continue to add to this process as further state and federal guidance is received but we want to enable you to start developing initial plans now. The Work Site Plan is built as both guidance and a template. Please use these materials to draft a return-to-campus plan for your department/unit.</p>
+
+<p><strong>Step 1:</strong> Submit a request for approval to return to on-site work location. </p>
+
+<p><em>Pending approval to return</em></p>
+
+<p><strong>Step 2:</strong> Complete mitigations and submit your worksite plan to worksite@ucsc.edu. </p>
+
+<p><em>Pending approval of worksite plan</em> </p>
+
+<p><strong>Step 3:</strong> Commence return of staff and resume on-site operations</p>
+
+<p><strong>Step 4:</strong> Post-implementation review</p>
+
+<p>If you need assistance or have specific questions, please email <a href="worksite@ucsc.edu">worksite@ucsc.edu</a></p>
 
 <figure class="inline-image right">
-{% asset main.jpg magick:resize=120 alt="Main" %}</figure>
+{% asset worksite.png magick:resize=120 alt="Main" %}</figure>
 
 [More text and link to plan]
