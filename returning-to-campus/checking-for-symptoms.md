@@ -27,7 +27,7 @@ Questionnaire results will be used for limited purposes, e.g. only be used for C
 
 
 ### More information
-* Campus announcement
+* [Campus announcement](https://news.ucsc.edu/2020/06/on-site-employees-required-to-participate-in-covid-19-daily-symptom-check.html)
 * [Privacy statement](https://www.ucsc.edu/coronavirus/symptom-check-privacy-policy.html)
 * [FAQ in English](https://www.ucsc.edu/coronavirus/symptom-check-faq.html)
 * [Appendix A: Symptom check questionnaire (PDF)](https://www.ucsc.edu/coronavirus/assets/symptom-check.pdf)
