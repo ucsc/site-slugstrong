@@ -19,7 +19,7 @@ To help assist employees and students during COVID-19, Information Technology Se
 
 # Leaves, Benefits, and FAQs
 
-*Staff Human Resources offers a wealth of support and is holding weekly [virtual office hours](https://shr.ucsc.edu/covid-19-resources/index.html#new%3Avirtualofficehours) for staff, and the [Academic Personnel Office](https://apo.ucsc.edu/covid-19/index.html) is providing information for academic employees, supervisors and administrators*
+Staff Human Resources offers a wealth of support and is holding weekly [virtual office hours](https://shr.ucsc.edu/covid-19-resources/index.html#new%3Avirtualofficehours) for staff, and the [Academic Personnel Office](https://apo.ucsc.edu/covid-19/index.html) is providing information for academic employees, supervisors and administrators.
 
 ## Leave Information
 
