@@ -12,7 +12,7 @@ button:
   icon: "download-11.svg"
 ---
 
-Employees will soon be able to order new signage online. In the meantime, <a href="mailto:DanHenderson@TAPS.ucsc.edu?subject=Order for temporary signage">email Dan Henderson</a> to order temporary signage during your facility reopening assessment. 
+Employees will soon be able to order new signage online. In the meantime, <a href="mailto:DanHenderson@ucsc.edu?subject=Order for temporary signage">email Dan Henderson</a> to order temporary signage during your facility reopening assessment. 
 
 
 
