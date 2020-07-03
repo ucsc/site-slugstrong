@@ -13,8 +13,6 @@ button:
 ---
 
 
-<p>COVID&#8211;19 Worksite Plan</p>
-
 <h3>Current Status of Campus Operations</h3>
 
 <p>UC Santa Cruz remains in Phase 3 of operational resumption. All operations that can be done remotely should continue to do so. However, as the need to resume certain functions, particularly those needed in preparation for fall quarter, this document provides a summary of the process used to initiate a request for resumption and then complete the needed operational review.</p>
@@ -38,7 +36,7 @@ button:
 
 <p><strong>Step 2:</strong> Complete mitigations and <a href="">submit your worksite plan [add link]</a> to worksite@ucsc.edu. </p>
 
-<p><em>Pending approval of worksite plan</em> </p>
+<center><p><em>Pending approval of worksite plan</em> </p></center>
 
 <p><strong>Step 3:</strong> Commence return of staff and resume on-site operations</p>
 
