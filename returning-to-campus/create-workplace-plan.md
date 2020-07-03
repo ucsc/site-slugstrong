@@ -32,11 +32,11 @@ button:
 
 <p>We will continue to add to this process as further state and federal guidance is received but we want to enable you to start developing initial plans now. The Work Site Plan is built as both guidance and a template. Please use these materials to draft a return-to-campus plan for your department/unit.</p>
 
-<p><strong>Step 1:</strong> Submit a request for approval to return to on-site work location. </p>
+<p><strong>Step 1:</strong> Submit a <a href="https://docs.google.com/forms/d/1efH_SosQgn4KPrdt8VNpGONK3URQ3-wpG7qXoHzH_Kc/viewform?ts=5efb86de&edit_requested=true">request for approval</a> to return to on-site work location. </p>
 
 <p><em>Pending approval to return</em></p>
 
-<p><strong>Step 2:</strong> Complete mitigations and submit your worksite plan to worksite@ucsc.edu. </p>
+<p><strong>Step 2:</strong> Complete mitigations and <a href="">submit your worksite plan [add link]</a> to worksite@ucsc.edu. </p>
 
 <p><em>Pending approval of worksite plan</em> </p>
 
@@ -48,5 +48,3 @@ button:
 
 <figure class="inline-image right">
 {% asset worksite.png magick:resize=120 alt="Main" %}</figure>
-
-[More text and link to plan]
