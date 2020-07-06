@@ -13,33 +13,31 @@ button:
 ---
 
 
-<h3>Current Status of Campus Operations</h3>
+### Current Status of Campus Operations
 
-<p>UC Santa Cruz remains in Phase 3 of operational resumption. All operations that can be done remotely should continue to do so. However, as the need to resume certain functions, particularly those needed in preparation for fall quarter, this document provides a summary of the process used to initiate a request for resumption and then complete the needed operational review.</p>
+UC Santa Cruz remains in Phase 3 of operational resumption. All operations that can be done remotely should continue to do so. However, as the need to resume certain functions, particularly those needed in preparation for fall quarter, this document provides a summary of the process used to initiate a request for resumption and then complete the needed operational review.
 
-<h3>Department/Unit Instructions</h3>
+### Department/Unit Instructions
 
-<p>Department return-to-on site operations were developed to assist you in developing a plan for how your department slowly and deliberately moves your currently-remote operations back to on campus/on-site operations over the coming months ahead.</p>
+Department return-to-on site operations were developed to assist you in developing a plan for how your department slowly and deliberately moves your currently-remote operations back to on campus/on-site operations over the coming months ahead.
 
-<p>The process is based on two key principles: </p>
+The process is based on two key principles:
 
-<ul>
-<li><strong>Maintaining the safety and health of our community by focusing first on those functions that must be on-site to serve the community.</strong> All operations will be required to have a review of their function prior to moving forward with resumption of on-site operations.</li>
-<li><strong>Ensuring compliance with federal, state and local guidance.</strong> In addition to the State of California’s Resilience Roadmap, we have guidance from the California Department of Public Health (CDPH), Cal OSHA and the Centers for Disease Control (CDC).</li>
-</ul>
+*   **Maintaining the safety and health of our community by focusing first on those functions that must be on-site to serve the community.** All operations will be required to have a review of their function prior to moving forward with resumption of on-site operations.
+*   **Ensuring compliance with federal, state and local guidance.** In addition to the State of California’s Resilience Roadmap, we have guidance from the California Department of Public Health (CDPH), Cal OSHA and the Centers for Disease Control (CDC).
 
-<p>We will continue to add to this process as further state and federal guidance is received but we want to enable you to start developing initial plans now. The Work Site Plan is built as both guidance and a template. Please use these materials to draft a return-to-campus plan for your department/unit.</p>
+We will continue to add to this process as further state and federal guidance is received but we want to enable you to start developing initial plans now. The Work Site Plan is built as both guidance and a template. Please use these materials to draft a return-to-campus plan for your department/unit.
 
-<p><strong>Step 1:</strong> Submit a <a href="https://docs.google.com/forms/d/1efH_SosQgn4KPrdt8VNpGONK3URQ3-wpG7qXoHzH_Kc/viewform?ts=5efb86de&edit_requested=true">request for approval</a> to return to on-site work location. </p>
+**Step 1:** Submit a [request for approval](https://docs.google.com/forms/d/1efH_SosQgn4KPrdt8VNpGONK3URQ3-wpG7qXoHzH_Kc/viewform?ts=5efb86de&edit_requested=true) to return to on-site work location.
 
-<p><em>Pending approval to return</em></p>
+_Pending approval to return_
 
-<p><strong>Step 2:</strong> Complete mitigations and <a href="">submit your worksite plan [add link]</a> to <a href="mailto:worksite@ucsc.edu">worksite@ucsc.edu</a>.</p>
+**Step 2:** Complete mitigations and [submit your worksite plan](# add link here) to [worksite@ucsc.edu](mailto:worksite@ucsc.edu).
 
-<p><em>Pending approval of worksite plan</em> </p>
+_Pending approval of worksite plan_
 
-<p><strong>Step 3:</strong> Commence return of staff and resume on-site operations</p>
+**Step 3:** Commence return of staff and resume on-site operations
 
-<p><strong>Step 4:</strong> Post-implementation review</p>
+**Step 4:** Post-implementation review
 
-<p>If you need assistance or have specific questions, please email <a href="mailto:worksite@ucsc.edu">worksite@ucsc.edu</a>.
+If you need assistance or have specific questions, please email [worksite@ucsc.edu](mailto:worksite@ucsc.edu).

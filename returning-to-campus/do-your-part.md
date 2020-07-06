@@ -34,6 +34,7 @@ Face covering resources:
 UCSC employees and students are welcome to use their own cloth face coverings. In addition, the campus is coordinating with campus partners to procure reusable cloth face coverings for essential staff working on campus and students living in on-campus housing who are unable to provide their own. Please note, these will be non-medical grade face coverings.  Priority will be given to essential staff working on campus in close quarters and in confined indoor spaces, including dining services, housing staff, and custodial services.
 
 ### Social Distancing Protocol
+
 UCSC is taking the following measures to ensure the health of faculty, staff, students, patients and their families:
 
 * Everyone who can carry out their work duties from home has been instructed to do so.
@@ -52,4 +53,3 @@ UCSC is taking the following measures to ensure the health of faculty, staff, st
 * UCSC has stopped offering self-service food stations such as salad bars and buffets.
 * At high-traffic food facilities, floor markings have been applied to indicate six feet of separation for those in line, and customers are encouraged to use the markings to maintain distance.
 * UCSC encourages the use of contactless payment systems, where possible.
-

@@ -14,8 +14,6 @@ button:
   icon: "filter-7.svg"
 ---
 
-
-
 Chancellor Cynthia Larive has appointed a Recovery and Resiliency Steering Committee to guide the work of two task forces.
 
 The first task force is focused on academic recovery and resiliency, and is chaired by Interim Campus Provost and Executive Vice Chancellor Lori Kletzer. The focus of this group is identifying the possible modalities of our teaching, learning, and research, and related student affairs, housing and residential life operations for the coming 2020-21 academic year.
