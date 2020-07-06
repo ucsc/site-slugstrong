@@ -57,5 +57,3 @@ View members of the academic and operational [work groups](/returning-to-campus/
 * Lorena Peñaloza, Chief Campus Counsel
 * Linda Rhoads, Chief of Staff, Office of CPEVC
 * Kimberly Register, Director, Budget and Resource Management
-
-
