@@ -49,11 +49,30 @@ layout: default
             {% assign sub_pages = site.pages | where: "category", page.category | sort: "return_order" %}
             {% for sub_item in sub_pages %}
               {% if sub_item.name != 'returning-to-campus.md' and sub_item.name !="support-for-students.md" %}
-                <li><a {% if sub_item.url == page.url %}class="current"{% endif %} href="{{ sub_item.url }}">{{ sub_item.title }}</a></li>
+                <li><a {% if sub_item.url == page.url %}class="current"{% endif %} href="{{ sub_item.url }}">{{ sub_item.title }}</a>
+
+
+
+              {% if page.subcategory and page.subcategory == item.subcategory %}
+                 <ul>
+                   {% assign subsub_pages = site.pages | where: "subcategory", page.subcategory %}
+                   {% for subsub_item in subsub_pages %}
+
+                    <li><a {% if subsub_item.url == page.url %}class="current"{% endif %} href="{{ subsub_item.url }}">{{ subsub_item.title }}</     a></li>
+
+                   {% endfor %}
+                 </ul>
+                {% endif %}
+
+
+
+
+                </li>
               {% endif %}
             {% endfor %}
           </ul>
           {% endif %}
+
 
         </li>
       {% endfor %}

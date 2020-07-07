@@ -4,7 +4,7 @@ title: Subcommittees
 description: >
   Subcommittees description
 sidebar: true
-category: committee
+subcategory: committee
 return_order: 1
 button:
   bg: '#FFC400'
