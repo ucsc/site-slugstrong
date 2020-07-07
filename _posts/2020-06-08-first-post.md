@@ -4,6 +4,7 @@ date: 2020-06-17
 author: Chancellor Cynthia Larive
 author_email: chancellor@ucsc.edu
 layout: post
+link: http://review.ucsc.edu
 ---
 
 Dear Campus Community,
