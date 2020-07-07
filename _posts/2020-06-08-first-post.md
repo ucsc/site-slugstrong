@@ -4,7 +4,7 @@ date: 2020-06-17
 author: Chancellor Cynthia Larive
 author_email: chancellor@ucsc.edu
 layout: post
-link: http://review.ucsc.edu
+link: https://news.ucsc.edu/2020/06/planning-for-academic-year-2020-2021.html
 ---
 
 Dear Campus Community,
