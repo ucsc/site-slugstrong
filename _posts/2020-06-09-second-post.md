@@ -4,7 +4,7 @@ date: 2020-06-05
 author: Sarah Latham, Vice Chancellor, Business and Administrative Services
 author_email: sclatham@ucsc.edu
 layout: post
-link: http://review.ucsc.edu
+link: https://news.ucsc.edu/2020/06/covid-19-recovery-and-resiliency-planning-update.html
 ---
 
 The following serves as an update on the planning approach for the resumption of in-person operations at the residential campus, Westside Research Park, Coastal Science Campus, and the Scotts Valley Center. Recovery activities at the Silicon Valley Campus and MBEST will follow on a parallel process, though under orders of Santa Clara County and Monterey County respectively. This work is being facilitated through the Recovery and Resiliency Task Force structure. 
