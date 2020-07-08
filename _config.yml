@@ -21,8 +21,8 @@ defaults:
     values:
       image: /assets/images/main.jpg
 
-include:
-  - _redirects
+#include:
+#  - _redirects
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
