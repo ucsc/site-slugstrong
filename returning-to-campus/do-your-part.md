@@ -12,9 +12,15 @@ button:
   icon: "globe-2.svg"
 ---
 
+## Together we can curb COVID-19
 More than ever, it’s important to take care of our own health and do our part to reduce the spread of COVID-19. 
 
-There are a few basic habits we should all adopt: wearing face coverings, practicing physical distancing, washing our hands regularly, and sanitizing shared equipment. 
+<figure class="inline-image right">
+{% asset slug-strong.png magick:resize=700 alt="Main" %}</figure>
+
+
+Everyone in our community should adopt six practices to stay Slug strong: physically distance, wear a face covering, avoid gathering in groups, keep your hands and equipment clean, get testd if you have COVID-19 symptoms, and inform your supervisor if you're sick. 
+
 
 ### Wear a Face Covering
 Californians and Banana Slugs must wear face coverings in common and public indoor spaces and outdoors when distancing is not possible. [Read more](https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/COVID-19/Guidance-for-Face-Coverings_06-18-2020.pdf) about the guidance and limited exceptions. 
