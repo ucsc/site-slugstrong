@@ -1,3 +1,4 @@
 [[redirects]]
-  from = "/keep-teaching/"
+  from = "https://recovery.ucsc.edu/keep-teaching/"
   to = "https://keepteaching.ucsc.edu/"
+  status = 301
