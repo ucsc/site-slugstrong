@@ -138,7 +138,7 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
 
 <tr>
     <td><b>Arboretum</b></td>
-    <td>Closed</td>
+    <td>The Arboretum and Botanic Garden reopened on June 29. Its hours are 9 a.m. to 5 p.m. every day. Admission is $5 for adults, $2 for children, and free for members and volunteers. Guests are asked to follow social distancing protocols, wear a mask, and bring their own drinking water. </td>
     <td><a href="https://arboretum.ucsc.edu/">Website</a></td>
   </tr>
   
