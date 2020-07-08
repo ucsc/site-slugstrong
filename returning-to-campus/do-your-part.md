@@ -16,7 +16,7 @@ button:
 More than ever, it’s important to take care of our own health and do our part to reduce the spread of COVID-19. 
 
 <figure class="inline-image right">
-{% asset slug-strong.png magick:resize=700 alt="Main" %}</figure>
+{% asset slug-strong.png magick:resize=500 alt="Main" %}</figure>
 
 
 Everyone in our community should adopt six practices to stay Slug strong: physically distance, wear a face covering, avoid gathering in groups, keep your hands and equipment clean, get testd if you have COVID-19 symptoms, and inform your supervisor if you're sick. 
