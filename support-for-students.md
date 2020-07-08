@@ -67,7 +67,7 @@ A full list of services and operating hours is [available online](/support-for-s
 - [Student Volunteer Center](https://volunteer.ucsc.edu/)
 - [Student Media](https://someca.ucsc.edu/about/our-offices/student-media.html)
 
-## Reach Out
+## Reach Out and Report
 - [Disability Accommodations and Resources](https://ada.ucsc.edu/program-access/index.html)
 - [Equity & Equal Protection Office](https://equity.ucsc.edu/index.html)
 - [Get Help](https://help.ucsc.edu)
@@ -96,7 +96,7 @@ A full list of services and operating hours is [available online](/support-for-s
 * [Colleges Academic Advising contacts and information](https://advising.ucsc.edu/about/colleges-advising/index.html)
 * [Department and major academic advising contacts and information](https://advising.ucsc.edu/about/major-advising/index.html)
 
-## Registrar and financial offices
+## Registrar and Financial Offices
 * [Financial Aid](https://financialaid.ucsc.edu/index.html)
 * [Registrar](http://registrar.ucsc.edu)
 * [Student Business Services](https://sbs.ucsc.edu)
