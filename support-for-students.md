@@ -16,6 +16,10 @@ front:
 
 Even though we may be physically apart, Slugs are all in this together and students have a number of support and engagement services available to ensure their success. Student Health Services, Counseling and Psychological Services, Basic Needs support, Academic Advising, Learning Support Services, and CARE are open and providing services remotely. 
 
+<figure class="inline-image right">
+{% asset barn-sign-500px.jpg magick:resize=500 alt="Main" %}</figure>
+
+
 The [Keep Learning site](https://keeplearning.ucsc.edu) provides resources and support for students who are learning remotely, and Information Technology Services offers [useful resources](https://its.ucsc.edu/covid-19/students-remotely.html) to help students learn and study remotely.
 
 A full list of services and operating hours is [available online](/support-for-students/campus-services). Below is a list of student-focused offices.
