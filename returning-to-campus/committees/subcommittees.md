@@ -1,12 +1,9 @@
 ---
-
 layout: page
 title: Subcommittees
 description: >
   Subcommittees description
 sidebar: true
-category: return
-subcategory: committee
 return_order: 10
 button:
   bg: '#FFC400'
@@ -17,6 +14,7 @@ button:
 ## Academic Recovery and Resiliency Task Force Workgroups
 
 ### Instructional Delivery (remote/online/in-person)
+
 *Addressing multiple modalities, limits of in person instruction.*
 
 * Herbie Lee, Academic Affairs
@@ -30,12 +28,14 @@ button:
 * Patty Gallgher, Senate
 
 ### Research
+
 *Plotting the path to full research engagement.*
 
 * Scott Brandt, Office of Research
 * Other members pending
 
 ### Graduate and Professional Program Support
+
 *Reviewing support programs, funding and graduate student progress.*
 
 * Quentin Williams, Graduate Division
@@ -45,6 +45,7 @@ button:
 * John MacMillan (Office of Research)
 
 ### Undergraduate Programs
+
 *Consisting of multiple sub-workgroups, including a College Core Course delivery group, and teams working on mitigating impacts on student progress and undergraduate programming including orientation and advising.*
 
 * Richard Hughey, Undergraduate Education
@@ -58,6 +59,7 @@ button:
 * Other members pending
 
 ### Policy Review
+
 *Managing the interpretation, application, and development of HR/ personnel and related policies to support academic employees (and staff and student employees who directly support research and instruction, as needed) during pandemic recovery.*
 
 * Grace McClintock, Academic Personnel Office
@@ -72,6 +74,7 @@ button:
 * Diane Lallemand, Policy Coordination
 
 ### Housing/Dining/Residence Life
+
 *Focusing on numbers for limited housing scenarios as defined by health and safety guidelines.*
 
 * Sue Matthews, AVC, Colleges, Housing, and Educational Services
@@ -87,12 +90,14 @@ button:
 * Jim Grove, CHES
 
 ### Student Services and Student Affairs
+
 *Planning for remote and in person Slug Support outreach and programming and co-curricular and extracurricular support of students in multiple modalities.*
 
 * Jaye Padgett, Division of Student Success
 * Other members pending
 
 ### Communications
+
 *Supporting communication of plans to the campus community, committees, governing bodies, and media.*
 
 * Anna Finn, Associate Chancellor
@@ -104,6 +109,7 @@ button:
 ## Operations and Employee Recovery and Resiliency Workgroups
 
 ### OERR Operational Resiliency Work Group (this work group has seven task teams)
+
 * Jean Marie Scott (Chair)
 * Barbara Greening
 * Cindy Delgado
@@ -124,6 +130,7 @@ button:
 * Sue Matthews 
 
 ### OERR Operational Resiliency Work Group Task Team members: 
+
 * Alex Belisario
 * Amanda Gullings
 * Anna Finn
@@ -172,6 +179,7 @@ button:
 
 
 ### OERR Employee Resiliency Work Group
+
 * Adrienne Harrell (Chair)
 * Courtnie Prather 	
 * Gary Dunn 
@@ -181,6 +189,7 @@ button:
 * Linda Scholz 
 
 ### OERR Community and Morale Work Group
+
 * Steve Stein (Chair)
 * Amy Bruinooge
 * Danny Gray
@@ -190,6 +199,7 @@ button:
 
 
 ### OERR Leveraging Opportunity Work Group
+
 * Biju Kamaleswaran (Chair)
 * Al Covington 
 * Bennett Williamson

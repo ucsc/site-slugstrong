@@ -23,14 +23,12 @@ Department return-to-on site operations were developed to assist you in developi
 
 The process is based on two key principles:
 
-*   **Maintaining the safety and health of our community by focusing first on those functions that must be on-site to serve the community.** All operations will be required to have a review of their function prior to moving forward with resumption of on-site operations.
-*   **Ensuring compliance with federal, state and local guidance.** In addition to the State of California’s Resilience Roadmap, we have guidance from the California Department of Public Health (CDPH), Cal OSHA and the Centers for Disease Control (CDC).
+* **Maintaining the safety and health of our community by focusing first on those functions that must be on-site to serve the community.** All operations will be required to have a review of their function prior to moving forward with resumption of on-site operations.
+* **Ensuring compliance with federal, state and local guidance.** In addition to the State of California’s Resilience Roadmap, we have guidance from the California Department of Public Health (CDPH), Cal OSHA and the Centers for Disease Control (CDC).
 
 We will continue to add to this process as further state and federal guidance is received but we want to enable you to start developing initial plans now. The Work Site Plan is built as both guidance and a template. Please use these materials to draft a return-to-campus plan for your department/unit.
 
-<figure class="inline-image center">
-{% asset worksite-workflow.jpg magick:resize=600 alt="Main" %}</figure>
-
+<figure class="inline-image center">{% asset worksite-flowchart.png magick:resize=600 alt="Main" %}</figure>
 
 **Step 1:** Submit a [request for approval](https://docs.google.com/forms/d/1efH_SosQgn4KPrdt8VNpGONK3URQ3-wpG7qXoHzH_Kc/viewform?ts=5efb86de&edit_requested=true) to return to on-site work location.
 
