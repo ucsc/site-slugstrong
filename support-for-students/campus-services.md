@@ -5,17 +5,12 @@ description: >
   Campus services descriptions
 sidebar: true
 category: student-support
-return_order: 
+return_order: 2
 button:
   bg: 
   color: '#fff'
   icon: ""
 ---
-
-
-<body>
-
-
 <table style="width:100%">
   <tr>
     <th>Service</th>
@@ -155,7 +150,3 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
   </tr>
 
 </table>
-
-</body>
-</html>
-
