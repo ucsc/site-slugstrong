@@ -42,6 +42,12 @@ View members of the academic and operational [work groups](/returning-to-campus/
 
 * Sarah Latham, Vice Chancellor, Business and Administrative Services
 * Anna Finn, Associate Chancellor
+* Jennifer Baszile, Interim Vice Chancellor, Student Affairs and Success
+* Scott Brandt, Vice Chancellor, Research
+* Kim Lau, Professor
+* Herbie Lee, Vice Provost, Academic Affairs
+* Grace McClintock, AVP, Academic Personnel
+* Elizabeth Miller, Medical Director, Student Health Center
 * Steve Stein, AVC, Staff Human Resources, chair for Community and Morale Workgroup
 * Jean Marie Scott, AVC, Risk and Safety Services, chair for Operations Resiliency Workgroup
 * Adrienne Harrell, Learning and Development Manager, Staff Human Resources, chair for Employee Resiliency Workgroup 
