@@ -1,11 +1,13 @@
 ---
+
 layout: page
 title: Subcommittees
 description: >
   Subcommittees description
 sidebar: true
+category: return
 subcategory: committee
-return_order: 1
+return_order: 10
 button:
   bg: '#FFC400'
   color: '#fff'
