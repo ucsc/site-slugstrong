@@ -13,7 +13,7 @@ button:
   icon: "filter-7.svg"
 ---
 
-Chancellor Cynthia Larive has appointed a Recovery and Resiliency Steering Committee to guide the work of two task forces.
+UC Santa Cruz has formed two task forces to guide the COVID-19 recovery effort. 
 
 The first task force is focused on academic recovery and resiliency, and is chaired by Interim Campus Provost and Executive Vice Chancellor Lori Kletzer. The focus of this group is identifying the possible modalities of our teaching, learning, and research, and related student affairs, housing and residential life operations for the coming 2020-21 academic year.
 
@@ -21,13 +21,6 @@ The second task force is focused on operations and employee recovery and resilie
 
 View members of the academic and operational [work groups](/returning-to-campus/committees/subcommittees/).
 
-## Recovery and Resiliency Steering Committee
-
-* Chancellor Cynthia Larive
-* CPEVC Lori Kletezer (Chair, Academic Recovery Committee)
-* Vice Chancellor Sarah Latham (Chair, Operational Recovery Committee)
-* Representatives from task force subcommittees
-* Representatives from the Academic Senate
 
 ### Academic Recovery and Resiliency Task Force
 
