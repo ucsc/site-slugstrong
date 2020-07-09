@@ -41,10 +41,11 @@ View members of the academic and operational [work groups](/returning-to-campus/
 ### Operations and Employee Recovery and Resiliency Task Force 
 
 * Sarah Latham, Vice Chancellor, Business and Administrative Services
+* Lori Kletzer, Campus Provost and Executive Vice Chancellor
 * Anna Finn, Associate Chancellor
 * Jennifer Baszile, Interim Vice Chancellor, Student Affairs and Success
 * Scott Brandt, Vice Chancellor, Research
-* Kim Lau, Professor
+* Kim Lau, Professor, former Academic Senate Chair
 * Herbie Lee, Vice Provost, Academic Affairs
 * Grace McClintock, AVP, Academic Personnel
 * Elizabeth Miller, Medical Director, Student Health Center
