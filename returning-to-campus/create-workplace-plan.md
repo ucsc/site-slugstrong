@@ -28,6 +28,10 @@ The process is based on two key principles:
 
 We will continue to add to this process as further state and federal guidance is received but we want to enable you to start developing initial plans now. The Work Site Plan is built as both guidance and a template. Please use these materials to draft a return-to-campus plan for your department/unit.
 
+<figure class="inline-image center">
+{% asset worksite-workflow.jpg magick:resize=600 alt="Main" %}</figure>
+
+
 **Step 1:** Submit a [request for approval](https://docs.google.com/forms/d/1efH_SosQgn4KPrdt8VNpGONK3URQ3-wpG7qXoHzH_Kc/viewform?ts=5efb86de&edit_requested=true) to return to on-site work location.
 
 _Pending approval to return_
