@@ -46,7 +46,7 @@ View members of the academic and operational [work groups](/returning-to-campus/
 * Anna Finn, Associate Chancellor
 * Jennifer Baszile, Interim Vice Chancellor, Student Affairs and Success
 * Scott Brandt, Vice Chancellor, Research
-* Kim Lau, Professor, former Academic Senate Chair
+* Kimberly Lau, Chair, Academic Senate
 * Herbie Lee, Vice Provost, Academic Affairs
 * Grace McClintock, AVP, Academic Personnel
 * Elizabeth Miller, Medical Director, Student Health Center
