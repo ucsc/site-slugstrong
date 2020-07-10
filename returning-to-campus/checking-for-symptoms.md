@@ -5,7 +5,7 @@ description: >
   COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.
 sidebar: true
 category: return
-return_order: 3
+folder_order: 3
 button:
   bg: '#00487cff'
   color: '#fff'

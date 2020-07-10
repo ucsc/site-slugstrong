@@ -5,7 +5,7 @@ description: >
   Faculty, staff, and students must take a new training about working and learning amid COVID-19.  
 sidebar: true
 category: return
-return_order: 2
+folder_order: 2
 button:
   bg: '#f78154ff'
   color: '#fff'

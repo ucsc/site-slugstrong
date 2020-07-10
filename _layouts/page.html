@@ -33,10 +33,9 @@ layout: default
     <div class="sidebar" id="subNav" role="navigation">
 
     <ul class="navlist">
-      {% assign current_page_id = page.url %}
       {% assign menu_pages = site.pages | where: "left_col", true %}
       {% for item in menu_pages %}
-
+        {% assign current_page_path = page.path | split: "/" %}
         <li>
           {% if item.url == page.url %}
             <a class="current" href="{{ item.url | relative_url }}">{{ item.title }}</a>
@@ -46,10 +45,13 @@ layout: default
 
           {% if page.category and page.category == item.category %}
           <ul>
-            {% assign sub_pages = site.pages | where: "category", page.category | sort: "return_order" %}
+            {% assign sub_pages = site.pages | where: "category", page.category | sort: "folder_order" %}
             {% for sub_item in sub_pages %}
-              {% if sub_item.name != 'index.md' %}
-                <li><a {% if sub_item.url == page.url %}class="current"{% endif %} href="{{ sub_item.url }}">{{ sub_item.title }}</a></li>
+              {% assign sub_item_path = sub_item.path | split: "/" %}
+              {% if sub_item_path.size >= 2 %}
+                <li>
+                  <a {% if sub_item.url == page.url %}class="current"{% endif %} href="{{ sub_item.url }}">{{ sub_item.title }}</a>
+                </li>
               {% endif %}
             {% endfor %}
           </ul>

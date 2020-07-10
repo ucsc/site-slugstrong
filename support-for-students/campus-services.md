@@ -5,7 +5,7 @@ description: >
   Campus services descriptions
 sidebar: true
 category: student-support
-return_order: 2
+folder_order: 2
 button:
   bg: 
   color: '#fff'
