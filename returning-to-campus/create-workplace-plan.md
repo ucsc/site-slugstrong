@@ -19,7 +19,7 @@ UC Santa Cruz remains in Phase 3 of operational resumption. At this point in tim
 The process for reviewing and approving the return to on-site operations assists departments in developing a plan for slowly and deliberately moving currently-remote operations back on-campus/on-site.
 The process is based on two key principles:
 
-* **Maintaining the safety and health of our community by focusing first on those functions that must be on-site to serve the community.** All operations will be required to have a review of their function prior to moving forward with resumption of on-site operations.
+* **Maintaining the health and wellness of our community by focusing first on those functions that must be on-site to serve the community.** All operations will be required to have a review of their function prior to moving forward with resumption of on-site operations.
 * **Ensuring compliance with federal, state and local guidance.** In addition to the State of California’s Resilience Roadmap, we must adhere to guidance from a variety of entities, including but not limited to: California Department of Public Health (CDPH), Cal OSHA, and the Centers for Disease Control (CDC).
 
 We will continue to add to this process as further state and federal guidance is received, but the steps outlined below provide a general overview. 
