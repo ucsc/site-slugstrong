@@ -45,3 +45,6 @@ _Pending approval of worksite plan_
 **Step 3:** If work site plans are approved, then the unit can commence the return of employees and resume on-site operations.
 
 **Step 4:** There will be a post-implementation review, and compliance with work site plans will be monitored. Questions about the process can be sent to [worksite@ucsc.edu](mailto:worksite@ucsc.edu).
+
+### More Resources
+* [COVID-19 Recovery and Resiliency Plan Briefing Book](/assets/images/ucsc-recovery-resiliency-briefing-book.pdf) (PDF)
