@@ -33,7 +33,12 @@ button:
 *Plotting the path to full research engagement.*
 
 * Scott Brandt, Office of Research
-* Other members pending
+* Paul Koch, Physical and Biological Sciences
+* Elizabeth Cowell, University Library
+* Linda Scholz, Office for Diversity, Equity, and Inclusion
+* Jarmilla Pittermann, previous COR chair, PBSci faculty
+* Paul Roth, COR
+* Steve Whittaker, previous COR chair
 
 ### Graduate and Professional Program Support
 
