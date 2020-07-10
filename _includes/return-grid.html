@@ -1,6 +1,6 @@
 <div class="row">
            <ul class="return-grid-container">
-              {% assign blocks = site.pages | where:"category", page.category | sort: "return_order"%}
+              {% assign blocks = site.pages | where:"category", page.category | sort: "weight"%}
               {% for p in blocks %}
               {% if p.name != 'returning-to-campus.md' and p.name != 'subcommittees.md' %}
               {% if p.button %}
