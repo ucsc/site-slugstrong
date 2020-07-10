@@ -15,7 +15,7 @@ button:
 
 ### Current Status of Campus Operations
 
-UC Santa Cruz remains in Phase 3 of operational resumption. All operations that can be done remotely should continue to do so. However, as the need to resume certain functions, particularly those needed in preparation for fall quarter, this document provides a summary of the process used to initiate a request for resumption and then complete the needed operational review.
+UC Santa Cruz remains in Phase 3 of operational resumption. All operations that can be done remotely should continue to do so. However, as the need to resume certain functions, particularly those needed in preparation for fall quarter, this page provides a summary of the process used to initiate a request for resumption and then complete the needed operational review.
 
 ### Department/Unit Instructions
 
