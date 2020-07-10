@@ -23,6 +23,7 @@ Learn more about the COVID-19 [Recovery and Resiliency Planning Model](/assets/i
 
 ### More Information
 * [COVID-19 Recovery and Resiliency Plan Briefing Book](/assets/images/ucsc-recovery-resiliency-briefing-book.pdf) (PDF)
+* [Draft COVID-19 Resumption Plan](/assets/images/draft-resumption-plan.pdf) (PDF)
 * [University of California Consensus Standards](/assets/images/uc-consent-standard.pdf) (PDF)
 
 ### Academic Recovery and Resiliency Task Force
