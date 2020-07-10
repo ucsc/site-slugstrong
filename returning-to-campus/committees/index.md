@@ -19,8 +19,11 @@ The first task force is focused on academic recovery and resiliency, and is chai
 
 The second task force is focused on operations and employee recovery and resiliency and is chaired by Vice Chancellor for Business and Administration Sarah Latham. The focus of this group is on community and morale, how employees return to work, how people navigate the fears and uncertainties of returning to work, and how the campus leverages opportunities that have emerged over the last couple of months.
 
-View members of the academic and operational [work groups](/returning-to-campus/committees/subcommittees/).
+Learn more about the COVID-19 [Recovery and Resiliency Planning Model](/assets/images/recovery-resiliency-model.pdf) (PDF). View members of the academic and operational [work groups](/returning-to-campus/committees/subcommittees/).
 
+### More Information
+* [COVID-19 Recovery and Resiliency Plan Briefing Book](/assets/images/ucsc-recovery-resiliency-briefing-book.pdf) (PDF)
+* [University of California Consensus Standards](/assets/images/uc-consent-standard.pdf) (PDF)
 
 ### Academic Recovery and Resiliency Task Force
 
