@@ -32,32 +32,37 @@ layout: default
   {% if page.sidebar %}
     <div class="sidebar" id="subNav" role="navigation">
 
+    {% assign menu_pages = site.pages | where: "left_col", true %}
+    {% assign current_path = page.url | split: "/" %}
+
     <ul class="navlist">
-      {% assign menu_pages = site.pages | where: "left_col", true %}
+
       {% for item in menu_pages %}
-        {% assign current_page_path = page.path | split: "/" %}
+
         <li>
-          {% if item.url == page.url %}
-            <a class="current" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-          {% else %}
-            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-          {% endif %}
+          <a href="{{ item.url | relative_url }}" {%- if item.url == page.url %} class="current"{% endif %}>
+            {{ item.title }}
+          </a>
 
-          {% if page.category and page.category == item.category %}
-          <ul>
-            {% assign sub_pages = site.pages | where: "category", page.category | sort: "folder_order" %}
-            {% for sub_item in sub_pages %}
-              {% assign sub_item_path = sub_item.path | split: "/" %}
-              {% if sub_item_path.size >= 2 %}
+          {%- if page.category and page.category == item.category %}
+            <ul>
+              {%- assign sub_pages = site.pages | where: "category", page.category | sort: "weight" %}
+              {%- for p in sub_pages %}
+                {%- assign sub_path = p.url | split: "/" %}
+                {%- if sub_path.size < 4 and sub_path.size != 2 %}
                 <li>
-                  <a {% if sub_item.url == page.url %}class="current"{% endif %} href="{{ sub_item.url }}">{{ sub_item.title }}</a>
+                  <a href="{{ p.url }}" {%- if p.url == page.url %} class="current"{% endif %}>{{ p.title }}</a>
+                {%- elsif sub_path.size >= 4 and current_path contains sub_path[2] %}
+                  <ul>
+                    <li><a href="{{ p.url }}" {%- if p.url == page.url %} class="current"{% endif %}>{{ p.title }}</a></li>
+                  </ul>
                 </li>
-              {% endif %}
-            {% endfor %}
-          </ul>
+                {% else %}
+                </li>
+                {%- endif %}
+              {%- endfor %}
+            </ul>
           {% endif %}
-
-
         </li>
       {% endfor %}
     </ul>

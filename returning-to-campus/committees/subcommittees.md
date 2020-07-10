@@ -5,7 +5,7 @@ description: >
   Subcommittees description
 sidebar: true
 category: return
-folder_order: 10
+weight: 10
 button:
   bg: '#FFC400'
   color: '#fff'

@@ -5,7 +5,7 @@ description: >
   Department must create a worksite plan that meets current public health guidelines.
 sidebar: true
 category: return
-folder_order: 1
+weight: 1
 button:
   bg: '#8d91c7ff'
   color: '#fff'

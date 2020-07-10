@@ -6,7 +6,7 @@ description: >
 sidebar: true
 category: return
 subcategory: committee
-folder_order: 5
+weight: 5
 button:
   bg: '#b4436cff'
   color: '#fff'

@@ -5,7 +5,7 @@ description: >
   There are a few basic practices we should all adopt to take care of ourselves—and our community. 
 sidebar: true
 category: return
-folder_order: 2
+weight: 2
 button:
   bg: '#3d7068ff'
   color: '#fff'
