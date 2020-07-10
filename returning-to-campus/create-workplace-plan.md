@@ -48,3 +48,5 @@ _Pending approval of worksite plan_
 
 ### More Resources
 * [COVID-19 Recovery and Resiliency Plan Briefing Book](/assets/images/ucsc-recovery-resiliency-briefing-book.pdf) (PDF)
+* [University of California Consensus Standards](/assets/images/uc-consent-standard.pdf) (PDF)
+* [COVID-19 Recovery and Resiliency Planning Model](/assets/images/recovery-resiliency-model.pdf) (PDF)
