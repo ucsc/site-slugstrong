@@ -38,7 +38,7 @@ Once a principal officer determines that a function should go through the review
 
 _Pending approval to return_
 
-**Step 2:** Units approved to move forward will complete a worksite plan [LINK] and complete mitigations. 
+**Step 2:** Units approved to move forward will complete a [worksite plan](/assets/images/worksite-plan.pdf) and complete mitigations. 
 
 _Pending approval of worksite plan_
 
