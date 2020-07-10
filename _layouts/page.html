@@ -32,7 +32,7 @@ layout: default
   {% if page.sidebar %}
     <div class="sidebar" id="subNav" role="navigation">
 
-    {% assign menu_pages = site.pages | where: "left_col", true %}
+    {% assign menu_pages = site.pages | where: "left_col", true | sort: "order"  %}
     {% assign current_path = page.url | split: "/" %}
 
     <ul class="navlist">
