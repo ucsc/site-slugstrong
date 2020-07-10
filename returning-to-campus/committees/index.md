@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Committee and Task Forces
+title:  Task Forces and Workgroups
 description: >
-  The Recovery and Resiliency Steering Committee is guiding the work of two task forces.
+  Academic and operational task forces are guiding the COVID-19 recovery effort.
 sidebar: true
 category: return
 subcategory: committee
@@ -20,6 +20,7 @@ The first task force is focused on academic recovery and resiliency, and is chai
 The second task force is focused on operations and employee recovery and resiliency and is chaired by Vice Chancellor for Business and Administration Sarah Latham. The focus of this group is on community and morale, how employees return to work, how people navigate the fears and uncertainties of returning to work, and how the campus leverages opportunities that have emerged over the last couple of months.
 
 View members of the academic and operational [work groups](/returning-to-campus/committees/subcommittees/).
+
 
 ### Academic Recovery and Resiliency Task Force
 
