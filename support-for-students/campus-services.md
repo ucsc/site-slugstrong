@@ -7,9 +7,9 @@ sidebar: true
 category: student-support
 weight: 2
 button:
-  bg: '#00487cff'
+  bg: '#3d7068ff'
   color: '#fff'
-  icon: "weather-134.svg"
+  icon: "book-20.svg"
 ---
 <table style="width:100%">
   <tr>

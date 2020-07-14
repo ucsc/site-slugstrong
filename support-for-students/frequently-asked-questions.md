@@ -7,9 +7,9 @@ sidebar: true
 category: student-support
 weight: 1
 button:
-  bg: 
+  bg: '#00487cff'
   color: '#fff'
-  icon: ""
+  icon: "weather-134.svg"
 ---
 
 Many campus processes and procedures have been modified in light of the COVID-19 pandemic. Below are responses to a number of questions that should help give you a sense of what to expect and what you may need to do differently when navigating the campus and its many resources. 
