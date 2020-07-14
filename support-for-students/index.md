@@ -14,6 +14,7 @@ front:
   icon: "school-25.svg"
 ---
 
+
 <figure class="inline-image right">
 {% asset barn-sign-500px.jpg magick:resize=500 alt="Main" %}</figure>
 
