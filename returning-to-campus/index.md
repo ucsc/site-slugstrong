@@ -16,6 +16,8 @@ category: return
 
 To support the public health of our community, the return of our workforce and our students to onsite operations at all UC Santa Cruz locations will be [conducted in a phased manner](https://news.ucsc.edu/2020/06/final-campus-operational-resumption-phases.pdf). The guiding principle of all of our decision-making is to prioritize public health and reduce COVID-19 spread, while supporting our academic mission.
 
+The draft UC Santa Cruz [resumption plan](https://recovery.ucsc.edu/assets/images/draft-resumption-plan.pdf) is considered a living document, and will be updated regularly as planning progresses, conditions change, and our plans adapt. In addition to the full plan, a [briefing booklet](https://recovery.ucsc.edu/assets/images/ucsc-recovery-resiliency-briefing-book.pdf) is available that covers the key elements of the plan and campus mitigations. As with the larger plan, the briefing book will also be adapted as conditions change.
+
 California is currently in Stage 2 of the [Resilience Roadmap](https://covid19.ca.gov/roadmap/). Santa Cruz County was approved for a variance, which allowed the county to move through Stage 2. Under state orders, higher education is not permitted to fully resume in-person operations except where supporting essential workforce activities including but not limited to providing housing solutions, COVID-19 response, and the training and instruction of essential workers.
 
 The majority of campus operations continue to be remote. The essential functions allowed to take place on site must continue to be done in compliance with existing orders from the state and county. We are closely monitoring and assessing these orders as they are updated.
