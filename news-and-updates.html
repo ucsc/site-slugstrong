@@ -12,8 +12,9 @@ front:
   bg: "#b4436cff"
   color: "#fff"
   icon: "info-6.svg"
+read_more: https://news.ucsc.edu/2020/covid19-messages.html
+read_more_text: Read more updates
 ---
-
 {%- if site.posts.size > 0 -%}
 <ul class="post-list">
  {%- for post in site.posts -%}
@@ -31,4 +32,7 @@ front:
   {% endfor %}
   </ul>
   {% endif %}
+  {% if page.read_more %}
+<a href="{{ page.read_more }}" class="pill">{{ page.read_more_text }}</a>
+{% endif %}
 

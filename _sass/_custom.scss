@@ -32,6 +32,30 @@
     }
 }
 
+.pill {
+    display: block;
+    padding: .75rem;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 700;
+    @include relative-font-size(1.25);
+    border-radius: 5px;
+    border-radius: 0.3125rem;
+    border-bottom: none !important;
+    background-color: #00487cff;
+    width: 50%;
+    color: #fff;
+    @include media-query($on-tablet) {
+        width: 35%;
+    }
+    &:hover {
+        text-decoration: none;
+        color: #00458c;
+        background-color: #efefef;
+        transition: all .35s;
+    }
+}
+
 @media screen and (min-width: 48em) {
     .hero-area.layout-left {
         width: 100%;
