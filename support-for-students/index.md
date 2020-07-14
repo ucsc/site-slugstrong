@@ -13,7 +13,6 @@ front:
   color: "#fff"
   icon: "school-25.svg"
 ---
-{% include return-grid.html %}
 
 <figure class="inline-image right">
 {% asset barn-sign-500px.jpg magick:resize=500 alt="Main" %}</figure>
