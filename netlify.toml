@@ -4,3 +4,7 @@
   status = 301
   headers = {X-From = "Netlify"}
   force = true
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self' *.ucsc.edu; script-src 'self' www.google-analytics.com ajax.googleapis.com *.ucsc.edu; style-src 'self' *.ucsc.edu;"
