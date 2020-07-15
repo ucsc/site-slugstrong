@@ -40,6 +40,7 @@ Once a principal officer determines that a function should go through the review
 Questions about the process can be sent to [worksite@ucsc.edu](mailto:worksite@ucsc.edu).
 
 ### More Resources
+* [COVID-19 Supplies Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfZWheLtmc7GOAeEz4qh8Dl_mT9v6FaJlYNOSzQdCEJAJe1WQ/viewform)
 * [COVID-19 Recovery and Resiliency Plan Briefing Book](/assets/images/ucsc-recovery-resiliency-briefing-book.pdf) (PDF)
 * [Draft COVID-19 Resumption Plan](/assets/images/draft-resumption-plan.pdf) (PDF)
 * [University of California Consensus Standards](/assets/images/uc-consent-standard.pdf) (PDF)
