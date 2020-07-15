@@ -12,7 +12,7 @@ button:
   icon: "task-thin.svg"
 ---
 ### Current Status of Campus Operations
-UC Santa Cruz remains in [Phase 3 of operational resumption](https://news.ucsc.edu/2020/06/final-campus-operational-resumption-phases.pdf). At this point in time, all campus operations that can operate remotely will remain remote. However, as the need arises to resume certain on-site functions, particularly those needed in preparation for fall quarter, this page provides a summary of the process used to review and approve requests.
+UC Santa Cruz remains in [Phase 3 of operational resumption](https://news.ucsc.edu/2020/06/final-campus-operational-resumption-phases.pdf). At this point in time, all campus operations that can operate remotely will remain remote. However, as the need arises to resume certain on-site functions, particularly those needed in preparation for fall quarter, this page provides a summary of the process used to review and approve requests. 
 
 ### Process overview
 
@@ -38,6 +38,10 @@ Once a principal officer determines that a function should go through the review
 **Step 4:** There will be a post-implementation review, and compliance with worksite plans will be monitored. 
 
 Questions about the process can be sent to [worksite@ucsc.edu](mailto:worksite@ucsc.edu).
+
+### COVID-19 Supplies Request Form
+
+To request supplies, equipment, or workspace modifications to help prevent the spread of COVID-19, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZWheLtmc7GOAeEz4qh8Dl_mT9v6FaJlYNOSzQdCEJAJe1WQ/viewform).  All requests will be evaluated by Environmental Health and Safety staff prior to fulfillment. Once a supplies request has been approved, you will be contacted with details for scheduling pick up of your items.
 
 ### More Resources
 * [COVID-19 Recovery and Resiliency Plan Briefing Book](/assets/images/ucsc-recovery-resiliency-briefing-book.pdf) (PDF)
