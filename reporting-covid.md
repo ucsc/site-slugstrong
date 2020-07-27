@@ -40,7 +40,7 @@ Campus leaders are taking all appropriate measures to protect our community and 
 
 <th scope="row">Total</th>
 
-<td>8</td>
+<td>11</td>
 
 </tr>
 
@@ -48,7 +48,7 @@ Campus leaders are taking all appropriate measures to protect our community and 
 
 <th scope="row">Current Campus Cases (residing off campus in Santa Cruz County<sup>[1]</sup>)</th>
 
-<td>3</td>
+<td>6</td>
 
 </tr>
 
