@@ -29,7 +29,7 @@ Once a principal officer determines that a function should go through the review
 
 *Pending approval to return* 
 
-**Step 2:** Units approved to move forward will complete a [worksite plan](https://recovery.ucsc.edu/assets/images/worksite-plan.pdf) and complete mitigations. The worksite plan template is intended to be both a guide and plan.
+**Step 2:** Units approved to move forward will complete a worksite plan and complete mitigations. The worksite plan template is intended to be both a guide and plan.
 
 *Pending approval of worksite plan*
 
