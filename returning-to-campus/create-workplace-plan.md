@@ -25,7 +25,7 @@ The process is based on two key principles:
 We will continue to add to this process as further state and federal guidance is received, but the steps outlined below provide a general overview. 
 
 **Step 1:** Principal Officers will make determinations about what functions will be submitted for review as part of the return to on-site operations.
-Once a principal officer determines that a function should go through the review process, then a request is submitted using the [Request to Engage in On-site Work Resumption Review](https://docs.google.com/forms/d/1efH_SosQgn4KPrdt8VNpGONK3URQ3-wpG7qXoHzH_Kc/viewform?ts=5efb86de&edit_requested=true).
+Once a principal officer determines that a function should go through the review process, then a request is submitted using the Request to Engage in On-site Work Resumption Review.
 
 *Pending approval to return* 
 
