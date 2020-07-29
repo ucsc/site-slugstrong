@@ -21,7 +21,7 @@ Even though we may be physically apart, Slugs are all in this together and stude
 
 
 
-The [Keep Learning site](https://keeplearning.ucsc.edu) provides resources and support for students who are learning remotely, and Information Technology Services offers [useful resources](https://its.ucsc.edu/covid-19/students-remotely.html) to help students learn and study remotely.
+The [Keep Learning site](https://keeplearning.ucsc.edu) provides resources and support for students who are learning remotely, and Information Technology Services offers [useful resources](https://its.ucsc.edu/covid-19/students-remotely.html) to help students learn and study remotely and runs a [loaner laptop program](https://its.ucsc.edu/covid-19/students-remotely.html#loaner).
 
 A full list of services and operating hours is [available online](/support-for-students/campus-services). There are a variety of offices available to provide [support and help to students](/support-for-students/resources). 
 
