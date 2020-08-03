@@ -30,9 +30,9 @@ The process is based on two key principles:
 
 We will continue to add to this process as further state and federal guidance is received, but the steps outlined below provide a general overview. 
 
-> **Step 1: Non-binding poll**
+**Step 1: Non-binding poll**
 
-> Principal officers already submitted as part of the [non-binding poll](https://docs.google.com/forms/d/e/1FAIpQLScYbwaP8xpT6FjWt69uRtVClfrRgIPHuvYZEsIyQd5SKo1j3Q/viewform) the list of activities currently operating remotely that might be submitted for review for potential return to in-person on-site operations by fall quarter. 
+Principal officers already submitted as part of the [non-binding poll](https://docs.google.com/forms/d/e/1FAIpQLScYbwaP8xpT6FjWt69uRtVClfrRgIPHuvYZEsIyQd5SKo1j3Q/viewform) the list of activities currently operating remotely that might be submitted for review for potential return to in-person on-site operations by fall quarter. 
 
 **Step 2: Initial review of poll submission**
 
