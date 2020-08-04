@@ -21,9 +21,12 @@ To help assist employees and students during COVID-19, Information Technology Se
 
 To request supplies, equipment, or workspace modifications to help prevent the spread of COVID-19, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZWheLtmc7GOAeEz4qh8Dl_mT9v6FaJlYNOSzQdCEJAJe1WQ/viewform).  All requests will be evaluated by Environmental Health and Safety staff prior to fulfillment. Once a supplies request has been approved, you will be contacted with details for scheduling pick up of your items.
 
-# Leaves, Benefits, and FAQs
+# Leaves, Benefits, Support, and FAQs
 
 Staff Human Resources offers a wealth of support and is holding weekly [virtual office hours](https://shr.ucsc.edu/covid-19-resources/index.html#new%3Avirtualofficehours) for staff, and the [Academic Personnel Office](https://apo.ucsc.edu/covid-19/index.html) is providing information for academic employees, supervisors and administrators.
+
+To support the well-being and mental health of staff and faculty, the Office of Risk Services is organizing regular support group sessions. Learn more [online](https://risk.ucsc.edu/employee-wellness/covid-19-wellness-resources/index.html).
+
 
 ## Leave Information
 
