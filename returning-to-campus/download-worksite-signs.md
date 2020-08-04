@@ -2,7 +2,7 @@
 layout: page
 title: Order Worksite Signs
 description: >
-  New signs will help provide visual cues to minimize exposure.``
+  New signs will help provide visual cues to minimize exposure.
 sidebar: true
 category: return
 weight: 4
