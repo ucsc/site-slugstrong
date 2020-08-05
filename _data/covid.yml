@@ -2,6 +2,7 @@ county:
   active: 781
   total: 1151
 ucsc:
+  total: 11
   campus:
     current: 0
   off-campus:
