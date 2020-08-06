@@ -1,0 +1,12 @@
+county:
+  active: 781
+  total: 1151
+ucsc:
+  total: 11
+  campus:
+    current: 0
+  off-campus:
+    santa-cruz: 3
+    elsewhere: 0    
+  recovered: 7
+  deaths: 1
