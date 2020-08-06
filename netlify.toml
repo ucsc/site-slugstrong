@@ -4,6 +4,14 @@
   status = 301
   headers = {X-From = "Netlify"}
   force = true
+
+[[redirects]]
+  from = "/returning-to-campus/download-worksite-signs/"
+  to = "https://docs.google.com/forms/d/e/1FAIpQLSfIWvy5HuA79kkwPw6jLovRw4_SYzUJHq0g7UPbxHLEgtp_hg/viewform"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]

@@ -12,8 +12,4 @@ button:
   icon: "download-11.svg"
 ---
 
-
-*Form not appearing? Open it in a [new browser window](https://docs.google.com/forms/d/e/1FAIpQLSfIWvy5HuA79kkwPw6jLovRw4_SYzUJHq0g7UPbxHLEgtp_hg/viewform?edit_requested=true).* 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfIWvy5HuA79kkwPw6jLovRw4_SYzUJHq0g7UPbxHLEgtp_hg/viewform?embedded=true" width="640" height="19444" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+This page redirects to: <https://docs.google.com/forms/d/e/1FAIpQLSfIWvy5HuA79kkwPw6jLovRw4_SYzUJHq0g7UPbxHLEgtp_hg/viewform>
