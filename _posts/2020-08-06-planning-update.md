@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Planning Update
-date: 2020-08-06
+date: 2020-08-04
 author: Vice Chancellor Sarah Latham
 author_email: vcbas@ucsc.edu
 layout: post
