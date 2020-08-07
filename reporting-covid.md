@@ -12,7 +12,7 @@ front:
   icon: "virus-1.svg"
 ---
 
-_Last update: Aug. 6, 2020_
+_Last update: Aug. 7, 2020_
 
 **COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
 
