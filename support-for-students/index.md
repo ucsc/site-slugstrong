@@ -20,6 +20,7 @@ front:
 Even though we may be physically apart, Slugs are all in this together and students have a number of support and engagement services available to ensure their success. Student Health Services, Counseling and Psychological Services, Basic Needs support, Academic Advising, Learning Support Services, and CARE are open and providing services remotely. 
 
 
+The [McHenry and Science & Engineering Library](https://library.ucsc.edu/) buildings remain closed, though many [library services](https://guides.library.ucsc.edu/remote-access) are still available, and library employees are working remotely to help students. 
 
 The [Keep Learning site](https://keeplearning.ucsc.edu) provides resources and support for students who are learning remotely, and Information Technology Services offers [useful resources](https://its.ucsc.edu/covid-19/students-remotely.html) to help students learn and study remotely and runs a [loaner laptop program](https://its.ucsc.edu/covid-19/students-remotely.html#loaner).
 
