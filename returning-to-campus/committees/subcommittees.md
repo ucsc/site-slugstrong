@@ -133,7 +133,8 @@ button:
 * Magge McCue 
 * Nader Oweis
 * Sarah Barron
-* Sue Matthews 
+* Sue Matthews
+* Fiona Weigant
 
 ### OERR Operational Resiliency Work Group Task Team members: 
 
@@ -183,7 +184,6 @@ button:
 * Teresa Buika
 * Todd Hammonds
 
-
 ### OERR Employee Resiliency Work Group
 
 * Adrienne Harrell (Chair)
@@ -203,7 +203,6 @@ button:
 * Linda Scholz 
 * Mirjam Kuusik 
 
-
 ### OERR Leveraging Opportunity Work Group
 
 * Biju Kamaleswaran (Chair)
@@ -215,4 +214,7 @@ button:
 * Marie Logan 
 * Sabrina Shaver 
 * Shelby Young 
-* Van Williams
+* Stephanie Nielsen
+* Brian Macdonald
+* Leslie Geary
+
