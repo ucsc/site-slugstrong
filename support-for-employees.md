@@ -10,7 +10,7 @@ menu: Support for Employees
 sidebar: true
 title: Support for Employees
 description: >
-  Staff Human Resources and the Academic Personnel Office are provided assistance and resources for employees.
+  Staff Human Resources and the Academic Personnel Office are providing assistance and resources for employees.
 ---
 
 # Working Remotely
