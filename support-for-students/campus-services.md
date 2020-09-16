@@ -75,8 +75,8 @@ The Express Store will remain open and will limit the number of individuals allo
 
  <tr>
     <td><b>Dining Services</b></td>
-    <td>Dining Services continues to offer service at the Colleges Nine and Ten Dining Hall</td>
-    <td><a href="https://deanofstudents.ucsc.edu/slug-support/program/index.html">Website</a></td>
+    <td>View open locations, hours, and menus at [dining.ucsc.edu/eat](dining.ucsc.edu/eat)</td>
+    <td><a href="https://dining.ucsc.edu/index.html">Website</a></td>
   </tr>
 
 
