@@ -39,24 +39,25 @@ Residential Life staff have been hard at work developing several opportunities f
 
 ## Dining on Campus
 
-**Am I still able to use the Dining Halls on campus?**
+**How is UCSC Dining operating during the pandemic?**
 
-Absolutely! Although you will notice several changes. During the summer of 2020, the Colleges Nine and Ten Dining Hall is open for breakfast, lunch and dinner.  Upstairs from the College Nine and Ten Dining Hall, in the Terra Fresca restaurant space, Dining is offering a convenience store or c-store providing some grocery items, grab-n-go meals, snacks and bottled beverages. Customers who pay with Flexi Dollars get a 10% discount. Hours are [available online](https://dining.ucsc.edu/covid-19/index.html#dining).
+With fewer people on campus, Dining Services has reduced the number of locations at which it is serving customers. It has also implemented numerous changes to its operations in support of everyone’s wellbeing. Currently, all dining hall meals must be ordered online, in advance, using the [GET app or website](https://dining.ucsc.edu/get/index.html). All meals must be taken to go. Face coverings and social distancing efforts are required. [Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
 
-**How are the Dining Halls operating during the pandemic?**
+**I live in a residence hall; what are my meal plan options?**
 
-With fewer people on campus, Dining Services has reduced the number of locations at which it is serving customers. It has also implemented numerous changes to its operations in support of everyone’s wellbeing. Currently, all meal options must be taken to go. Patrons are allowed into the Dining Halls in limited numbers, so you may need to wait in line, wearing a face covering, and maintaining physical distancing boundaries. Upon entry, patrons will be provided and required to wear food-handler gloves. Reusable bags are not allowed into the Dining Halls. Here is a [summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
+Students living in residence halls have [two meal plan options](https://dining.ucsc.edu/res-hall-meal-plans/index.html) that satisfy their meal plan requirement. Your plan is included with your housing contract and will activate after sequester meal service ends. 
 
- **What options are there for touchless/contactless service?**
-  
-Currently, two contactless payment options are available at the point of sale: students may use a smartphone to make payments through their respective meal plan funds (Board Meals, Slug Meals, Flexi$), or credit cards can be touchless using Apple Pay or Google Pay. Students who do not have a smartphone, or who have lost/forgotten their phones, may use their physical student ID or credit cards and are asked to swipe their own cards. Sanitizer stations are available immediately after payment processing, before you enter the dining hall. Additionally, all self-service has been eliminated from the dining halls and all food and beverages are served by staff members. You may choose your items at each station and staff will place the items on the counter or table for you. 
+**I don’t live in a residence hall; can I have a meal plan?**
 
-If you want to avoid the dining hall, several options are available for ordering take-out foods. The [GET app](https://dining.ucsc.edu/get/index.html) can be used to place to-go orders for any UCSC dining-operated locations using a mobile or web-enabled device (please check [this list](https://dining.ucsc.edu/eat/index.html) for location details). You can also use the GET app to purchase [Slug Meals](https://dining.ucsc.edu/slugmeals/index.html) and [Flexi$](https://dining.ucsc.edu/flexi/index.html) right from your mobile device. In addition to campus locations, Flexi$ are also accepted at a number of convenient stores and restaurants around town. GrubHub provides another alternative for using Flexi$; through the GrubHub app, you can purchase food from any vendor that accepts orders through GrubHub.
+If you are a student living in campus apartments, ARCH communities, or local off-campus housing, you can choose to purchase a voluntary meal plan. To purchase Slug Meals, Flexi Dollars, or a 5- or 7-Day Meal Plan, you must use the [GET app or website](https://dining.ucsc.edu/get/index.html) to add these funds to your account using a credit card.
+
+**Where else can I get food on campus, besides the dining hall?**
+
+Visit the [Dining locations](https://dining.ucsc.edu/eat/index.html) page to see what’s open today.
 
 **What if I forget my mask?**
+The requirement to wear facial coverings is a state/county regulation, and you must have a face mask or other appropriate cloth facial covering to enter any dining facilities. Appropriate coverings include bandanas, neck gaiters, and homemade or commercially-produced face masks with a proper fit covering both your mouth and nose. Unfortunately, if you forget your mask and do not have an appropriate facial covering, we will not be able to let you enter the facility. We do not have additional masks to give out, and you will be asked to leave until you are able to return with an appropriate facial covering. You will need to have a facial covering to pick up to-go food orders.
 
-The requirement to wear facial coverings is a state/county regulation, and you must have a face mask or other appropriate cloth facial covering to enter any dining facilities. Appropriate coverings include bandanas, neck gaiters, and homemade or commercially-produced face masks with a proper fit covering both your mouth and nose. Unfortunately, if you forget your mask and do not have an appropriate facial covering, we will not be able to let you enter the facility. We do not have additional masks to give out, and you will be asked to leave until you are able to return with an appropriate facial covering.
-If you had a reservation for dine-in eating and are not able to make it back in time, you may book a new reservation online, however, we cannot guarantee that there will be a space available in the next reservation slot. Alternatively, you may order food for take-out from any of our dining halls using the GET app on any mobile or web-enabled device. You will need to have a facial covering to pick up to-go food orders.
 
 ## Getting Around Campus
 
