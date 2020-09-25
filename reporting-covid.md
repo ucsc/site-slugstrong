@@ -16,6 +16,8 @@ _Last update: Sept. 24, 2020_
 
 **COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
 
+Starting in fall quarter 2020, students living on campus or taking in-person classes must complete a [daily COVID-19 symptom screening survey and get regular COVID-19 tests](https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html).
+
 All employees who work on-site at a UCSC property (owner or leased) must complete a daily COVID-19 symptom check questionnaire prior to reporting for work. Effective immediately, these employees must [enroll in the program](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR). [Learn more](https://www.ucsc.edu/coronavirus/symptom-check.html) about the program.
 
 Preventing the spread of COVID-19 is one of our highest priorities. UC Santa Cruz is responding to concerns from the campus community regarding COVID-19.
