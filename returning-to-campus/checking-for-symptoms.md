@@ -15,6 +15,10 @@ button:
 
 **COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
 
+### For students
+Starting in fall quarter 2020, all students living on campus or taking in-person classes must complete a daily COVID-19 symptom screening survey and get regular COVID-19 tests. [Read more](https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html). 
+
+### For employees
 All employees who work on-site at a UCSC property (owner or leased) must complete a daily COVID-19 symptom check questionnaire prior to reporting for work. Effective immediately, these employees [must enroll in the program](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR).
 
 Once [registered](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR), employees will receive a daily symptom questionnaire each morning at 3 a.m. Employees must complete this questionnaire at home, before coming to work.  The questionnaire is brief and should take less than four minutes to complete.
