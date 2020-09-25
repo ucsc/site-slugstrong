@@ -4,9 +4,9 @@ title:  Task Forces and Workgroups
 description: >
   Academic and operational task forces are guiding the COVID-19 recovery effort.
 sidebar: true
-category: return
+category: 
 subcategory: committee
-weight: 7
+weight: 
 button:
   bg: '#b4436cff'
   color: '#fff'
