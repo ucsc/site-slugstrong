@@ -12,6 +12,13 @@
   headers = {X-From = "Netlify"}
   force = true
 
+[[redirects]]
+  from = "/returning-to-campus/get-tested/"
+  to = "https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
