@@ -15,10 +15,10 @@ button:
 ## Together we can curb COVID-19
 More than ever, it’s important to take care of our own health and do our part to reduce the spread of COVID-19. 
 
-<figure class="inline-image right">
-{% asset slug-strong.png magick:resize=500 alt="Main" %}</figure>
 
 Everyone in our community should adopt six practices to stay Slug strong: physically distance, wear a face covering, avoid gathering in groups, keep your hands and equipment clean, get tested if you have COVID-19 symptoms, and inform your supervisor if you're sick. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7bOilWTDE-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Share information
 Let people know about the Strong Slug effort by adding it to your email signature. Instructions are available [online](https://docs.google.com/document/d/1V3fi_dugczdT8ZOspqySfHYtkqxFxYNVUYgOM2eeWcE/edit?usp=sharing).
@@ -38,6 +38,8 @@ Face covering resources:
 UCSC employees and students are welcome to use their own cloth face coverings. In addition, the campus is coordinating with campus partners to procure reusable cloth face coverings for essential staff working on campus and students living in on-campus housing who are unable to provide their own. Please note, these will be non-medical grade face coverings.  Priority will be given to essential staff working on campus in close quarters and in confined indoor spaces, including dining services, housing staff, and custodial services.
 
 ### Social Distancing Protocol
+<figure class="inline-image right">
+{% asset slug-strong.png magick:resize=500 alt="Main" %}</figure>
 
 UCSC is taking the following measures to ensure the health of faculty, staff, students, patients and their families:
 
