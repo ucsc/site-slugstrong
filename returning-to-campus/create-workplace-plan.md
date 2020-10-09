@@ -68,7 +68,7 @@ As conditions and state/county/system directives change, any operations approved
 
 ### For operations identified for resumption after the initial phase of work site plan development and review
 
-The steps outlined above represent the process that will be used prior to the start of fall quarter. Once the initial set of functions identified by principal officers resume and as conditions change, additional operations to be reviewed for on-site resumption will be identified through the [Request to Engage in On-site Work Resumption Review](Request to Engage in On-site Work Resumption Review) form.
+The steps outlined above represent the process that will be used prior to the start of fall quarter. Once the initial set of functions identified by principal officers resume and as conditions change, additional operations to be reviewed for on-site resumption will be identified through the [Request to Engage in On-site Work Resumption Review](https://docs.google.com/forms/d/1efH_SosQgn4KPrdt8VNpGONK3URQ3-wpG7qXoHzH_Kc/viewform?ts=5efb86de&edit_requested=true) form.
 
 Units approved to move forward will complete a worksite plan and any necessary  mitigations. The approval of work site plans will follow steps 6-8 above.
 
