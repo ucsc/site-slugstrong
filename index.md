@@ -14,7 +14,7 @@ COVID-19 requires us to rethink how we teach, research, and work. There are new 
 
 This site is meant to provide everyone in our campus community with crucial information as we work toward resuming more and more in-person research, teaching, and work.
 
-This will continue to be an incredibly dynamic moment in our lives. Never before have Banana Slugs needed to move so fast and adapt so quickly. 
+This will continue to be an incredibly dynamic moment in our lives. Never before have Banana Slugs needed to move so fast and adapt so quickly. [Together we are Slug strong](https://www.youtube.com/watch?v=7bOilWTDE-g). 
 
 *Questions or feedback? Please email [publicaffairs@ucsc.edu](mailto:publicaffairs@ucsc.edu).*
    

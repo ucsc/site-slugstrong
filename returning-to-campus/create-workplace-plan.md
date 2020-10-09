@@ -15,7 +15,7 @@ button:
 
 ### Current status of campus operations
 
-UC Santa Cruz remains in [phase 3 of operational resumption](https://news.ucsc.edu/2020/06/final-campus-operational-resumption-phases.pdf). At this point in time, all campus operations that can operate remotely will remain remote. However, as the need arises to resume certain on-site functions, particularly those needed in preparation for fall quarter, this page provides a summary of the process used to review and approve requests.
+UC Santa Cruz remains in [phase 4 of operational resumption](https://recovery.ucsc.edu/assets/images/resumption-phases.pdf). At this point in time, all campus operations that can operate remotely will remain remote. However, as the need arises to resume certain on-site functions, particularly those needed in preparation for fall quarter, this page provides a summary of the process used to review and approve requests.
 
 Questions about the process can be sent to [worksite@ucsc.edu](mailto:worksite@ucsc.edu).
 
@@ -52,7 +52,7 @@ Each division will have a resumption process orientation and planning session wi
 
 **Step 6: Review of work site plan**
 
-The on-site resumption team will review the work site plans. Depending on the operation, other staff may  be asked to review and provide advice on the plan. The list of operations that have work site plans that have met all requirements will be reviewed by the campus provost and executive vice chancellor, and vice chancellor for Business and Administrative Services prior to final resumption approval.
+The on-site resumption team will review the work site plans. Depending on the operation, other staff may be asked to review and provide advice on the plan. The list of operations that have work site plans that have met all requirements will be reviewed by the associate vice chancellor for Risk and Safety Services prior to final resumption approval.
 
 **Step 7: Resumption of on-site operations and return of employees**
 
@@ -68,7 +68,7 @@ As conditions and state/county/system directives change, any operations approved
 
 ### For operations identified for resumption after the initial phase of work site plan development and review
 
-The steps outlined above represent the process that will be used prior to the start of fall quarter. Once the initial set of functions identified by principal officers resume and as conditions change, additional operations to be reviewed for on-site resumption will be identified through the [Request to Engage in On-site Work Resumption Review](Request to Engage in On-site Work Resumption Review) form.
+The steps outlined above represent the process that will be used prior to the start of fall quarter. Once the initial set of functions identified by principal officers resume and as conditions change, additional operations to be reviewed for on-site resumption will be identified through the [Request to Engage in On-site Work Resumption Review](https://docs.google.com/forms/d/1efH_SosQgn4KPrdt8VNpGONK3URQ3-wpG7qXoHzH_Kc/viewform?ts=5efb86de&edit_requested=true) form.
 
 Units approved to move forward will complete a worksite plan and any necessary  mitigations. The approval of work site plans will follow steps 6-8 above.
 

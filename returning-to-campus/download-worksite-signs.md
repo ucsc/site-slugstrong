@@ -5,7 +5,7 @@ description: >
   New signs will help provide visual cues to minimize exposure.
 sidebar: true
 category: return
-weight: 4
+weight: 6
 button:
   bg: '#48acf0ff'
   color: '#fff'

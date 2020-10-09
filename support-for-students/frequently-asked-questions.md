@@ -70,6 +70,47 @@ Yes, on a very limited schedule – more [here](https://www.scmtd.com/en/).
 
 ## Health and Wellbeing
 
+**What are my responsibilities to the UCSC community in light of the COVID-19 pandemic?**
+
+Among the most important things all of us can do is to become acutely aware of the condition of our health. Take note of this every morning and be regularly tested for COVID-19. Register with [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html) to sign up for text reminders, take those daily surveys of your health status, and make appointments to be COVID-19 tested. Regular COVID-19 testing is mandatory in order to be on campus. 
+
+There is an obligation for all campus community members to join together at this time to support the health and well-being of ourselves and and to be considerate and responsible regarding the health of others. Testing for students living on campus is mandatory. The need for all of us to be regularly tested and other similar responsibilities are emphasized in UCSC’s Interim Public Health Policy. For more information about that policy, please see [here](https://news.ucsc.edu/2020/09/interim-public-health-policy.html).
+
+**Will the University have regular COVID-19 testing of its students?**
+
+Yes, all students who come onto campus or who live on campus are required to be tested on a regular basis.  This same expectation/obligation holds for all staff and faculty who come to campus.
+
+**Where can I get tested?**
+
+Starting the week of September 21, 2020, COVID-19 testing is available inside the Namaste Lounge at College Nine. Additional testing sites are expected to be available soon. All available testing sites will be updated and listed in the appointment section of [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html).
+
+**What if I don’t feel well the day of my testing appointment?**
+
+If you feel unwell on the day of your appointment, do not come to the testing site. Instead, remain isolated from others and contact the Student Health Center’s Nurse Advice line at 831/459-2591 for direction on next steps.
+
+**How will I know the results of my test and when will I receive those results?**
+
+Test results should be available between 24 and 72 hours after testing. You will receive an email with instructions on how to access those.
+
+**Will the COVID-19 test be uncomfortable?**
+
+People are most familiar with the kind of testing in which a medical professional sticks a long cotton swab quite far up into your nose. This is NOT the kind of testing being used at UCSC. Rather, you will be provided a cotton swab that you will be asked to insert, yourself, no farther than a half inch inside each nostril.
+
+**If I am living off campus, am I required to participate in this testing program?**
+
+If you live off campus and **never** come to campus, no, you do not need to participate in this program.
+
+However, if you live off campus and have plans to be on campus, to come to campus, you must perform the daily symptom check available through [Health e-Messenger portal](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html) and, if the resulting Status Badge is green, and the first stop you need to make upon arriving to campus is a testing site.  While the testing itself takes only a few minutes per person, please plan some extra time in case you need to wait in line.
+
+**If I am living off campus and would like to be tested on a regular basis, may I do so?**
+
+Yes, you may. Make sure to sign up for [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html), take the daily symptom check survey, and as long as the result of that survey is a green Status Badge, then make an appointment to ensure that testing the first thing you do upon arrival to the campus.
+
+**What is Asymptomatic testing?**
+
+Asymptomatic testing is different from what is commonly known as antibody testing – that is, testing to determine if someone has had COVID-19 and has developed antibodies in response to it. Asymptomatic testing tests for COVID-19 viral RNA particles and lets you know if you are currently or have recently been infected with the virus. This kind of testing is like a snapshot in time -- the results of testing indicate what that individual’s status was at the moment they took the test. This is why repeated testing is necessary.
+
+
 **How can I best prepare to return to campus?**
 
 Stay healthy and practice all CDC recommended measures for resisting infection, including but not limited to wearing face coverings when with others, observe at least six feet of physical distance between yourself and others, etc. UCSC’s Student Health Center has plenty of information for you in this regard. Consider reviewing prevention measures offered by the the [Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). Currently, it is likely to be proposed that all students who wish to reside on campus should self-isolate for 14 days prior to coming to campus, and then be sequestered for another 14 days after arriving on campus. With this, move-in is likely to happen earlier than is typical.
