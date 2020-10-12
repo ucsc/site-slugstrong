@@ -12,7 +12,7 @@ front:
   icon: "virus-1.svg"
 ---
 
-_Last update: Oct. 10, 2020_
+_Last update: Oct. 12, 2020_
 
 **COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
 
@@ -42,7 +42,7 @@ Campus leaders are taking all appropriate measures to protect our community and 
 
 <th scope="row">Total</th>
 
-<td>19</td>
+<td>20</td>
 
 </tr>
 
@@ -50,7 +50,7 @@ Campus leaders are taking all appropriate measures to protect our community and 
 
 <th scope="row">Current Campus Cases (residing off campus in Santa Cruz County<sup>[1]</sup>)</th>
 
-<td>2</td>
+<td>3</td>
 
 </tr>
 
