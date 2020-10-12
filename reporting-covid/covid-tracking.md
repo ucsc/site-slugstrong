@@ -3,7 +3,7 @@ layout: page
 title: Tracking COVID-19
 description: >
   Tracking COVID-19.  
-sidebar: true
+sidebar: false
 category: reporting
 weight: 2
 button:
