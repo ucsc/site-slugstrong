@@ -56,6 +56,16 @@
     }
 }
 
+.tracking-back {
+    display: inline;
+    text-align: left;
+    width: auto;
+    color: $ucsc-primary-blue;
+    background: $white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
 @media screen and (min-width: 48em) {
     .hero-area.layout-left {
         width: 100%;
