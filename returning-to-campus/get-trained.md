@@ -22,4 +22,4 @@ All employees who will be working on-site must complete the new [COVID-19 Workpl
 
 
 ## Student Training
-A student training module is under development for Canvas. 
+All students (undergraduate and graduate) living on campus must complete [COVID awareness and best-practices training](https://compliance.fifoundry.net/uc-santa-cruz/student/dashboard#/). The Staying Healthy in a Changing Environment for Students on Campus course is being hosted on the [EverFi platform](https://compliance.fifoundry.net/uc-santa-cruz/student/dashboard#/). Campus residents should automatically be enrolled in this course. If you are living on campus and the course has not been assigned please contact [ehs@ucsc.edu](mailto:ehs@ucsc.edu)
