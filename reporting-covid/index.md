@@ -11,7 +11,7 @@ front:
   color: "#fff"
   icon: "virus-1.svg"
 ---
-
+{% include reporting-tracking-grid.html %}
 _Last update: Oct. 12, 2020_
 
 **COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
