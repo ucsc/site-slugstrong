@@ -66,6 +66,12 @@
     padding-bottom: 1rem;
 }
 
+.tracking-covid-19 {
+    .main-content {
+        max-width: 67.5em !important;
+    }
+}
+
 @media screen and (min-width: 48em) {
     .hero-area.layout-left {
         width: 100%;
