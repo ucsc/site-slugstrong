@@ -5,6 +5,8 @@ description: >
   Reporting COVID-19.  
 sidebar: true
 category: reporting
+button-copy: >
+  If you have tested positive for COVID-19, please notify the campus. Learn more.
 weight: 1
 button:
   bg: '#b4436cff'
@@ -13,7 +15,7 @@ button:
 ---
 _Last update: Oct. 12, 2020_
 
-### If you have tested positive for COVID-19, please notify the campus. Learn more. ###
+
 
 **COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
 

@@ -5,6 +5,8 @@ description: >
   Tracking COVID-19.  
 sidebar: false
 category: reporting
+button-copy: >
+  The dashboard provides a regularly updated overview of COVID-19 testing at UCSC
 weight: 2
 button:
   bg: '#3d7068ff'
@@ -16,9 +18,6 @@ back_text: Back
   {% if page.back %}
 <a href="{{ page.back }}" class="pill tracking-back">{% include svg/arrow-72.svg %}{{ page.back_text }}</a>
 {% endif %}
-
-### The dashboard provides a regularly updated overview of COVID-19 testing at UCSC ###
-
 
 The COVID-19 dashboard provides a regularly updated status on COVID-19 at UCSC. The UCSC testing data in the dashboard will be updated on those days when complete testing data is available for a 24-hour period during which asymptomatic testing was conducted. This data will help inform decisions about on-campus operations and activities.
 

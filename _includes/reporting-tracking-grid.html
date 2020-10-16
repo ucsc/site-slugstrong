@@ -1,8 +1,8 @@
 <div class="row">
-           <ul class="return-grid-container">
+           <ul class="subpage-grid-container">
               {% assign blocks = site.pages | where:"category", page.category | sort: "weight"%}
               {% for p in blocks %}
-              {% if p.name != 'returning-to-campus.md' and p.name != 'subcommittees.md' and p.name != 'committees.md' %}
+
               {% if p.button %}
                <li>
                   <a style="background-color: {{ p.button.bg }}; color: {{ p.button.color }};" href="{{ p.url | relative_url }}">
@@ -14,9 +14,12 @@
                     </p>
                   </div>
                   </a>
+                  {% if p.button-copy %}
+                  <h3>{{p.button-copy}}</h3>
+                  {% endif %}
                 </li>
               {% endif %}
-              {% endif %}
+
               {% endfor %}
             </ul>
           </div>

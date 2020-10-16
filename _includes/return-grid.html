@@ -1,5 +1,5 @@
 <div class="row">
-           <ul class="return-grid-container">
+           <ul class="subpage-grid-container">
               {% assign blocks = site.pages | where:"category", page.category | sort: "weight"%}
               {% for p in blocks %}
               {% if p.name != 'returning-to-campus.md' and p.name != 'subcommittees.md' and p.name != 'committees.md' %}
