@@ -2,11 +2,9 @@
 layout: page
 title: Reporting COVID-19
 description: >
-  Reporting COVID-19.  
+  If you have tested positive for COVID-19, please notify the campus. Learn more.
 sidebar: true
 category: reporting
-button-copy: >
-  If you have tested positive for COVID-19, please notify the campus. Learn more.
 weight: 1
 button:
   bg: '#b4436cff'

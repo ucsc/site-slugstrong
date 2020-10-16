@@ -2,11 +2,9 @@
 layout: page
 title: Tracking COVID-19
 description: >
-  Tracking COVID-19.  
+  The dashboard provides a regularly updated overview of COVID-19 testing at UCSC
 sidebar: false
 category: reporting
-button-copy: >
-  The dashboard provides a regularly updated overview of COVID-19 testing at UCSC
 weight: 2
 button:
   bg: '#3d7068ff'
