@@ -1,5 +1,5 @@
 ---
-title: Video: COVID-19 Information Forum August 8, 2020
+title: Video: COVID Information Forum
 date: 2020-08-08
 author: Public Affairs
 author_email: publicaffairs@ucsc.edu
