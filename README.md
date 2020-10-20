@@ -1,5 +1,7 @@
 # UC Santa Cruz Roadmap to Recovery
 
+[![GitHub version](https://badge.fury.io/gh/ucsc%2Fsite-recovery.svg)](https://badge.fury.io/gh/ucsc%2Fsite-recovery)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4fc59578-e400-4c10-bc99-a3804eb38230/deploy-status)](https://app.netlify.com/sites/ucsc-recovery/deploys)
 
 Website for the UC Santa Cruz Roadmap to Recovery (from COVID-19). Built with Jekyll, hosted on Netlify.
