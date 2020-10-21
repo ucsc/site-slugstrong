@@ -13,7 +13,7 @@ description: >
   Staff Human Resources and the Academic Personnel Office are providing assistance and resources for employees.
 ---
 
-## Working from Home
+# Working from Home
 As more faculty and staff work remotely, the campus has developed several tools to assist in the development of telecommuting plans, guidelines and resources.  These are intended to support both Situational Telecommuting (i.e. telecommuting that is taking place due to COVID-19 but would not continue long-term) and Routine Telecommuting (i.e. telecommuting that is implemented because it works well long-term for the employee and their department and will continue beyond COVID-19). It is envisioned that routine telecommuting will continue to expand across campus.
 
 **Situational Telecommuting: Current COVID-19 situation**
