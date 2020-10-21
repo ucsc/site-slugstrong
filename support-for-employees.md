@@ -29,11 +29,6 @@ As more faculty and staff work remotely, the campus has developed several tools 
  
 [**Resource Needs for Remote Worksites**](https://docs.google.com/document/d/1z-lo4XFQoaCfpx5ul7K1iU9mXbeGT8iMq2OpKKF_TQI/edit?usp=sharing): Key resources along with sourcing options to help support employees in optimizing their remote worksites.   
  
- 
- 
-
-
-
 # COVID-19 Supplies Request Form
 
 To request supplies, equipment, or workspace modifications to help prevent the spread of COVID-19, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZWheLtmc7GOAeEz4qh8Dl_mT9v6FaJlYNOSzQdCEJAJe1WQ/viewform).  All requests will be evaluated by Environmental Health and Safety staff prior to fulfillment. Once a supplies request has been approved, you will be contacted with details for scheduling pick up of your items.
@@ -44,6 +39,7 @@ Staff Human Resources offers a wealth of support and is holding weekly [virtual 
 
 To support the well-being and mental health of staff and faculty, the Office of Risk Services is organizing regular support group sessions. Learn more [online](https://risk.ucsc.edu/employee-wellness/covid-19-wellness-resources/index.html).
 
+In addition, the [Family Support Services webpage](https://shr.ucsc.edu/resources-forms/family-support-services.html) outlines the various resources available to support our employee family needs.
 
 ## Leave Information
 
