@@ -21,7 +21,7 @@ If you aren’t finding the information you are looking for here, [please share 
 
 **Why is my Student ID Card important?**
 
-Your [UCSC Student ID Card](https://orientation.ucsc.edu/summer/id-card.html) serves many functions. It is your official means of UCSC Identification, use to go into Dining Halls, check out materials from the campus libraries, ride certain city bus routes for free, allows access to the gym, can act as a key card giving you access to your residential building and more.
+Your [UCSC Student ID Card](https://orientation.ucsc.edu/summer/id-card.html) serves many functions. It is your official means of UCSC Identification, used to get meals in Dining Halls, check materials out from the campus libraries, ride certain city bus routes for free, can act as a key card giving you access to your residential building and more.
 
 **What is the first step I take to get my Student ID Card?**
 
@@ -31,7 +31,7 @@ The process starts with you submitting a passport type photo online – [here](h
 
 **What changes can I expect to encounter in the residential communities on campus?**
 
-With recommendations from the CDC, state and local departments of health, and its own Student Health Services, Environmental Health & Safety and other campus offices, UCSC has reduced the number of available student accommodations to primarily single rooms in the residence halls.  Accommodations in apartments are singles and  doubles but no more than 5 residents per apartment. Consideration has been given to reducing the ratio of students per bathroom on residential floors. So, there will be fewer overall students living on campus at this time.
+With recommendations from the CDC, state and local departments of health, and its own Student Health Services, Environmental Health & Safety and other campus offices, UCSC has reduced the number of available student accommodations to only single rooms in the residence halls.  Accommodations in apartments are singles and  doubles but no more than 5 residents per apartment and often fewer. Consideration has been given to reducing the ratio of students per bathroom on residential floors. So, there will be fewer overall students living on campus at this time.
 
 **How will I be able to engage with my on-campus community?**
 
@@ -41,7 +41,7 @@ Residential Life staff have been hard at work developing several opportunities f
 
 **How is UCSC Dining operating during the pandemic?**
 
-With fewer people on campus, Dining Services has reduced the number of locations at which it is serving customers. It has also implemented numerous changes to its operations in support of everyone’s wellbeing. Currently, all dining hall meals must be ordered online, in advance, using the [GET app or website](https://dining.ucsc.edu/get/index.html). All meals must be taken to go. Face coverings and social distancing efforts are required. [Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
+With fewer people on campus, Dining Services has reduced the number of locations at which it is serving customers. Currently, the only open Dining Hall is at Colleges Nine and Ten. It has also implemented numerous changes to its operations in support of everyone’s wellbeing. Currently, all dining hall meals must be ordered online, in advance, using the [GET app or website](https://dining.ucsc.edu/get/index.html). All meals must be taken to go. Face coverings and social distancing efforts are required. [Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
 
 **I live in a residence hall; what are my meal plan options?**
 
@@ -49,14 +49,14 @@ Students living in residence halls have [two meal plan options](https://dining.u
 
 **I don’t live in a residence hall; can I have a meal plan?**
 
-If you are a student living in campus apartments, ARCH communities, or local off-campus housing, you can choose to purchase a voluntary meal plan. To purchase Slug Meals, Flexi Dollars, or a 5- or 7-Day Meal Plan, you must use the [GET app or website](https://dining.ucsc.edu/get/index.html) to add these funds to your account using a credit card.
+If you are a student living in campus apartments, ARCH communities, or local off-campus housing, you may purchase a voluntary meal plan. To purchase Slug Meals, Flexi Dollars, or a 5- or 7-Day Meal Plan, you must use the [GET app or website](https://dining.ucsc.edu/get/index.html) to add these funds to your account using a credit card.
 
 **Where else can I get food on campus, besides the dining hall?**
 
 Visit the [Dining locations](https://dining.ucsc.edu/eat/index.html) page to see what’s open today.
 
 **What if I forget my mask?**
-The requirement to wear facial coverings is a state/county regulation, and you must have a face mask or other appropriate cloth facial covering to enter any dining facilities. Appropriate coverings include bandanas, neck gaiters, and homemade or commercially-produced face masks with a proper fit covering both your mouth and nose. Unfortunately, if you forget your mask and do not have an appropriate facial covering, we will not be able to let you enter the facility. We do not have additional masks to give out, and you will be asked to leave until you are able to return with an appropriate facial covering. You will need to have a facial covering to pick up to-go food orders.
+The requirement to wear facial coverings is a state/county regulation, and you must have a face mask or other appropriate cloth facial covering to enter any dining facilities. Appropriate coverings include bandanas, neck gaiters, and homemade or commercially-produced face masks with a proper fit covering both your mouth and nose. Unfortunately, if you forget your mask and do not have an appropriate facial covering, you will not be able to enter the facility. Additional masks are not available, and you will be asked to leave until you are able to return with an appropriate facial covering. Please note: You will need to have a facial covering to pick up to-go food orders.
 
 
 ## Getting Around Campus
@@ -72,17 +72,17 @@ Yes, on a very limited schedule – more [here](https://www.scmtd.com/en/).
 
 **What are my responsibilities to the UCSC community in light of the COVID-19 pandemic?**
 
-Among the most important things all of us can do is to become acutely aware of the condition of our health. Take note of this every morning and be regularly tested for COVID-19. Register with [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html) to sign up for text reminders, take those daily surveys of your health status, and make appointments to be COVID-19 tested. Regular COVID-19 testing is mandatory in order to be on campus. 
+Among the most important things all of us can do is to become acutely aware of the condition of our health. Take note of this every morning and be regularly tested for COVID-19. Register with [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html) to sign up for text reminders, take the daily surveys of your health status, and make appointments to be COVID-19 tested. Regular COVID-19 testing is mandatory in order to be on campus. 
 
 There is an obligation for all campus community members to join together at this time to support the health and well-being of ourselves and and to be considerate and responsible regarding the health of others. Testing for students living on campus is mandatory. The need for all of us to be regularly tested and other similar responsibilities are emphasized in UCSC’s Interim Public Health Policy. For more information about that policy, please see [here](https://news.ucsc.edu/2020/09/interim-public-health-policy.html).
 
 **Will the University have regular COVID-19 testing of its students?**
 
-Yes, all students who come onto campus or who live on campus are required to be tested on a regular basis.  This same expectation/obligation holds for all staff and faculty who come to campus.
+Yes, all students who come onto campus or who live on campus are required to be tested on a regular basis.
 
 **Where can I get tested?**
 
-Starting the week of September 21, 2020, COVID-19 testing is available inside the Namaste Lounge at College Nine. Additional testing sites are expected to be available soon. All available testing sites will be updated and listed in the appointment section of [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html).
+Currently, testing is available inside the Namaste Lounge at College Nine and at the Merrill Cultural Center. Additional testing sites are expected to be available soon. All available testing sites will be updated and listed in the appointment section of [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html).
 
 **What if I don’t feel well the day of my testing appointment?**
 
@@ -102,22 +102,17 @@ If you live off campus and **never** come to campus, no, you do not need to part
 
 However, if you live off campus and have plans to be on campus, to come to campus, you must perform the daily symptom check available through [Health e-Messenger portal](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html) and, if the resulting Status Badge is green, and the first stop you need to make upon arriving to campus is a testing site.  While the testing itself takes only a few minutes per person, please plan some extra time in case you need to wait in line.
 
-**If I am living off campus and would like to be tested on a regular basis, may I do so?**
-
-Yes, you may. Make sure to sign up for [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html), take the daily symptom check survey, and as long as the result of that survey is a green Status Badge, then make an appointment to ensure that testing the first thing you do upon arrival to the campus.
-
 **What is Asymptomatic testing?**
 
-Asymptomatic testing is different from what is commonly known as antibody testing – that is, testing to determine if someone has had COVID-19 and has developed antibodies in response to it. Asymptomatic testing tests for COVID-19 viral RNA particles and lets you know if you are currently or have recently been infected with the virus. This kind of testing is like a snapshot in time -- the results of testing indicate what that individual’s status was at the moment they took the test. This is why repeated testing is necessary.
-
+Asymptomatic testing is different from what is commonly known as antibody testing – that is, testing to determine if someone has had COVID-19 and has developed antibodies in response to it. Asymptomatic testing tests for COVID-19 viral RNA particles and lets you know if you are currently or have recently been infected with the virus. This kind of testing is like a snapshot in time -- the results of testing indicate what an individual’s status was at the moment they took the test. This is why repeated testing is necessary.
 
 **How can I best prepare to return to campus?**
 
-Stay healthy and practice all CDC recommended measures for resisting infection, including but not limited to wearing face coverings when with others, observe at least six feet of physical distance between yourself and others, etc. UCSC’s Student Health Center has plenty of information for you in this regard. Consider reviewing prevention measures offered by the the [Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). Currently, it is likely to be proposed that all students who wish to reside on campus should self-isolate for 14 days prior to coming to campus, and then be sequestered for another 14 days after arriving on campus. With this, move-in is likely to happen earlier than is typical.
+Stay healthy and practice all CDC recommended measures for resisting infection, including but not limited to wearing face coverings when with others, observe at least six feet of physical distance between yourself and others, etc. UCSC’s Student Health Center has plenty of information for you in this regard. Consider reviewing prevention measures offered by the [Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). Currently, it is expected that all students who wish to reside on campus should self-isolate for 14 days prior to coming to campus, and then be sequestered for another 14 days after arriving on campus.
 
 **Is UCSC doing COVID-19 testing for students?**
 
-The [Student Health Center](https://healthcenter.ucsc.edu/index.html) is providing [testing services](https://healthcenter.ucsc.edu/services/covid-19-testing.html) to students – an appointment is necessary.
+In addition to the testing kiosks described above, the [Student Health Center](https://healthcenter.ucsc.edu/index.html) is providing [testing services](https://healthcenter.ucsc.edu/services/covid-19-testing.html) to students – an appointment is necessary.
 
 **What if I begin feeling unwell?**
 
@@ -193,7 +188,7 @@ Yes, it offers a number of virtual cardio, core, yoga, barre classes and more.  
 
 UCSC’s [Community Rentals Office](https://communityrentals.ucsc.edu/covid-19/index.html) has information available for both renters and landlords that should be helpful while navigating the COVID-19 pandemic.
 
-**Where in Santa Cruz County can I be COVID-19 Test?**
+**Where in Santa Cruz County can I be COVID-19 tested?**
 
 There are several locations in the county that are doing COVID-19 Testing.  The County’s Health Services Agency has a[ Testing Locator](https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/SAVELivesSantaCruzCounty/GetTested.aspx) that provides a map showing testing locations and provides address, hours of service, and contact information.
 
