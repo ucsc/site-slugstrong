@@ -25,6 +25,7 @@ button:
 - [The Cove](https://shop.ucsc.edu/students-in-recovery/thecove.html)
 - [UCSC Student Health Center](https://healthcenter.ucsc.edu/)
 - [SHOP: Student Health Outreach and Promotions](https://shop.ucsc.edu/)
+- [Physical well-being during the pandemic](https://recreation.ucsc.edu/fitlife/)
 
 ## Resource Centers &  Initiatives
 - [African American Resource and Cultural Center](https://aarcc.ucsc.edu/)
