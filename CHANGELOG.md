@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/ucsc/site-recovery/compare/v1.0.1...v1.0.2) (2020-10-23)
+
+
+### Bug Fixes
+
+* :bug: Fix broken links and other edits based on Taskforce review ([2789d42](https://github.com/ucsc/site-recovery/commit/2789d4227aecc311af4c0b94bd1ef8444d162828))
+* :pencil2: Update Support for Students FAQ based on submitted edits ([999baa1](https://github.com/ucsc/site-recovery/commit/999baa1aaae3927e6237928bd4135569de2ba58c))
+
 ### 1.0.1 (2020-10-20)
 
 # Changelog

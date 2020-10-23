@@ -20,7 +20,7 @@ button:
   <tr>
     <td><b>Academic Advising</b></td>
     <td>Academic Advisers are working remotely and are available for student consultations and appointments. See the link at left for information about making an appointment. Make an <a href="https://advising.ucsc.edu/procedures/appts.html">advising appointment</a>.</td>
-    <td>Website</td>
+    <td><a href="https://advising.ucsc.edu/index.html">Website</a></td>
   </tr>
   <tr>
     <td><b>Admissions</b></td>
@@ -49,7 +49,7 @@ button:
   <tr>
     <td><b>Bookstore</b></td>
     <td>Open 8:30 am to 5 p.m. Closed Saturday and Sunday. The bookstore will be closed to walk-in shopping. Online orders can be picked up at the will-call window.</td>
-    <td>Website</td>
+    <td><a href="https://slugstore.ucsc.edu/">Website</a></td>
   </tr>
 
   <tr>
