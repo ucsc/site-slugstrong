@@ -48,7 +48,7 @@ Each division will have a resumption process orientation and planning session wi
 
 **Step 5: Development of work site plan**
 
-[Work site plans](https://drive.google.com/file/d/1Yw_oOa8p3dAoIAKIECNHswOCTDEq7e8h/view?usp=sharing) will be completed for any operations intended to resume. The units requesting resumption will be responsible for completing the work site plan. The unit recovery liaison will engage with the interim emergency manager as questions arise or clarification is needed. Work site plans must be submitted to [worksite@ucsc.edu](mailto:worksite@ucsc.edu).
+[Work site plans](https://recovery.ucsc.edu/assets/images/worksite-plan.pdf) will be completed for any operations intended to resume. The units requesting resumption will be responsible for completing the work site plan. The unit recovery liaison will engage with the interim emergency manager as questions arise or clarification is needed. Work site plans must be submitted to [worksite@ucsc.edu](mailto:worksite@ucsc.edu).
 
 **Step 6: Review of work site plan**
 
