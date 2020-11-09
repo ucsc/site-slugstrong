@@ -14,7 +14,7 @@
 
 [[redirects]]
   from = "/returning-to-campus/get-tested/"
-  to = "https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html"
+  to = "https://healthcenter.ucsc.edu/services/covid-19.html"
   status = 301
   headers = {X-From = "Netlify"}
   force = true
