@@ -11,4 +11,4 @@ button:
   color: '#fff'
   icon: "check-mark-circle-thin.svg"
 ---
-This page redirects to <https://healthcenter.ucsc.edu/services/covid-19.html>
+This page redirects to <https://healthcenter.ucsc.edu/services/covid19.html>
