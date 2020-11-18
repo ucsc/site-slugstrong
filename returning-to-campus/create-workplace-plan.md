@@ -40,7 +40,7 @@ Principal Officers who want to bring additional functionality or spaces back to 
 
 Many buildings have already completed the building worksite planning process but several buildings have not. Principal Officers are asked to proceed and have worksite plans prepared for all remaining buildings - whether you have approved on-site operations or not. We want to now ensure that all facilities at all sites have completed a worksite plan which includes overall preparation for COVID-19 related mitigations.
 
-Requesting Supplies or Equipment
+**Requesting Supplies or Equipment**
 
 To request supplies, equipment, or workspace modifications to help prevent the spread of COVID-19, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZWheLtmc7GOAeEz4qh8Dl_mT9v6FaJlYNOSzQdCEJAJe1WQ/viewform). All requests will be evaluated by Environmental Health and Safety staff prior to fulfillment. Once a supplies request has been approved, you will be contacted with details for scheduling pick up of your items.
 
