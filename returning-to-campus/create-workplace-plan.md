@@ -19,7 +19,7 @@ UC Santa Cruz remains in [phase 4 of operational resumption](https://recovery.uc
 
 Questions about the process can be sent to worksite@ucsc.edu.
 
-**Activity Resumption Process Overview**
+### Activity Resumption Process Overview
 
 The process for reviewing and approving the return to on-site operations assists departments in developing a plan for slowly and deliberately moving current remote operations back on-campus/on-site as needed.
 
