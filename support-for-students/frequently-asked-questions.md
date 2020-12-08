@@ -12,7 +12,7 @@ button:
   icon: "weather-134.svg"
 ---
 
-Many campus processes and procedures have been modified in light of the COVID-19 pandemic. Below are responses to a number of questions that should help give you a sense of what to expect and what you may need to do differently when navigating the campus and its many resources. 
+Many campus processes and procedures have been modified in light of the COVID-19 pandemic. Below are responses to a number of questions that should help give you a sense of what to expect and what you may need to do differently when navigating the campus and its many resources.
 
 Please be advised that some descriptions may refer to resources, buildings or providers of activities whose offices are currently closed. In nearly every case, however, those offices are available via the web, email, phone, etc.
 If you aren’t finding the information you are looking for here, [please share your questions with us](https://docs.google.com/forms/d/1c00n6EeLEtfQVSzkTt-UTiRrRQ0977dWSe5CI8vlCe0/edit) and we’ll get back to you.
@@ -41,11 +41,16 @@ Residential Life staff have been hard at work developing several opportunities f
 
 **How is UCSC Dining operating during the pandemic?**
 
-With fewer people on campus, Dining Services has reduced the number of locations at which it is serving customers. Currently, the only open Dining Hall is at Colleges Nine and Ten. It has also implemented numerous changes to its operations in support of everyone’s wellbeing. Currently, all dining hall meals must be ordered online, in advance, using the [GET app or website](https://dining.ucsc.edu/get/index.html). All meals must be taken to go. Face coverings and social distancing efforts are required. [Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
+With fewer people on campus, Dining Services has reduced the number of locations at which it is serving customers. Currently, the only open Dining Hall is at Colleges Nine and Ten although the Crown/Merrill Dining Hall is scheduled to open for winter quarter. Dining has also implemented numerous changes to its operations in support of everyone’s well-being. Currently, all dining hall meals must be ordered online, in advance, using the [GET app or website](https://dining.ucsc.edu/get/index.html). All meals must be taken to go. Face coverings and social distancing efforts are required. [Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
+
+**Is there any place on campus that I can pick up groceries and other essentials?**
+
+Dining has introduced The Market at University Center.  Located just upstairs from the Colleges Nine & Ten Dining Hall, the market has grocery items, grab-n-go meals, snacks, bottled beverages, and coffee and espresso drinks. Cash, credit cards, and flexi dollars accepted. Customers must wear face coverings to enter.
+✆ (831) 459-2689.
 
 **I live in a residence hall; what are my meal plan options?**
 
-Students living in residence halls have [two meal plan options](https://dining.ucsc.edu/res-hall-meal-plans/index.html) that satisfy their meal plan requirement. Your plan is included with your housing contract and will activate after sequester meal service ends. 
+Students living in residence halls have [two meal plan options](https://dining.ucsc.edu/res-hall-meal-plans/index.html) that satisfy their meal plan requirement. Your plan is included with your housing contract and will activate after sequester meal service ends.
 
 **I don’t live in a residence hall; can I have a meal plan?**
 
@@ -56,8 +61,8 @@ If you are a student living in campus apartments, ARCH communities, or local off
 Visit the [Dining locations](https://dining.ucsc.edu/eat/index.html) page to see what’s open today.
 
 **What if I forget my mask?**
-The requirement to wear facial coverings is a state/county regulation, and you must have a face mask or other appropriate cloth facial covering to enter any dining facilities. Appropriate coverings include bandanas, neck gaiters, and homemade or commercially-produced face masks with a proper fit covering both your mouth and nose. Unfortunately, if you forget your mask and do not have an appropriate facial covering, you will not be able to enter the facility. Additional masks are not available, and you will be asked to leave until you are able to return with an appropriate facial covering. Please note: You will need to have a facial covering to pick up to-go food orders.
 
+The requirement to wear facial coverings is a state/county regulation, and you must have a face mask or other appropriate cloth facial covering to enter any dining facilities. Appropriate coverings include bandanas, neck gaiters, and homemade or commercially-produced face masks with a proper fit covering both your mouth and nose. Unfortunately, if you forget your mask and do not have an appropriate facial covering, you will not be able to enter the facility. Additional masks are not available, and you will be asked to leave until you are able to return with an appropriate facial covering. Please note: You will need to have a facial covering to pick up to-go food orders.
 
 ## Getting Around Campus
 
@@ -72,9 +77,13 @@ Yes, on a very limited schedule – more [here](https://www.scmtd.com/en/).
 
 **What are my responsibilities to the UCSC community in light of the COVID-19 pandemic?**
 
-Among the most important things all of us can do is to become acutely aware of the condition of our health. Take note of this every morning and be regularly tested for COVID-19. Register with [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html) to sign up for text reminders, take the daily surveys of your health status, and make appointments to be COVID-19 tested. Regular COVID-19 testing is mandatory in order to be on campus. 
+Among the most important things all of us can do is to become acutely aware of the condition of our health. Take note of this every morning and be regularly tested for COVID-19. Register with [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html) to sign up for text reminders, take the daily surveys of your health status, and make appointments to be COVID-19 tested. Regular COVID-19 testing is mandatory in order to be on campus.
 
-There is an obligation for all campus community members to join together at this time to support the health and well-being of ourselves and and to be considerate and responsible regarding the health of others. Testing for students living on campus is mandatory. The need for all of us to be regularly tested and other similar responsibilities are emphasized in UCSC’s Interim Public Health Policy. For more information about that policy, please see [here](https://news.ucsc.edu/2020/09/interim-public-health-policy.html).
+There is an obligation for all campus community members to join together at this time to support the health and well-being of ourselves and and to be considerate and responsible regarding the health of others. Testing for students living on campus is mandatory. The need for all of us to be regularly tested and other similar responsibilities are emphasized in UCSC’s [Interim Public Health Policy](https://news.ucsc.edu/2020/09/interim-public-health-policy.html).
+
+**Training Requirement:**
+
+All students (undergraduate and graduate) living on campus must complete COVID awareness and best-practices training: Staying Healthy in a Changing Environment for Students on Campus. Campus residents are automatically enrolled in this course and notified of its availability around the time of their arrival to campus.
 
 **Will the University have regular COVID-19 testing of its students?**
 
@@ -82,7 +91,7 @@ Yes, all students who come onto campus or who live on campus are required to be 
 
 **Where can I get tested?**
 
-Currently, testing is available inside the Namaste Lounge at College Nine and at the Merrill Cultural Center. Additional testing sites are expected to be available soon. All available testing sites will be updated and listed in the appointment section of [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html).
+Currently, testing is available inside the Namaste Lounge at College Nine, at the Merrill Cultural Center, and at the Porter Hitchcock Lounge. Additional testing sites are expected to be available soon. All available testing sites will be updated and listed in the appointment section of [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html).
 
 **What if I don’t feel well the day of my testing appointment?**
 
@@ -136,7 +145,7 @@ Once a resident is able to safely check out of Quarantine/Isolation Housing, Cus
 
 **How do residents in quarantine/isolation Housing receive dining service?**
 
-UC Santa Cruz CHES-Dining Services has created a unique system to provide high quality snacks, meals and beverages, delivered directly to residents in Quarantine/Isolation Housing. The online meal ordering system link is provided to residents when they arrive at Quarantine/Isolation Housing. The meal order program takes into account special dietary needs/requests of the individual. Each room in Quarantine/Isolation Housing is outfitted with a microwave and refrigerator. Each room is also equipped with an electric tea kettle. 
+UC Santa Cruz CHES-Dining Services has created a unique system to provide high quality snacks, meals and beverages, delivered directly to residents in Quarantine/Isolation Housing. The online meal ordering system link is provided to residents when they arrive at Quarantine/Isolation Housing. The meal order program takes into account special dietary needs/requests of the individual. Each room in Quarantine/Isolation Housing is outfitted with a microwave and refrigerator. Each room is also equipped with an electric tea kettle.
 
 **How can I think about responding to peers who are not following appropriate safety guidelines?**
 
@@ -190,5 +199,4 @@ UCSC’s [Community Rentals Office](https://communityrentals.ucsc.edu/covid-19/i
 
 **Where in Santa Cruz County can I be COVID-19 tested?**
 
-There are several locations in the county that are doing COVID-19 Testing.  The County’s Health Services Agency has a[ Testing Locator](https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/SAVELivesSantaCruzCounty/GetTested.aspx) that provides a map showing testing locations and provides address, hours of service, and contact information.
-
+In addition to the [on-campus testing locations](https://healthcenter.ucsc.edu/services/covid19.html), there are several locations in the county that offer COVID-19 Testing.  The County’s Health Services Agency has a[Testing Locator](https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/SAVELivesSantaCruzCounty/GetTested.aspx) that provides a map showing testing locations with address, hours of service, and contact information.
