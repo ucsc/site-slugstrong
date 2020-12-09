@@ -17,7 +17,9 @@ back_text: Back
 <a href="{{ page.back }}" class="pill tracking-back">{% include svg/arrow-72.svg %}{{ page.back_text }}</a>
 {% endif %}
 
-The COVID-19 dashboard provides a regularly updated status on COVID-19 at UCSC. The UCSC testing data in the dashboard will be updated daily. This data will help inform decisions about on-campus operations and activities.
+The COVID-19 dashboard provides a regularly updated status on COVID-19 at UCSC.  All students living in campus housing or coming to campus are required to get tested twice a week. All off-campus students and on-site employees can get tested weekly on a voluntary basis. [Learn more](https://healthcenter.ucsc.edu/services/covid19.html).
+
+The UCSC testing data in the dashboard will be updated daily. This data will help inform decisions about on-campus operations and activities.
 
 The data includes the daily total number of test samples collected at the UCSC Molecular Diagnostic Laboratory and the daily total of new cases. New cases are shown on the day the sample was collected. The data is further broken down to the positive results for students living on-campus, students living off-campus, and employees. The data also includes a seven-day positivity rate for all tests performed through the campus testing program.
 
