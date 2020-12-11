@@ -46,6 +46,7 @@ With fewer people on campus, Dining Services has reduced the number of locations
 **Is there any place on campus that I can pick up groceries and other essentials?**
 
 Dining has introduced The Market at University Center.  Located just upstairs from the Colleges Nine & Ten Dining Hall, the market has grocery items, grab-n-go meals, snacks, bottled beverages, and coffee and espresso drinks. Cash, credit cards, and flexi dollars accepted. Customers must wear face coverings to enter.
+
 ✆ (831) 459-2689. More information available [here](https://dining.ucsc.edu/terra-fresca/index.html).
 
 **I live in a residence hall; what are my meal plan options?**
