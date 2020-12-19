@@ -131,7 +131,6 @@ button:
 * Lisa Wisser
 * Lucy Rojas
 * Magge McCue 
-* Nader Oweis
 * Sarah Barron
 * Sue Matthews
 * Fiona Weigant
@@ -183,6 +182,7 @@ button:
 * Tchad Sanger
 * Teresa Buika
 * Todd Hammonds
+* Kristin Mott
 
 ### OERR Employee Resiliency Work Group
 
