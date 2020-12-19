@@ -62,7 +62,8 @@ Principal Officers are required to document those faculty, staff and student emp
 
 Divisions and Units should not develop their own protocols in any of the following areas, due to compliance, legal, and privacy considerations.
 
-A useful resource for Principal Officers to offer their employees who are returning on-site are the Staff Human Resources &quot;Employee Return to Work&quot; packets. They include several informational items and materials to support employees in their return process. Please contact Karen Schloss at [keschlos@ucsc.edu](mailto:keschlos@ucsc.edu) to obtain packets for your employees.
+
+A useful resource for Principal Officers to offer their employees who are returning on-site are the Staff Human Resources "Employee Welcome Back Kits." The kits contain promotional items such as branded cloth masks and hand sanitizer, as well as informational materials to support both staff and academic employees in their return process.  Please complete the [Employee Welcome Back Kit Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdfaQWEt51A6ooi3HlrlDOcQqAjiznFvoGgQ9JsWVASGIXvsQ/viewform) to request kits for your employees who are currently working on site, or will be returning to work on site in the near future.  If you have any questions about the form or the kits, please reach out to Karen Schloss at [keschlos@ucsc.edu](mailto:keschlos@ucsc.edu).
 
 **Other Resources**
 
