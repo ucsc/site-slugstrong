@@ -1,6 +1,6 @@
 ---
 title: Planning for fall quarter
-date: 2020-1-11
+date: 2021-1-11
 author: Chancellor Cynthia Larive and Campus Provost and Executive Vice Chancellor Lori Kletzer
 author_email: publicaffairs@ucsc.edu
 layout: post
