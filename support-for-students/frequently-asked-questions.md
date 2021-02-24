@@ -41,7 +41,8 @@ Residential Life staff have been hard at work developing several opportunities f
 
 **How is UCSC Dining operating during the pandemic?**
 
-With fewer people on campus, Dining Services has reduced the number of locations at which it is serving customers. Currently, the only open Dining Hall is at Colleges Nine and Ten although the Crown/Merrill Dining Hall is scheduled to open for winter quarter. Dining has also implemented numerous changes to its operations in support of everyone’s well-being. Currently, all dining hall meals must be ordered online, in advance, using the [GET app or website](https://dining.ucsc.edu/get/index.html). All meals must be taken to go. Face coverings and social distancing efforts are required. [Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
+
+With fewer people on campus, Dining Services has reduced the number of locations at which it is serving customers. Currently, only the Colleges Nine and Ten and the Crown/Merrill Dining Halls are open. Dining has also implemented numerous changes to its operations in support of everyone’s well-being. Currently, all dining hall meals must be ordered online, in advance, using the [GET app or website](https://dining.ucsc.edu/get/index.html). All meals must be taken to go. Face coverings and social distancing efforts are required. [Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
 
 **Is there any place on campus that I can pick up groceries and other essentials?**
 
@@ -118,7 +119,7 @@ Asymptomatic testing is different from what is commonly known as antibody testin
 
 **How can I best prepare to return to campus?**
 
-Stay healthy and practice all CDC recommended measures for resisting infection, including but not limited to wearing face coverings when with others, observe at least six feet of physical distance between yourself and others, etc. UCSC’s Student Health Center has plenty of information for you in this regard. Consider reviewing prevention measures offered by the [Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). Currently, it is expected that all students who wish to reside on campus should self-isolate for 14 days prior to coming to campus, and then be sequestered for another 14 days after arriving on campus.
+Stay healthy and practice all CDC recommended measures for resisting infection, including but not limited to wearing face coverings when with others, observe at least six feet of physical distance between yourself and others, etc. UCSC’s Student Health Center has plenty of information for you in this regard. Consider reviewing prevention measures offered by the [Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). Currently, it is expected that all students who wish to reside on campus self-isolate for 14 days prior to coming to campus, and then be sequestered for another 14 days after arriving on campus.
 
 **Is UCSC doing COVID-19 testing for students?**
 
