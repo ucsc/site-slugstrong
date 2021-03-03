@@ -187,12 +187,11 @@ UCSC maintains a page that [tracks incidences of COVID-19](https://recovery.ucsc
 
 **Are Athletics and Recreation facilities open?**
 
-All Athletics and Recreation facilities are closed with the exception of the outdoor jogging path around the Upper East Field.  Please visit its [site](http://opers.ucsc.edu) for more information.
+The pool is open for lap swimming and the East Tennis Courts are available for tennis on a reservation system. The reservations are available during limited operating hours and require full participation in campus COVID protocol, including the badge system. [Reserve a time online](https://campusrec.ucsc.edu). In addition, the outdoor jogging path around the Upper East Field, the Disc Golf Course, and the West Tennis Courts are currently available for drop-in use. Visit [goslugs.com](https://goslugs.com) or [recreation.ucsc.edu](http://recreation.ucsc.edu/) to learn more about the Athletics & Recreation department and to stay updated on department news and announcements.
 
 **Does Athletics and Recreation offer any online programming?**
 
-Yes, it offers a number of virtual cardio, core, yoga, barre classes and more.  See [here](http://fitlife.ucsc.edu) for details and schedule information.
-
+Yes, we offer a wide variety of virtual, recreational programming across FitLife, Intramural Sports, and Adventure Rec program areas. Some of our featured programming includes the [McHenry Cup College Challenge](https://recreation.ucsc.edu/intramuralsports/rules/goosechase.html), weekly [Group Exercise classes](https://campusrec.ucsc.edu/Program/GetProducts?productTypeCV=00000000-0000-0000-0000-000000003502&classification=00000000-0000-0000-0000-000000026002) and [On-Demand Video Library](https://campusrec.ucsc.edu/Account/Login?ReturnUrl=%2FMembership%2FGetMembershipSummary%3FmembershipProductId%3D1a73e323-36ab-4042-8bec-4e9ee2755a1c), as well as a series of [professional and personal development webinars and discussions](https://campusrec.ucsc.edu/Program/GetProducts?category=5c05e8a8-a794-49d0-ab94-73df5f75743c). For the most updated information regarding Athletics & Recreation programs, please visit [goslugs.com](http://goslugs.com/) or [recreation.ucsc.edu](http://recreation.ucsc.edu/ ). 
 ## Students Living Off-Campus
 
 **Do you have any advice on how I would go about looking for off-campus living arrangements?**
