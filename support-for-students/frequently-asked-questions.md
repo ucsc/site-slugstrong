@@ -25,7 +25,7 @@ Your [UCSC Student ID Card](https://orientation.ucsc.edu/summer/id-card.html) se
 
 **What is the first step I take to get my Student ID Card?**
 
-The process starts with you submitting a passport type photo online – [here](https://orientation.ucsc.edu/summer/submission-req.html) is a list of all the attributes that photo must have. Staff will then advise you of next steps.
+The process starts with you submitting a passport-type photo online. Staff will then advise you of next steps.
 
 ## Housing
 
