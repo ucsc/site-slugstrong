@@ -157,7 +157,7 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
   
    <tr>
     <td><b>Stevenson Event Center</b></td>
-    <td>The Stevenson Event Center has been designated as a remote-learning site for students. To use the space, make a reservation using the online reservation form.</td>
+    <td>The Stevenson Event Center has been designated as a remote-learning site for students. To use the space, make a reservation using the <a href="https://ucscsec.youcanbook.me">online reservation form</a></td>
     <td><a href="https://ucscsec.youcanbook.me">Website</a></td>
   </tr>
 
