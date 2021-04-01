@@ -36,12 +36,14 @@ button:
 
   <tr>
     <td>East and West Recreation Facilities</td>
-    <td>Closed</td>
+    <td>The pool is open to students for lap swimming and the East Tennis Courts are available for tennis on a [reservation system](https://campusrec.ucsc.edu/Program/GetProducts?classification=26e7654b-b3c6-45de-ac5e-967a7ade45c3). 
+</td>
     <td></td>
   </tr>
 
   <tr>
-    <td>Outdoor fields, jogging path, hiking trails, west tennis and basketball courts and fitness multi-station</td>
+    <td>The outdoor jogging path around the Upper East Field, the Disc Golf Course, and the West Tennis Courts are currently available for drop-in use. 
+</td>
     <td>Closed</td>
     <td></td>
   </tr>
@@ -96,10 +98,10 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
 
  <tr>
     <td><b>Libraries</b></td>
-    <td> Both the McHenry Library and the Science and Engineering Library will be closed until further notice. Services that involve accessing or exchanging physical items will not be offered. All patron-facing services will focus solely on online or remote options. More information about resources and contacts are available at the <a href="https://guides.library.ucsc.edu/remote-access">Library Remote Access webpage.</a>
+    <td> The Science & Engineering Library has an [individual study and online learning site](https://guides.library.ucsc.edu/studycenter) available to all UCSC students. The McHenry Library remains closed. More information about resources and contacts are available at the <a href="https://guides.library.ucsc.edu/remote-access">Library Remote Access webpage.</a>
     
     </td>
-    <td><a href="https://library.ucsc.edu/news/today-march-16-8am-9pm">Website</a></td>
+    <td><a href="https://library.ucsc.edu">Website</a></td>
   </tr>
 
 <tr>
