@@ -45,9 +45,9 @@ As COVID-19 restrictions are eased, more campus resources are being offered in p
   </tr>
 
   <tr>
-    <td>The outdoor jogging path around the Upper East Field, the Disc Golf Course, and the West Tennis Courts are currently available for drop-in use. 
+    <td>The outdoor jogging path around the Upper East Field, the Disc Golf Course, and the West Tennis Courts 
 </td>
-    <td>Closed</td>
+    <td>Open for drop-in use</td>
     <td></td>
   </tr>
 
