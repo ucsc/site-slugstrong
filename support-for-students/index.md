@@ -21,9 +21,8 @@ Even though we may be physically apart, Slugs are all in this together and stude
 
 As COVID-19 restrictions are eased, more campus resources are being offered in person. Don’t forget that [green badges](https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html) are required for students to access these in-person resources:
 
-Th University Library is offering currently registered students who live on or off campus [reservable individual quiet study spaces](https://news.ucsc.edu/2021/02/reserve-study-space.html) with access to power/wifi in the Science & Engineering Library.
-
-The [McHenry Library](https://library.ucsc.edu/) building remains closed, though many [library services](https://guides.library.ucsc.edu/remote-access) are still available, and library employees are working remotely to help students.
+* The University Library is offering currently registered students who live on or off campus [reservable individual quiet study spaces](https://news.ucsc.edu/2021/02/reserve-study-space.html) with access to power/wifi in the Science & Engineering Library.
+* The [McHenry Library](https://library.ucsc.edu/) building remains closed, though many [library services](https://guides.library.ucsc.edu/remote-access) are still available, and library employees are working remotely to help students.
 
 The pool is open to students for lap swimming and the East Tennis Courts are available for tennis on a [reservation system](https://campusrec.ucsc.edu/Program/GetProducts?classification=26e7654b-b3c6-45de-ac5e-967a7ade45c3). 
 
