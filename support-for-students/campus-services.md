@@ -11,6 +11,9 @@ button:
   color: '#fff'
   icon: "book-20.svg"
 ---
+
+As COVID-19 restrictions are eased, more campus resources are being offered in person. Don’t forget that <a href="https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html">green badges</a> are required for students to access these in-person resources:
+
 <table style="width:100%">
   <tr>
     <th>Service</th>
@@ -147,8 +150,15 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
   
   <tr>
     <td><b>Seymour Marine Discovery Center</b></td>
-    <td>Closed</td>
+    <td>The Seymour Center is opening outdoors on Saturday, April 24, with a special member preview day on Saturday, April 17. Guests can explore the fascinating world of marine science and conservation through a variety of outdoor activities.
+</td>
     <td><a href="https://seymourcenter.ucsc.edu/">Website</a></td>
+  </tr>
+  
+   <tr>
+    <td><b>Stevenson Event Center</b></td>
+    <td>The Stevenson Event Center has been designated as a remote-learning site for students. To use the space, make a reservation using the online reservation form.</td>
+    <td><a href="https://ucscsec.youcanbook.me">Website</a></td>
   </tr>
 
 </table>
