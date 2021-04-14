@@ -10,7 +10,7 @@ description: >
 
 **Banana Slugs—we can't wait for you to be back on campus. UC Santa Cruz is carefully beginning to resume some on-campus research and in the coming months plans to increase other operations.**
 
-COVID-19 requires us to rethink how we teach, research, and work. There are new policies, guidelines, and protocols that we must all follow to reduce the virus's spread. 
+COVID-19 requires us to rethink how we teach, research, and work. There are new policies, guidelines, and protocols that we must all follow to reduce the virus's spread. The campus's [information dashboard](https://recovery.ucsc.edu/reporting-covid/covid-tracking/) provides an regularly updated status on COVID-19 at UCSC.
 
 This site is meant to provide everyone in our campus community with crucial information as we work toward resuming more and more in-person research, teaching, and work.
 
