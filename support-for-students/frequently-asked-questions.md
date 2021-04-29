@@ -113,7 +113,7 @@ If you live off campus and **never** come to campus, no, you do not need to part
 
 However, if you live off campus and have plans to be on campus, to come to campus, you must perform the daily symptom check available through [Health e-Messenger portal](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html) and, if the resulting Status Badge is green, and the first stop you need to make upon arriving to campus is a testing site.  While the testing itself takes only a few minutes per person, please plan some extra time in case you need to wait in line.
 
-**What is Asymptomatic testing?**
+**What is asymptomatic testing?**
 
 Asymptomatic testing is different from what is commonly known as antibody testing – that is, testing to determine if someone has had COVID-19 and has developed antibodies in response to it. Asymptomatic testing tests for COVID-19 viral RNA particles and lets you know if you are currently or have recently been infected with the virus. This kind of testing is like a snapshot in time -- the results of testing indicate what an individual’s status was at the moment they took the test. This is why repeated testing is necessary.
 
@@ -191,7 +191,9 @@ The pool is open for lap swimming and the East Tennis Courts are available for t
 
 **Does Athletics and Recreation offer any online programming?**
 
-Yes, we offer a wide variety of virtual, recreational programming across FitLife, Intramural Sports, and Adventure Rec program areas. Some of our featured programming includes the [McHenry Cup College Challenge](https://recreation.ucsc.edu/intramuralsports/rules/goosechase.html), weekly [Group Exercise classes](https://campusrec.ucsc.edu/Program/GetProducts?productTypeCV=00000000-0000-0000-0000-000000003502&classification=00000000-0000-0000-0000-000000026002) and [On-Demand Video Library](https://campusrec.ucsc.edu/Account/Login?ReturnUrl=%2FMembership%2FGetMembershipSummary%3FmembershipProductId%3D1a73e323-36ab-4042-8bec-4e9ee2755a1c), as well as a series of [professional and personal development webinars and discussions](https://campusrec.ucsc.edu/Program/GetProducts?category=5c05e8a8-a794-49d0-ab94-73df5f75743c). For the most updated information regarding Athletics & Recreation programs, please visit [goslugs.com](http://goslugs.com/) or [recreation.ucsc.edu](http://recreation.ucsc.edu/ ). 
+Yes, Athletics & Recreation is offering some in-person programming including kayak tours of the Monterey Bay, local day hikes, and surfing lessons all offered by our Adventure Rec program. Athletics & Recreation also continues to offer a wide variety of virtual, recreational programming across FitLife, Intramural Sports, and Adventure Rec program areas. Some of the featured programming includes the [McHenry Cup College Challenge](https://recreation.ucsc.edu/intramuralsports/rules/goosechase.html), [weekly Group Exercise classes](https://campusrec.ucsc.edu/Program/GetProducts?productTypeCV=00000000-0000-0000-0000-000000003502&classification=00000000-0000-0000-0000-000000026002) and [On-Demand Video Library](https://campusrec.ucsc.edu/Account/Login?ReturnUrl=%2FMembership%2FGetMembershipSummary%3FmembershipProductId%3D1a73e323-36ab-4042-8bec-4e9ee2755a1c), as well as the [Active Slug Challenge](https://campusrec.ucsc.edu/Program/GetProgramDetails?courseId=abc9b325-33b1-4d1b-941a-7e6404b4eaae&semesterId=2b9c76c1-1b82-4ae7-951a-5b6c438babc3). For the most updated information regarding Athletics & Recreation programs, please visit [recreation.ucsc.edu](http://recreation.ucsc.edu/) or for Athletics updates, please visit [goslugs.com](http://goslugs.com/).
+
+
 ## Students Living Off-Campus
 
 **Do you have any advice on how I would go about looking for off-campus living arrangements?**
