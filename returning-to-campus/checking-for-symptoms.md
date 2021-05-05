@@ -34,7 +34,7 @@ Employees who are not working on-site consistently, but making occasional visits
 
 For employees working at the main campus, select your location, region, then your specific building. See [map](https://ucsc.maps.arcgis.com/apps/View/index.html?appid=519c606a04f04957be9d8f14af8a735e) for reference.
 
-Questionnaire results will be used for limited purposes, e.g. only be used for COVID-19 exposure contact tracing notification or for workers’ compensation claims. Questionnaire responses will not be maintained in employee personnel files. Responses will be stored in a secure, HIPAA compliant application and purged after 90 days.
+Questionnaire results will be used for limited purposes, e.g. only be used for COVID-19 exposure contact tracing notification or for workers’ compensation claims. Questionnaire responses will not be maintained in employee personnel files. Responses will be stored in a secure, HIPAA compliant application and purged after 60 days.
 
 
 ### More information
@@ -44,7 +44,3 @@ Questionnaire results will be used for limited purposes, e.g. only be used for C
 * [Appendix A: Symptom check questionnaire (PDF)](https://www.ucsc.edu/coronavirus/assets/symptom-check.pdf)
 * [FAQ en Español](https://www.ucsc.edu/coronavirus/symptom-check-faq-esp.html)
 * [Apéndice A en Español](https://www.ucsc.edu/coronavirus/assets/symptom-check-esp.pdf)
-
-
-
-
