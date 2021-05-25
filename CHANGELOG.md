@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/ucsc/site-recovery/compare/v1.0.3...v1.1.0) (2021-05-25)
+
+
+### Features
+
+* :pencil2: Minor copy edit ([23225a7](https://github.com/ucsc/site-recovery/commit/23225a788e3384d8c548e5a19908d0b14a3a3df5))
+* :sparkles: Add link to Health Center COVID updates page ([afbb5a2](https://github.com/ucsc/site-recovery/commit/afbb5a29f8e3dc4654b5aacc27a23ac35f3c284a))
+
+
+### Bug Fixes
+
+* :pencil2: additional edits to Student Support FAQ ([3504761](https://github.com/ucsc/site-recovery/commit/3504761b17adb0bbd390264a3e7cfda0fae84006))
+* :pencil2: copy edits to student support FAQ ([2761b98](https://github.com/ucsc/site-recovery/commit/2761b9873dd6bcd0b445782aa15d391b1ca53683))
+* :zap: Copy edits and updates to Support for Students FAQ ([7a67802](https://github.com/ucsc/site-recovery/commit/7a67802819567d8b4899050f4c20763b658e57db))
+
 ### [1.0.3](https://github.com/ucsc/site-recovery/compare/v1.0.2...v1.0.3) (2020-11-10)
 
 
