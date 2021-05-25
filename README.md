@@ -25,5 +25,3 @@ This is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker]
 2. In terminal, run `docker-compose up`
 3. Load site at `http://0.0.0.0:4000/`
 4. Profit!
-
-Branch deploy force
