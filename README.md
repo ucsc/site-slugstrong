@@ -18,7 +18,6 @@ Contributor(s): [Rob Knight](https://github.com/knice)
 
 This is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker](https://www.docker.com/)) built by [Rob Knight](https://github.com/knice).
 
-
 ### Installation
 
 1. Clone this repo
@@ -26,3 +25,5 @@ This is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker]
 2. In terminal, run `docker-compose up`
 3. Load site at `http://0.0.0.0:4000/`
 4. Profit!
+
+Branch deploy force
