@@ -14,7 +14,9 @@ description: >
 ---
 
 # Working from Home
-UC Santa Cruz has developed several tools to assist in the development of telecommuting plans, guidelines and resources.  These are intended to support both Situational Telecommuting (i.e. telecommuting that is taking place due to COVID-19 but would not continue long-term) and Routine Telecommuting (i.e. telecommuting that is implemented because it works well long-term for the employee and their department and will continue beyond COVID-19). It is envisioned that routine telecommuting will continue to expand across campus.
+UC Santa Cruz has developed several tools to assist in the development of telecommuting plans, guidelines and resources, including [flexible work principles and frequently asked questions](https://docs.google.com/document/d/19q6JFcT2uD7YgROJWaR2KwQWzPvy9ODVQnGAlAO6T0k/edit). 
+
+The resources are intended to support both Situational Telecommuting (i.e. telecommuting that is taking place due to COVID-19 but would not continue long-term) and Routine Telecommuting (i.e. telecommuting that is implemented because it works well long-term for the employee and their department and will continue beyond COVID-19). It is envisioned that routine telecommuting will continue to expand across campus.
 
 **Situational Telecommuting: Current COVID-19 situation**
 
