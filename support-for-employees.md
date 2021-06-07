@@ -13,17 +13,10 @@ description: >
   Staff Human Resources and the Academic Personnel Office are providing assistance and resources for employees.
 ---
 
-# Working from Home
-UC Santa Cruz has developed several tools to assist in the development of telecommuting plans, guidelines and resources, including [flexible work principles and frequently asked questions](https://docs.google.com/document/d/19q6JFcT2uD7YgROJWaR2KwQWzPvy9ODVQnGAlAO6T0k/edit). 
-
-The resources are intended to support both Situational Telecommuting (i.e. telecommuting that is taking place due to COVID-19 but would not continue long-term) and Routine Telecommuting (i.e. telecommuting that is implemented because it works well long-term for the employee and their department and will continue beyond COVID-19). It is envisioned that routine telecommuting will continue to expand across campus.
-
-**Situational Telecommuting: Current COVID-19 situation**
-
-* [Guidelines](https://docs.google.com/document/d/1dP-mcv60FGNcjSEyamLLfHzwbnmlAC_2PBVWq5YMLUI/edit?usp=sharing): Provides employees and managers with expectations and requirements for working remotely without a pre-established alternative work arrangement. Areas addressed include duties and assignments, communication, work environment, safety, equipment, and reimbursable expenses.
-
 **Routine Telecommuting (working part-time off-site) & Remote Work (working full-time off-site)**
 
+* [Flexible Work Principles and Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/19q6JFcT2uD7YgROJWaR2KwQWzPvy9ODVQnGAlAO6T0k/edit) are intended to assist UC Santa Cruz principal officers, managers, supervisors and all employees as we work collaboratively to repopulate the campus ahead of the fall quarter and, in many cases, implement flexible work arrangements. 
+* [Staging the Return to On-site Work: Guidelines for Principal Officers](https://docs.google.com/document/d/162PqRz0q1yJrjUXxv-w1CKtM5U8ahfC30SkGebsh9DM/edit) aim to help ensure a safe and orderly return to campus and establish a level of comfort for all employees.
 * [Guidelines](https://docs.google.com/document/d/1u-h6PHLHMpvnc1uqiXlj8eAKJYR8AOTioXg8HyHGzyk/edit?usp=sharing): Provides employees and managers with requirements for established telecommuting and remote work arrangements, including eligibility, work schedules, availability, communication, and remote worksite safety.  
 * [Self-Assessment](https://drive.google.com/file/d/1VAQS0O4VrnS6N3rkVRbDezKITWhKTXPe/view?usp=sharing): A one-page survey that helps inform compatibility for working remotely with criteria including appropriate job duties, success in current position, self-management, flexibility, communication skills and an appropriate remote working environment.
 * [Self-Certification Safety Checklist](https://drive.google.com/file/d/1Uv8oZo_5gjZ_IdXIbdeoONw3RLfdPVgJ/view): Guides the employee in assessing the overall safety of the proposed alternate worksite and computer workstation, including UCSC ergonomics training and worksite assessment.
