@@ -15,7 +15,7 @@ description: >
 
 **Routine Telecommuting (working part-time off-site) & Remote Work (working full-time off-site)**
 
-* [Employee tips for returning to on-site work](https://docs.google.com/document/d/10FXd1EollQyuFi0gOOX2hEEnYdZmGhXytpiofTcx_mI/edit)
+* [Employee tips for returning to on-site work](https://docs.google.com/document/d/10FXd1EollQyuFi0gOOX2hEEnYdZmGhXytpiofTcx_mI/edit) offer a number of topics for employees to consider. 
 * [Flexible Work Principles and Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/19q6JFcT2uD7YgROJWaR2KwQWzPvy9ODVQnGAlAO6T0k/edit) are intended to assist UC Santa Cruz principal officers, managers, supervisors and all employees as we work collaboratively to repopulate the campus ahead of the fall quarter and, in many cases, implement flexible work arrangements. 
 * [Staging the Return to On-site Work: Guidelines for Principal Officers](https://docs.google.com/document/d/162PqRz0q1yJrjUXxv-w1CKtM5U8ahfC30SkGebsh9DM/edit) aim to help ensure a safe and orderly return to campus and establish a level of comfort for all employees.
 * [Guidelines](https://docs.google.com/document/d/1u-h6PHLHMpvnc1uqiXlj8eAKJYR8AOTioXg8HyHGzyk/edit?usp=sharing): Provides employees and managers with requirements for established telecommuting and remote work arrangements, including eligibility, work schedules, availability, communication, and remote worksite safety.  
