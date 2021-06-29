@@ -130,7 +130,7 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
   </tr>
 
 <tr>
-    <td><b>Other UCSC Locations</b></td>
+    <td><h3>Other UCSC Locations</h3></td>
     <td>
      </td>
     <td></td>
@@ -150,7 +150,7 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
   
   <tr>
     <td><b>Seymour Marine Discovery Center</b></td>
-    <td>The Seymour Center is opening outdoors on Saturday, April 24, with a special member preview day on Saturday, April 17. Guests can explore the fascinating world of marine science and conservation through a variety of outdoor activities.
+    <td>The Seymour Center is now open outdoors on Saturdays from 11 a.m. – 2 p.m. Guests can explore the fascinating world of marine science and conservation through a variety of outdoor activities.
 </td>
     <td><a href="https://seymourcenter.ucsc.edu/">Website</a></td>
   </tr>
