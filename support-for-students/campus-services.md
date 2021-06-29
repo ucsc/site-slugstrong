@@ -102,7 +102,6 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
  <tr>
     <td><b>Libraries</b></td>
     <td> The McHenry Library and Science & Engineering Library buildings will reopen for print collections access and on-site services beginning July 1, 2021 as part of the campus reopening.
-    
     </td>
     <td><a href="https://library.ucsc.edu">Website</a></td>
   </tr>
