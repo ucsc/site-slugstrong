@@ -101,7 +101,8 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
 
  <tr>
     <td><b>Libraries</b></td>
-    <td> The Science & Engineering Library has an <a heref="https://guides.library.ucsc.edu/studycenter">individual study and online learning site</a> available to all UCSC students. The McHenry Library remains closed. More information about resources and contacts are available at the <a href="https://guides.library.ucsc.edu/remote-access">Library Remote Access webpage.</a>
+    <td> The McHenry Library and Science & Engineering Library buildings will reopen for print collections access and on-site services beginning July 1, 2021 as part of the campus reopening.
+</a>
     
     </td>
     <td><a href="https://library.ucsc.edu">Website</a></td>
