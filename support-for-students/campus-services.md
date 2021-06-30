@@ -78,7 +78,7 @@ As COVID-19 restrictions are eased, more campus resources are being offered in p
 
  <tr>
     <td><b>Dining Services</b></td>
-    <td>View open locations, hours, and menus at [dining.ucsc.edu/eat](dining.ucsc.edu/eat)</td>
+   <td>View open locations, hours, and menus <a href="https.dining.ucsc.edu/eat">online</a>.</td>
     <td><a href="https://dining.ucsc.edu/index.html">Website</a></td>
   </tr>
 
