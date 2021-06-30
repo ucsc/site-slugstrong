@@ -59,9 +59,7 @@ As COVID-19 restrictions are eased, more campus resources are being offered in p
 
   <tr>
     <td>Express Store</td>
-    <td>8:30 a.m. to 5 p.m.
-Closed Saturday and Sunday
-The Express Store will remain open and will limit the number of individuals allowed inside at any time. Please put distance between yourself and other people (at least 6 feet).</td>
+    <td>Currently closed</td>
     <td></td>
   </tr>
 
