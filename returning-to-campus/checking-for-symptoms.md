@@ -15,13 +15,6 @@ button:
 
 **COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
 
-### For visitors
-All scheduled and unscheduled visitors to the UC Santa Cruz owned or leased property must complete the UCSC Visitor COVID-19 Symptom Check Questionnaire prior to entering the campus for each day when entering the campus. 
-
-Visitors are defined as anyone who is not a UC Santa Cruz employee (faculty, staff and other academic appointees) or student, and who will be entering on-site at a UCSC owned or leased property.  The following is the link for the [online UCSC Visitor COVID-19 Symptom Check Questionnaire](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX). [Read frequently asked questions](https://recovery.ucsc.edu/assets/images/UCSC-Visitor-COVID-Symptom-Check-FAQ.pdf) about symptom checks for visitors. [Download a printable version](https://recovery.ucsc.edu/assets/images/Apendix-A-Paper-Version-Visitors-Symptom-Check-Questionnaire.pdf) of the symptom check questionnaire.
-
-Questionnaire results will be used for limited purposes, e.g., only be used for COVID-19 exposure contact tracing notification or for workers’ compensation claims. Questionnaire responses will be stored in a secure, HIPAA compliant application and purged after 60 days.    
-
 ### For students
 Starting in fall quarter 2020, all students living on campus or taking in-person classes must complete a daily COVID-19 symptom screening survey and get regular COVID-19 tests. [Read more](https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html). 
 
@@ -34,8 +27,13 @@ Employees who are not working on-site consistently, but making occasional visits
 
 For employees working at the main campus, select your location, region, then your specific building. See [map](https://ucsc.maps.arcgis.com/apps/View/index.html?appid=519c606a04f04957be9d8f14af8a735e) for reference.
 
-Questionnaire results will be used for limited purposes, e.g. only be used for COVID-19 exposure contact tracing notification or for workers’ compensation claims. Questionnaire responses will not be maintained in employee personnel files. Responses will be stored in a secure, HIPAA compliant application and purged after 60 days.
+### For visitors
+All scheduled and unscheduled visitors to the UC Santa Cruz owned or leased property must complete the UCSC Visitor COVID-19 Symptom Check Questionnaire prior to entering the campus for each day when entering the campus. 
 
+Visitors are defined as anyone who is not a UC Santa Cruz employee (faculty, staff and other academic appointees) or student, and who will be entering on-site at a UCSC owned or leased property.  The following is the link for the [online UCSC Visitor COVID-19 Symptom Check Questionnaire](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX). [Read frequently asked questions](https://recovery.ucsc.edu/assets/images/UCSC-Visitor-COVID-Symptom-Check-FAQ.pdf) about symptom checks for visitors. [Download a printable version](https://recovery.ucsc.edu/assets/images/Apendix-A-Paper-Version-Visitors-Symptom-Check-Questionnaire.pdf) of the symptom check questionnaire.
+
+### Privacy information
+Questionnaire results will be used for limited purposes, e.g. only be used for COVID-19 exposure contact tracing notification or for workers’ compensation claims. Questionnaire responses will not be maintained in employee personnel files. Responses will be stored in a secure, HIPAA compliant application and purged after 60 days.
 
 ### More information
 * [Campus announcement](https://news.ucsc.edu/2020/06/on-site-employees-required-to-participate-in-covid-19-daily-symptom-check.html)

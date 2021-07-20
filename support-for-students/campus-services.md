@@ -27,7 +27,7 @@ As COVID-19 restrictions are eased, more campus resources are being offered in p
   </tr>
   <tr>
     <td><b>Admissions</b></td>
-    <td>Due to COVID-19 concerns, Undergraduate Admissions has adjusted services. The Welcome Center and front counter at Hahn Student Services is closed until further notice. For general inquiries, please send an email to admissions@ucsc.edu. For campus tours inquiries, please email <mailto:visits@ucsc.edu>.</td>
+    <td>Due to COVID-19 concerns, Undergraduate Admissions has adjusted services. The Welcome Center and front counter at Hahn Student Services is closed until further notice. For general inquiries, please send an email to admissions@ucsc.edu. For campus tours inquiries, please email visits@ucsc.edu.</td>
     <td><a href="https://admissions.ucsc.edu">Website</a></td>
   </tr>
   
@@ -59,9 +59,7 @@ As COVID-19 restrictions are eased, more campus resources are being offered in p
 
   <tr>
     <td>Express Store</td>
-    <td>8:30 a.m. to 5 p.m.
-Closed Saturday and Sunday
-The Express Store will remain open and will limit the number of individuals allowed inside at any time. Please put distance between yourself and other people (at least 6 feet).</td>
+    <td>Currently closed</td>
     <td></td>
   </tr>
 
@@ -80,7 +78,7 @@ The Express Store will remain open and will limit the number of individuals allo
 
  <tr>
     <td><b>Dining Services</b></td>
-    <td>View open locations, hours, and menus at [dining.ucsc.edu/eat](dining.ucsc.edu/eat)</td>
+   <td>View open locations, hours, and menus <a href="https://dining.ucsc.edu/eat">online</a>.</td>
     <td><a href="https://dining.ucsc.edu/index.html">Website</a></td>
   </tr>
 
@@ -101,8 +99,7 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
 
  <tr>
     <td><b>Libraries</b></td>
-    <td> The Science & Engineering Library has an <a heref="https://guides.library.ucsc.edu/studycenter">individual study and online learning site</a> available to all UCSC students. The McHenry Library remains closed. More information about resources and contacts are available at the <a href="https://guides.library.ucsc.edu/remote-access">Library Remote Access webpage.</a>
-    
+    <td> The McHenry Library and Science & Engineering Library buildings will reopen for print collections access and on-site services beginning July 1, 2021 as part of the campus reopening.
     </td>
     <td><a href="https://library.ucsc.edu">Website</a></td>
   </tr>
@@ -130,7 +127,7 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
   </tr>
 
 <tr>
-    <td><b>Other UCSC Locations</b></td>
+    <td><h3>Other UCSC Locations</h3></td>
     <td>
      </td>
     <td></td>
@@ -150,7 +147,7 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
   
   <tr>
     <td><b>Seymour Marine Discovery Center</b></td>
-    <td>The Seymour Center is opening outdoors on Saturday, April 24, with a special member preview day on Saturday, April 17. Guests can explore the fascinating world of marine science and conservation through a variety of outdoor activities.
+    <td>The Seymour Center is now open outdoors on Saturdays from 11 a.m. – 2 p.m. Guests can explore the fascinating world of marine science and conservation through a variety of outdoor activities.
 </td>
     <td><a href="https://seymourcenter.ucsc.edu/">Website</a></td>
   </tr>
