@@ -14,18 +14,15 @@ category: return
 ---
 {% include return-grid.html %}
 
-To support the public health of our community, the return of our workforce and our students to onsite operations at all UC Santa Cruz locations will be [conducted in a phased manner](https://recovery.ucsc.edu/assets/images/resumption-phases.pdf). The guiding principle of all of our decision-making is to prioritize public health and reduce COVID-19 spread, while supporting our academic mission. Resumption activities are being led by the [Academic Recovery and the Resiliency Task Force Operations and Employee Recovery and Resiliency Task Force](https://recovery.ucsc.edu/returning-to-campus/committees/).
+UC Santa Cruz operations are close to what was underway before the pandemic. All buildings will be accessible under regular summer operations starting July 1, 2021. 
 
-The draft UC Santa Cruz [resumption plan](https://recovery.ucsc.edu/assets/images/draft-resumption-plan.pdf) is considered a living document, and will be updated regularly as planning progresses, conditions change, and our plans adapt. In addition to the full plan, a [briefing booklet](https://recovery.ucsc.edu/assets/images/ucsc-recovery-resiliency-briefing-book.pdf) is available that covers the key elements of the plan and campus mitigations. As with the larger plan, the briefing book will also be adapted as conditions change.
+A [campus services webpage](https://recovery.ucsc.edu/support-for-students/campus-services/) provides information about what is open during summer. Information is also available on the office and department websites. 
 
-California has a [blueprint](https://covid19.ca.gov/safer-economy/) for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities.
+Most COVID-19 restrictions have been lifted, though some remain: 
 
-Under state orders, higher education is not permitted to fully resume in-person operations except where supporting essential workforce activities including but not limited to providing housing solutions, COVID-19 response, and the training and instruction of essential workers.
-
-The majority of campus operations continue to be remote. The essential functions allowed to take place on site must continue to be done in compliance with existing orders from the state and county. We are closely monitoring and assessing these orders as they are updated.
-
-There [are five general phases](https://recovery.ucsc.edu/assets/images/resumption-phases.pdf) to campus COVID-19 operating status. The specifics and timing of the campus phases are subject to change as adjustments are made at the county and state level. UC Santa Cruz is currently in Phase 4 of its campus plan for resuming in-person operations. At this point, all activities that can be carried out remotely will continue to be.
-
-Increases in county or regional COVID-19 positive cases may require regional Public Health Departments (Santa Cruz and Santa Clara counties) to issue new orders that may result in the campus adjusting plans and reverting to prior phases.
-
+- **Face coverings:** UC Santa Cruz recommends that everyone, regardless of vaccination status, wear a face covering when accessing shared campus indoor spaces, particularly those that are open to the general public.
+- **Daily symptom checks:** Employees, including those who are vaccinated, must complete daily symptom checks when they are on-site, a requirement set by Cal/OSHA.
+- **COVID-19 training:** [COVID-19 training](https://recovery.ucsc.edu/returning-to-campus/get-trained/) is still required for all employees who are on site at any UCSC facility. The current training is being revised, and we will pass along the revised information when it is ready.
+- **Asymptomatic testing protocol:** Unvaccinated students (undergraduate and graduate) living in university housing or who are on-site for any reason are required to have [weekly COVID-19 tests](https://healthcenter.ucsc.edu/services/covid19.html). 
+- **UC vaccination policy:** [COVID-19 vaccinations will be mandatory](https://news.ucsc.edu/2021/07/systemwide-vaccination-policy.html) for all faculty, staff, academic appointees, and students accessing facilities at any UC campus this fall.
 
