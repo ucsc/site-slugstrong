@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Roadmap to Recovery"
+title: "Slug Strong"
 menu: "Home"
 order: 1
 left_col: true
