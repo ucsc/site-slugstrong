@@ -9,10 +9,9 @@ order: 2
 sidebar: true
 title: Returning to Campus
 description: >
-  UC Santa Cruz is beginning to resume more on-campus operations. Employees can learn more about what is needed to get the campus ready and start developing a worksite plan. 
+  UC Santa Cruz is resuming more on-campus operations. Employees can learn more about what is needed to return to UC Santa Cruz sites. 
 category: return
 ---
-{% include return-grid.html %}
 
 UC Santa Cruz operations are close to what was underway before the pandemic. All buildings will be accessible under regular summer operations starting July 1, 2021. 
 
