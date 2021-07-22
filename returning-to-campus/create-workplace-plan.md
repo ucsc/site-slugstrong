@@ -3,8 +3,8 @@ layout: page
 title: Process for Resumption of On-site Operations
 description: >
   Department must create a worksite plan that meets current public health guidelines.
-sidebar: true
-category: return
+sidebar: false
+category: 
 weight: 1
 button:
   bg: '#8d91c7ff'
@@ -42,7 +42,6 @@ Many buildings have already completed the building worksite planning process but
 
 Units across campus have been diligently completing worksite plans and readying buildings over the past year as operations have resumed on site. This process has been critical as it ensures that facilities have the needed COVID-19 health and safety protocols in place. A map showing the buildings with approved worksite plans is [available online](https://ucsc.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=289d5c5fe78a4ee4a2f918a40a04f4f5) to review.
 
-
 **Requesting Supplies or Equipment**
 
 To request supplies, equipment, or workspace modifications to help prevent the spread of COVID-19, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZWheLtmc7GOAeEz4qh8Dl_mT9v6FaJlYNOSzQdCEJAJe1WQ/viewform). All requests will be evaluated by Environmental Health and Safety staff prior to fulfillment. Once a supplies request has been approved, you will be contacted with details for scheduling pick up of your items.
@@ -64,7 +63,6 @@ In addition to completion of the worksite plan, Principal Officers need to ensur
 Principal Officers are required to document those faculty, staff and student employees who have been approved to be on-site and ensure their compliance with all COVID-19 mitigations.
 
 Divisions and Units should not develop their own protocols in any of the following areas, due to compliance, legal, and privacy considerations.
-
 
 A useful resource for Principal Officers to offer their employees who are returning on-site are the Staff Human Resources "Employee Welcome Back Kits." The kits contain promotional items such as branded cloth masks and hand sanitizer, as well as informational materials to support both staff and academic employees in their return process.  Please complete the [Employee Welcome Back Kit Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdfaQWEt51A6ooi3HlrlDOcQqAjiznFvoGgQ9JsWVASGIXvsQ/viewform) to request kits for your employees who are currently working on site, or will be returning to work on site in the near future.  If you have any questions about the form or the kits, please reach out to Karen Schloss at [keschlos@ucsc.edu](mailto:keschlos@ucsc.edu).
 
