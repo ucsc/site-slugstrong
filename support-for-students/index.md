@@ -9,7 +9,7 @@ sidebar: true
 left_col: true
 category: student-support
 front:
-  bg: "#8d91c7ff"
+  bg: "#13a5dc"
   color: "#fff"
   icon: "school-25.svg"
 ---
@@ -17,11 +17,11 @@ front:
 <figure class="inline-image right">
 {% asset barn-sign-500px.jpg magick:resize=500 alt="Main" %}</figure>
 
-UC Santa Cruz students have a number of support and engagement services available to ensure their success as we transition back to in-person learning and interaction. 
+UC Santa Cruz students have a number of support and engagement services available to ensure their success as we transition back to in-person learning and interaction.
 
 Student Health Services, Counseling and Psychological Services, Basic Needs support, Academic Advising, Learning Support Services, and CARE are open and providing services remotely.
 
-As COVID-19 restrictions are eased, more campus resources are being offered in person. 
+As COVID-19 restrictions are eased, more campus resources are being offered in person.
 
 - The McHenry Library and Science & Engineering Library buildings reopened on July 1, 2021 for print collections access and on-site services.
 - The pool is open to students for lap swimming and the East Tennis Courts are available for tennis on a [reservation system](https://campusrec.ucsc.edu/Program/GetProducts?classification=26e7654b-b3c6-45de-ac5e-967a7ade45c3).

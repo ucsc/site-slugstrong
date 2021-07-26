@@ -8,8 +8,8 @@ order: 4
 sidebar: true
 left_col: true
 front:
-  bg: "#ffbc42ff"
+  bg: "#ffbf00"
   color: "#fff"
   icon: "school-28.svg"
 ---
-This page redirects to https://keepteaching.ucsc.edu/
+This page redirects to <https://keepteaching.ucsc.edu/>

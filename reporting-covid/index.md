@@ -8,9 +8,8 @@ sidebar: true
 left_col: true
 order: 3
 front: 
-  bg: "#00487cff"
+  bg: "#006aad"
   color: "#fff"
   icon: "virus-1.svg"
 ---
 {% include reporting-tracking-grid.html %}
-
