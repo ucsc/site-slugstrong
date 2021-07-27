@@ -13,7 +13,7 @@ description: >
 category: return
 ---
 
-UC Santa Cruz operations are close to what was underway before the pandemic. All buildings will be accessible under regular summer operations starting July 1, 2021.
+UC Santa Cruz operations are close to what was underway before the pandemic. All buildings are accessible under regular summer operations, effective July 1, 2021.
 
 A [campus services webpage](https://recovery.ucsc.edu/support-for-students/campus-services/) provides information about what is open during summer. Information is also available on the office and department websites.
 
