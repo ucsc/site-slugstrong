@@ -26,4 +26,3 @@ Face covering resources:
 * [CDC: Use of Cloth Face Coverings to Help Slow the Spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
 * [Surgeon General Shows How to Make Your Own Face Covering](https://youtu.be/tPx1yqvJgf4)
 
-UCSC employees and students are welcome to use their own cloth face coverings. In addition, the campus is coordinating with campus partners to procure reusable cloth face coverings for essential staff working on campus and students living in on-campus housing who are unable to provide their own. Please note, these will be non-medical grade face coverings.  Priority will be given to essential staff working on campus in close quarters and in confined indoor spaces, including dining services, housing staff, and custodial services.
