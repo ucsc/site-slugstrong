@@ -1,7 +1,7 @@
 [[redirects]]
   from = "https://recovery.ucsc.edu/*"
   to = "https://slugstrong.ucsc.edu/:splat"
-  status = 301!
+  status = 301
   headers = {X-From = "Netlify"}
   force = true
 [[redirects]]
