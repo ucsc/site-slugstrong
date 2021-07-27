@@ -1,4 +1,4 @@
-# UC Santa Cruz Roadmap to Recovery
+# UC Santa Cruz Slug Strong
 
 [![GitHub version](https://badge.fury.io/gh/ucsc%2Fsite-recovery.svg)](https://badge.fury.io/gh/ucsc%2Fsite-recovery)
 
@@ -6,7 +6,7 @@
 
 [![GitHub version](https://badge.fury.io/gh/ucsc%2Fsite-recovery.svg)](https://badge.fury.io/gh/ucsc%2Fsite-recovery)
 
-Website for the UC Santa Cruz Roadmap to Recovery (from COVID-19). Built with Jekyll, hosted on Netlify.
+Website for the UC Santa Cruz Slug Strong (from COVID-19). Built with Jekyll, hosted on Netlify.
 
 url: [https://recovery.ucsc.edu](https://recovery.ucsc.edu)
 
@@ -17,7 +17,6 @@ Contributor(s): [Rob Knight](https://github.com/knice)
 ## Local development
 
 This is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker](https://www.docker.com/)) built by [Rob Knight](https://github.com/knice).
-
 
 ### Installation
 

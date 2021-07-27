@@ -3,8 +3,8 @@ layout: page
 title: Order Worksite Signs
 description: >
   New signs will help provide visual cues to minimize exposure.
-sidebar: true
-category: return
+sidebar: false
+category: 
 weight: 6
 button:
   bg: '#48acf0ff'

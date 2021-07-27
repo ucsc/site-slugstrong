@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Do Your Part
+title: Face coverings
 description: >
   There are a few basic practices we should all adopt to take care of ourselves—and our community. 
 sidebar: true
