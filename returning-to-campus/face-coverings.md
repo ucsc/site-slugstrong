@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Face coverings
+title: Face Coverings
 description: >
-  There are a few basic practices we should all adopt to take care of ourselves—and our community. 
+  Wearing a face covering can help slow the spread of COVID-19. 
 sidebar: true
 category: return
 weight: 2
