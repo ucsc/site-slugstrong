@@ -17,7 +17,7 @@ UC Santa Cruz operations are close to what was underway before the pandemic. All
 
 A [campus services webpage](https://recovery.ucsc.edu/support-for-students/campus-services/) provides information about what is open during summer. Information is also available on the office and department websites.
 
-Most COVID-19 restrictions have been lifted, though some remain:
+Most COVID-19 requirements have been lifted, though some requirements and recommendations remain:
 
 - **Face coverings:** UC Santa Cruz [recommends that everyone, regardless of vaccination status, wear a face covering](https://news.ucsc.edu/2021/07/revised-mask-reccomendation.html) when accessing shared campus indoor spaces, particularly those that are open to the general public.
 - **Daily symptom checks:** Employees, including those who are vaccinated, must complete [daily symptom checks](https://slugstrong.ucsc.edu/returning-to-campus/checking-for-symptoms/) when they are on-site, a requirement set by Cal/OSHA.
