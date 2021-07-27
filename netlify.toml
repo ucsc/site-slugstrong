@@ -1,4 +1,10 @@
 [[redirects]]
+  from = "recovery.ucsc.edu"
+  to = "slugstrong.ucsc.edu"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
+[[redirects]]
   from = "/keep-teaching"
   to = "https://keepteaching.ucsc.edu"
   status = 301
