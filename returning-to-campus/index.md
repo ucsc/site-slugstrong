@@ -19,7 +19,7 @@ A [campus services webpage](https://recovery.ucsc.edu/support-for-students/campu
 
 Most COVID-19 requirements have been lifted, though some requirements and recommendations remain:
 
-- **Face coverings:** UC Santa Cruz [recommends that everyone, regardless of vaccination status, wear a face covering](https://news.ucsc.edu/2021/07/revised-mask-reccomendation.html) when accessing shared campus indoor spaces, particularly those that are open to the general public.
+- **Face coverings:** UC Santa Cruz [requires that everyone, regardless of vaccination status, wear a face covering](https://news.ucsc.edu/2021/08/face-coverings-guidance.html) when accessing shared campus indoor spaces, particularly those that are open to the general public.
 - **Daily symptom checks:** Employees, including those who are vaccinated, must complete [daily symptom checks](https://slugstrong.ucsc.edu/returning-to-campus/checking-for-symptoms/) when they are on-site, a requirement set by Cal/OSHA.
 - **COVID-19 training:** [COVID-19 training](https://recovery.ucsc.edu/returning-to-campus/get-trained/) is still required for all employees who are on site at any UCSC facility. The current training is being revised, and we will pass along the revised information when it is ready.
 - **Asymptomatic testing protocol:** Unvaccinated students (undergraduate and graduate) living in university housing or who are on-site for any reason are required to have [weekly COVID-19 tests](https://healthcenter.ucsc.edu/services/covid19.html).
