@@ -24,6 +24,12 @@
   status = 301
   headers = {X-From = "Netlify"}
   force = true
+[[redirects]]
+  from = "/returning-to-campus/do-your-part/"
+  to = "/"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
 
 [[headers]]
   for = "/*"
