@@ -53,7 +53,8 @@ As COVID-19 restrictions are eased, more campus resources are being offered in p
 
   <tr>
     <td><b>Bookstore</b></td>
-    <td>Open 8:30 am to 5 p.m. Closed Saturday and Sunday. The bookstore will be closed to walk-in shopping. Online orders can be picked up at the will-call window.</td>
+    <td>Open 8:30 am to 4 p.m. Closed Saturday and Sunday. Will-call window open from 8:30 am to 4 pm. In-store shopping open from 10 am to 3 pm.
+Effective Sept. 28, the Bookstore will be open 9 a.m. to 3 p.m. Monday through Friday. Closed Saturday and Sunday.</td>
     <td><a href="https://slugstore.ucsc.edu/">Website</a></td>
   </tr>
 
