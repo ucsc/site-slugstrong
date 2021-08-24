@@ -12,4 +12,4 @@ button:
   icon: "download-11.svg"
 ---
 
-This page redirects to: <https://docs.google.com/forms/d/e/1FAIpQLSfIWvy5HuA79kkwPw6jLovRw4_SYzUJHq0g7UPbxHLEgtp_hg/viewform>
+This page redirects to: <https://forms.gle/A5BN1Y7iZuaKEf1JAm>
