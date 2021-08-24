@@ -29,6 +29,11 @@ description: >
 
 To request supplies, equipment, or workspace modifications to help prevent the spread of COVID-19, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSfZWheLtmc7GOAeEz4qh8Dl_mT9v6FaJlYNOSzQdCEJAJe1WQ/viewform).  All requests will be evaluated by Environmental Health and Safety staff prior to fulfillment. Once a supplies request has been approved, you will be contacted with details for scheduling pick up of your items.
 
+# Slug Strong Operational Signage Order Form
+
+Order Slug Strong operational signage for your unit or building using an [online form](https://forms.gle/A5BN1Y7iZuaKEf1JA). 
+
+
 # Leaves, Benefits, Support, and FAQs
 
 Staff Human Resources offers a wealth of support for staff, and the [Academic Personnel Office](https://apo.ucsc.edu/covid-19/index.html) is providing information for academic employees, supervisors and administrators.
