@@ -11,7 +11,7 @@ button:
   color: '#fff'
   icon: "weather-134.svg"
 ---
-
+_Last update: September 8, 2021_
 
 Many campus processes and procedures have been modified in light of the COVID-19 pandemic. Below are responses to a number of questions that should help give you a sense of what to expect and what you may need to do differently when navigating the campus and its many resources.
 
