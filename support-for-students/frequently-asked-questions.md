@@ -49,14 +49,14 @@ Visit the [Dining locations](https://dining.ucsc.edu/eat/index.html) page to see
 
 **What if I forget my mask?**
 
-The requirement to wear a mask is a state/county regulation, and you must have a face mask to enter any dining facility. Unfortunately, if you forget your mask, you will not be able to enter the facility. Additional masks are not available, and you will be asked to leave until you are able to return with your mask. Please note: You will also need to be properly wearing a mask to pick up to-go food orders.
+The requirement to wear a face covering is a state/county regulation, and you must have a face covering to enter any dining facility. Unfortunately, if you forget your face covering, you will not be able to enter the facility. Additional face coverings are not available, and you will be asked to leave until you are able to return with your face covering. Please note: You will also need to be properly wearing a face covering to pick up to-go food orders.
 
 
 ## Getting Around Campus
 
 **Are the campus shuttles operating at this time? **
 
-Yes they are! Please review [Transportation and Parking FAQs](https://taps.ucsc.edu/taps-archive/covid-19-taps-faq.html) related to COVID-19. Masks are [required](https://news.ucsc.edu/2021/08/face-coverings-guidance.html) to board and ride Campus Transit and METRO buses. No mask, no ride. 
+Yes they are! Please review [Transportation and Parking FAQs](https://taps.ucsc.edu/taps-archive/covid-19-taps-faq.html) related to COVID-19. Face covering are [required](https://news.ucsc.edu/2021/08/face-coverings-guidance.html) to board and ride Campus Transit and METRO buses. No mask, no ride. 
 
 **Are city buses running?**
 
@@ -89,7 +89,7 @@ Asymptomatic testing is different from what is commonly known as antibody testin
 
 **How can I best prepare to return to campus?**
 
-Stay healthy and practice all CDC recommended measures for resisting infection, including but not limited to wearing masks when indoors with others, observe at least six feet of physical distance between yourself and others, etc. Face coverings are required when in all campus buildings, including classrooms, on the UC Santa Cruz campus regardless of vaccination status. UCSC’s Student Health Center has plenty of information for you. Consider reviewing prevention measures offered by the [Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). 
+Stay healthy and practice all CDC recommended measures for resisting infection, including but not limited to wearing face coverings when indoors with others, observe at least six feet of physical distance between yourself and others, etc. Face coverings are required when in all campus buildings, including classrooms, on the UC Santa Cruz campus regardless of vaccination status. UCSC’s Student Health Center has plenty of information for you. Consider reviewing prevention measures offered by the [Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). 
 
 **Is UCSC doing COVID-19 testing for students?**
 
