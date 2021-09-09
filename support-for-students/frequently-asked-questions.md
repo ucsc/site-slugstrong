@@ -33,15 +33,15 @@ The process starts with you submitting a passport-type photo online. Staff will 
 
 **How is UCSC Dining operating during the pandemic?**
 
-Dining Services continues to offer excellent dining options for its customers. Currently, all dining hall meals must be ordered online, in advance, using the [GET app or website](https://dining.ucsc.edu/get/index.html). [Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
+[Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
 
 **I live in a residence hall; what are my meal plan options?**
 
-Students living in residence halls have [two meal plan options](https://dining.ucsc.edu/res-hall-meal-plans/index.html) that satisfy their meal plan requirement. Your plan is included with your housing contract and will activate after sequester meal service ends.
+Students living in residence halls have [two meal plan options](https://dining.ucsc.edu/res-hall-meal-plans/index.html) that satisfy their meal plan requirement. Your plan is included with your housing contract.
 
 **I don’t live in a residence hall; can I have a meal plan?**
 
-If you are a student living in campus apartments, ARCH communities, or local off-campus housing, you may purchase a voluntary meal plan. To purchase Slug Meals, Flexi Dollars, or a 5- or 7-Day Meal Plan, you must use the [GET app or website](https://dining.ucsc.edu/get/index.html) to add these funds to your account using a credit card.
+If you are a student living in campus apartments, ARCH communities, or local off-campus housing, you may purchase a [voluntary meal plan](https://dining.ucsc.edu/voluntary-meal-plans/index.html).
 
 **Where else can I get food on campus, besides the dining hall?**
 
