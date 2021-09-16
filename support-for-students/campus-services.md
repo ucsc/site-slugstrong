@@ -64,6 +64,14 @@ Effective Sept. 28, the Bookstore will be open 9 a.m. to 3 p.m. Monday through F
     <td></td>
   </tr>
 
+   <tr>
+    <td><b>Computer labs</b></td>
+    <td> The following three Computer Lab facilities will be open and supporting classes during the fall quarter 2021: Social Sciences 1, Baskin Eng. 105 (24 hrs), and Baskin Eng. 109 (24 hrs). The hours of operation are [online](https://its.ucsc.edu/computer-labs/index.html).
+    </td>
+    <td><a href="https://its.ucsc.edu/computer-labs/index.html">Website</a></td>
+  </tr>
+
+
 
   <tr>
     <td><b>Dean of Students</b></td>
@@ -98,6 +106,14 @@ Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">
     <td><a href="https://healthcenter.ucsc.edu/news-events/news/shs-covid-19-services.html">Website</a></td>
   </tr>
 
+ <tr>
+    <td><b>ITS</b></td>
+    <td>The ITS Support Center and the Faculty Instructional Technology Center (FITC) will continue to support the campus community virtually through fall quarter 2021. The in-person Support Center location in Kerr Hall room 54 and FITC location in McHenry Library room 1330 will remain closed. You can reach the Support Center through SlugHub or help@ucsc.edu and contact the FITC through fitc@ucsc.edu.
+    </td>
+    <td><a href="https://its.ucsc.edu">Website</a></td>
+  </tr>
+  
+  
  <tr>
     <td><b>Libraries</b></td>
     <td> The McHenry Library and Science & Engineering Library buildings will reopen for print collections access and on-site services beginning July 1, 2021 as part of the campus reopening.
