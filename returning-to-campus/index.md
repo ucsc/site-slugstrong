@@ -13,6 +13,8 @@ description: >
 category: return
 ---
 
+**New:** UC Santa Cruz has released updated [campus guidelines and resources](https://github.com/ucsc/site-slugstrong/blob/master/assets/images/ucsc-recovery-resiliency-briefing-booklet.pdf) and new event guidelines.
+
 UC Santa Cruz operations are close to what was underway before the pandemic.
 
 A [campus services webpage](https://recovery.ucsc.edu/support-for-students/campus-services/) provides a snapshot of what is open as we start fall quarter. Information is also available on office and department websites.
