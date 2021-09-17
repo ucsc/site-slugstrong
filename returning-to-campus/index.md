@@ -13,7 +13,7 @@ description: >
 category: return
 ---
 
-**New:** UC Santa Cruz has released an updated [campus guidelines and resources booklet](https://slugstrong.ucsc.edu/assets/images/ucsc-recovery-resiliency-briefing-booklet.pdf) and [new guidelines for meetings, events, and visitors.](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf)
+_**New:** UC Santa Cruz has released an updated [campus guidelines and resources booklet](https://slugstrong.ucsc.edu/assets/images/ucsc-recovery-resiliency-briefing-booklet.pdf) and [new guidelines for meetings, events, and visitors.](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf)_
 
 UC Santa Cruz operations are close to what was underway before the pandemic.
 
