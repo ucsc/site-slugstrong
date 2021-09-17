@@ -13,7 +13,7 @@ description: >
 category: return
 ---
 
-**New:** UC Santa Cruz has released an updated [campus guidelines and resources booklet](https://slugstrong.com/assets/images/ucsc-recovery-resiliency-briefing-booklet.pdf) and [new guidelines for meetings, events, and visitors.](https://slugstrong.com/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf)
+**New:** UC Santa Cruz has released an updated [campus guidelines and resources booklet](https://slugstrong.ucsc.edu/assets/images/ucsc-recovery-resiliency-briefing-booklet.pdf) and [new guidelines for meetings, events, and visitors.](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf)
 
 UC Santa Cruz operations are close to what was underway before the pandemic.
 
@@ -28,3 +28,5 @@ Most COVID-19 requirements have been lifted, though some requirements and recomm
 - **UC vaccination policy:** With limited exceptions, [COVID-19 vaccinations are required](https://news.ucsc.edu/2021/07/systemwide-vaccination-policy.html) for all faculty, staff, academic appointees, and students accessing facilities at any UC campus this fall. Employees and students can [submit proof of vaccination online](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html#requirement) or [request an exemption](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html#exception).
 
 **Support for managers and supervisors:** Have questions? [Visit Office Hours with Staff HR and EH&S](https://shr.ucsc.edu/covid-19-resources/covid-office-hours.html) on Fridays starting at 1 p.m.
+
+_Last update: September 17, 2021_
