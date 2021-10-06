@@ -18,11 +18,10 @@ More than ever, it’s important to take care of our own health and do our part 
 
 UC Santa Cruz [requires](https://news.ucsc.edu/2021/08/face-coverings-guidance.html) that everyone, regardless of vaccination status, wear a face covering when accessing shared campus indoor spaces, particularly those that are open to the general public.
 
-Cloth face coverings serve to keep each of us from sharing respiratory “droplets” with those around us. Given the community spread of COVID-19 throughout Santa Cruz County and the Bay Area, some people may have been infected but will not have symptoms for several days, while others may be carriers of the virus but never show symptoms. Current information indicates that these people can unintentionally infect others around them.
+* A face covering is defined by Cal/OSHA as a surgical mask, a medical procedure mask, a respirator worn voluntarily, or a tightly woven fabric or non-woven material of at least two layers.
+* A face covering has no visible holes or openings and must cover the nose and mouth.
+* A face covering **does not include** a scarf, ski mask, balaclava, bandana, turtleneck, collar, or single layer of fabric.
 
-Reusable cloth face coverings can be made from readily available items such as scarves, bandanas, or neck gaiters, as well as fitted masks that can be made at home or obtained online.
+Face coverings that are made from a single layer of fabric (bandana, scarf, balaclava, turtleneck) should not be used. Coverings with exhalation valves or vents allow virus particles to escape. Avoid using material that makes it difficult to breath.
 
-Face covering resources:
-
-* [CDC: Use of Cloth Face Coverings to Help Slow the Spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
-* [Surgeon General Shows How to Make Your Own Face Covering](https://youtu.be/tPx1yqvJgf4)
+[Learn more](https://ehs.ucsc.edu/programs/safety-ih/covid-resources.html)
