@@ -27,7 +27,7 @@ As COVID-19 restrictions are eased, more campus resources are being offered in p
   </tr>
   <tr>
     <td><b>Admissions</b></td>
-    <td>Due to COVID-19 concerns, Undergraduate Admissions has adjusted services. The Welcome Center and front counter at Hahn Student Services is closed until further notice. For general inquiries, please send an email to admissions@ucsc.edu. For campus tours inquiries, please email visits@ucsc.edu.</td>
+    <td>The admissions counter and phones (831-459-4408) are open Monday-Friday 10 a.m. to noon, and 1-4 p.m. For general inquiries, please send an email to admissions@ucsc.edu. For campus tours inquiries, please email visits@ucsc.edu.</td>
     <td><a href="https://admissions.ucsc.edu">Website</a></td>
   </tr>
   
