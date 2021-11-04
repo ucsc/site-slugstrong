@@ -27,6 +27,4 @@ Most COVID-19 requirements have been lifted, though some requirements and recomm
 - **Asymptomatic testing protocol:** UC Santa Cruz has [released fall 2021 testing requirements](https://healthcenter.ucsc.edu/services/covid19.html) for both unvaccinated students and employees and availability for vaccinated students and employees. Unvaccinated students (undergraduate and graduate) living in university housing or who are on-site for any reason are required to have [COVID-19 tests](https://healthcenter.ucsc.edu/services/covid19.html) at least every four days. Unvaccinated staff and faculty who come on-site for any reason are also required to test at least every four days.
 - **UC vaccination policy:** With limited exceptions, [COVID-19 vaccinations are required](https://news.ucsc.edu/2021/07/systemwide-vaccination-policy.html) for all faculty, staff, academic appointees, and students accessing facilities at any UC campus this fall. Employees and students can [submit proof of vaccination online](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html#requirement) or [request an exemption](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html#exception).
 
-**Support for managers and supervisors:** Have questions? [Visit Office Hours with Staff HR and EH&S](https://shr.ucsc.edu/covid-19-resources/covid-office-hours.html) on Fridays starting at 1 p.m.
-
-_Last update: September 17, 2021_
+_Last update: November 4, 2021_
