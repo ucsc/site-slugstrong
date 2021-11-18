@@ -14,7 +14,7 @@ category: return
 ---
 
 ## Updated guidelines for new guidelines for meetings, events, and visitors
-November 18, 2021—UC Santa Cruz has released [new guidelines for meetings, events, and visitors.](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf)
+UC Santa Cruz released [new guidelines for meetings, events, and visitors.](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf) on November 18, 2021. 
 
 The [campus guidelines and resources booklet](https://slugstrong.ucsc.edu/assets/images/ucsc-recovery-resiliency-briefing-booklet.pdf) provides additional information about campus operations. 
 
