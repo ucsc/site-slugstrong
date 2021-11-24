@@ -14,9 +14,12 @@ category: return
 ---
 
 ## Updated guidelines for new guidelines for meetings, events, and visitors
-UC Santa Cruz released [new guidelines for meetings, events, and visitors.](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf) on November 18, 2021. 
+UC Santa Cruz released [new guidelines for meetings, events, and visitors](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf) on November 18, 2021. 
 
 The [campus guidelines and resources booklet](https://slugstrong.ucsc.edu/assets/images/ucsc-recovery-resiliency-briefing-booklet.pdf) provides additional information about campus operations. 
+
+## COVID-19 Boosters
+UC Santa Cruz Student Health Services is not currently offering COVID-19 booster shots on campus. Please consider scheduling your booster in advance of winter break. Check out the [Santa Cruz County Health website](https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx) to find a location providing them in your area.
 
 ## Slug Strong Actions
 Most COVID-19 requirements have been lifted, though some requirements and recommendations remain:
