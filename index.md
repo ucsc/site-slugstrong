@@ -17,3 +17,5 @@ The latest [COVID-19 Campus Guidelines and Resources booklet](https://slugstrong
 Additionally, the campus [released a protocol to provide expectations related to events, meetings, and visitors](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf).
 
 *Questions or feedback? Please email [publicaffairs@ucsc.edu](mailto:publicaffairs@ucsc.edu).*
+
+***Note**: To mark the start of the fall quarter, all active faculty and staff were sent a Slug Strong fall welcome pack that included a reusable lunch bag, a face covering, and a few other items to use in their workspace. If you believe you should have received one, but did not, you can request one through an [online form](https://docs.google.com/forms/d/e/1FAIpQLSfHuWWSZE_MwwvtPzB9zrtKaPKHowXCp91vw8vhbd_ovAkPFA/viewform)."* 
