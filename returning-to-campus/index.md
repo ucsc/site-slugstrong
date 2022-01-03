@@ -14,7 +14,7 @@ category: return
 ---
 
 ## Updated guidelines for new guidelines for meetings, events, and visitors
-UC Santa Cruz released [new guidelines for meetings, events, and visitors](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf) on November 18, 2021. However, the campus is [recommending](https://news.ucsc.edu/2021/12/winter-quarter-update.html) faculty and staff hold meetings and events remotely during the first two weeks of January. 
+UC Santa Cruz is [recommending](https://news.ucsc.edu/2021/12/winter-quarter-update.html) faculty and staff hold meetings and events remotely during the first two weeks of January. The campus's [guidelines for meetings, events, and visitors](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf) were updated on November 18, 2021. 
 
 The [campus guidelines and resources booklet](https://slugstrong.ucsc.edu/assets/images/ucsc-recovery-resiliency-briefing-booklet.pdf) provides additional information about campus operations. 
 
