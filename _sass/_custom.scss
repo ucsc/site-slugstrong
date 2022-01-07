@@ -247,7 +247,7 @@ a:focus-visible {
         list-style: none;
         text-align: center;
         a {
-            padding: 1em 1.5em;
+            padding: 2em 1em;
             display: flex;
             flex-direction: column;
             justify-content: flex-start;
@@ -256,6 +256,7 @@ a:focus-visible {
             text-align: left;
             color: #fff;
             line-height: 1.28;
+            gap:1.5em;
             height: 100%;
             .block-header {
                 color: #fff;
@@ -269,7 +270,7 @@ a:focus-visible {
             }
             svg {
                 align-self: center;
-                margin: 1em;
+                margin: 0;
                 fill: #ffffff;
                 width: auto;
                 height: 68px;
@@ -282,7 +283,7 @@ a:focus-visible {
             text-decoration: none;
             color: #00458c !important;
             background-color: #efefef !important;
-            transition: all .35s;
+            transition: all .25s;
             h3 {
                 color: #00458c !important;
             }
@@ -299,12 +300,15 @@ a:focus-visible {
     }
 }
 
+
+
 .subpage-grid-container {
     @include relative-font-size(1);
     padding: 0;
     margin: 0;
     display: grid;
     grid-gap: .5em;
+
     @include media-query($on-tablet) {
         grid-template-columns: repeat(2, 50%);
         grid-template-rows: auto;
@@ -315,8 +319,9 @@ a:focus-visible {
         margin: 0;
         list-style: none;
         text-align: center;
+
         a {
-            padding: 1em 1.5em;
+            padding: 1.2em;
             display: flex;
             flex-direction: row;
             justify-content: flex-start;
@@ -326,32 +331,37 @@ a:focus-visible {
             color: #fff;
             line-height: 1.28;
             height: 100%;
+            gap: 1.5em;
             .block-header {
                 color: #fff;
+                font-weight: 600;
+                margin-bottom:.15em;
             }
             .block {
                 width: 100%;
             }
             .inner {
-                line-height: 1.15;
+                line-height: 1.3;
                 @include relative-font-size(0.9);
+                margin-top: .15em;
             }
             svg {
                 align-self: center;
-                margin: 1em;
+                margin: 0;
                 fill: #ffffff;
                 width: auto;
                 height: 68px;
                 display: inline-block;
             }
         }
+
         a:focus,
         a:hover,
         a:active {
             text-decoration: none;
             color: #00458c !important;
             background-color: #efefef !important;
-            transition: all .35s;
+            transition: all .25s;
             h3 {
                 color: #00458c !important;
             }
