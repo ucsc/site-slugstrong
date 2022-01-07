@@ -20,8 +20,8 @@ Testing information is available on the Student Health Center website for [stude
 
 **Isolation and Quarantine Definitions**
 
-* Isolation: separates people infected with a contagious disease from those who are not infected.
-* Quarantine: restricts the movement of people who were exposed to a contagious disease in case they become infected.
+* **Isolation**: separates people infected with a contagious disease from those who are not infected.
+* **Quarantine**: restricts the movement of people who were exposed to a contagious disease in case they become infected.
 
 Isolation and quarantine are proven public health interventions fundamental to reducing COVID-19 transmission. Isolation and quarantine processes are in place to slow the spread of the virus.
 
