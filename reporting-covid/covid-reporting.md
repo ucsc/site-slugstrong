@@ -5,13 +5,12 @@ description: >
   If you have tested positive for COVID-19, please notify the campus. Learn more.
 sidebar: true
 category: reporting
-weight: 1
+weight: 3
 button:
-  bg: '#b4436cff'
-  color: '#fff'
+  bg: "#b4436cff"
+  color: "#fff"
   icon: "check-mark-circle-thin.svg"
 ---
-
 
 **COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
 
@@ -21,9 +20,9 @@ All employees who work on-site at a UCSC property (owner or leased) must complet
 
 Preventing the spread of COVID-19 is one of our highest priorities. UC Santa Cruz is responding to concerns from the campus community regarding COVID-19.
 
-* **Employees:** If you have tested positive for COVID-19, or were exposed to someone who tested positive, please email your supervisor.
-* **Supervisors:** Report confirmed COVID-19 cases or exposures to the COVID-19 Symptom Check Officer at [check@ucsc.edu](mailto:check@ucsc.edu).  Do not include additional health information.
-* **Students:** If you've tested positive for COVID-19, please call Student Health Services at 831-459-2591 so that medical staff members are aware and coordinate care if needed.
+- **Employees:** If you have tested positive for COVID-19, or were exposed to someone who tested positive, please email your supervisor.
+- **Supervisors:** Report confirmed COVID-19 cases or exposures to the COVID-19 Symptom Check Officer at [check@ucsc.edu](mailto:check@ucsc.edu). Do not include additional health information.
+- **Students:** If you've tested positive for COVID-19, please call Student Health Services at 831-459-2591 so that medical staff members are aware and coordinate care if needed.
 
 Santa Cruz County has [instructions online](http://www.santacruzhealth.org/Portals/7/pdfs/coronavirus/COVID-19_Patient_Instruction_Booklet_self_quarantine_and_self_isolation.pdf?version=052520) for people about how to self-quarantine if they have been exposed to someone with COVID-19. People with questions about COVID-19 can call Santa Cruz County at 831-454-4242 between 8 a.m. and 6 p.m., Monday through Friday. Outside of these hours, people can call United Way of Santa Cruz County at 211 or text "covid19" to 211211.
 
