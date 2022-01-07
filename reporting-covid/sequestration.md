@@ -2,7 +2,7 @@
 layout: page
 title: Sequestration
 description: >
-  Guidelines for sequestering yourself prior to the beginning of Winter quarter 2022
+  Guidelines for sequestering yourself as you return to campus
 sidebar: true
 category: reporting
 weight: 1
