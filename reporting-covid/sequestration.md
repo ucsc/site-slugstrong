@@ -20,7 +20,7 @@ Sequestration applies to all students— regardless of vaccination status—movi
 ## Throughout the sequestration period:
 
 1. Practice the two basics of COVID-19 prevention: wear a face-covering outside of your room and frequently wash your hands.
-2. Complete the Daily Symptom Check. 
+2. Complete the [Daily Symptom Check](https://slugstrong.ucsc.edu/returning-to-campus/checking-for-symptoms/). 
 4. No guests or visitors! No one is permitted in your room except you! If you live in an apartment, no one but you and your assigned apartment-mate(s) are allowed in the unit.
 5. Do not leave your residence except to participate in essential activities (e.g., to pick up meals or purchase food, participate in low-risk outdoor recreational activities, or obtain healthcare services). 
 6. No in-person gatherings. Residents under sequestration are not permitted to host or attend gatherings of any kind.
