@@ -11,124 +11,161 @@ button:
   color: '#fff'
   icon: "weather-134.svg"
 ---
-_Last update: September 8, 2021_
 
-Many campus processes and procedures have been modified in light of the COVID-19 pandemic. Below are responses to a number of questions that should help give you a sense of what to expect and what you may need to do differently when navigating the campus and its many resources.
+The Omicron variant has required UC Santa Cruz to adjust its plans for winter quarter. The questions below are mean to provide answers to some of the most commonly asked questions. 
 
 Please be advised that some descriptions may refer to resources, buildings, or providers of activities whose offices are currently closed. However, in nearly every case, those offices are available via the web, email, phone, etc. If you aren’t finding the information you are looking for here, [please share your questions with us](https://docs.google.com/forms/d/1c00n6EeLEtfQVSzkTt-UTiRrRQ0977dWSe5CI8vlCe0/edit), and we’ll get back to you.
 
 
-## The Business of Being a Student
 
-**Why is my Student ID Card important?**
+## General
 
-Your [UCSC Student ID Card](https://orientation.ucsc.edu/summer/id-card.html) serves many functions. It is your official means of UCSC Identification. It will be used to get meals in Dining Halls, check materials out from the campus libraries, ride certain city bus routes for free, and can act as a key card giving you access to your residential building and more.
+### When will in-person instruction resume?
 
-**What is the first step I take to get my Student ID Card?**
+As a campus, we remain focused on resuming an in-person educational experience for our students on Jan. 31.
 
-The process starts with you submitting a passport-type photo online. Staff will then advise you of the next steps.
-
-
-## Dining on Campus
-
-**How is UCSC Dining operating during the pandemic?**
-
-[Here is a summary](https://dining.ucsc.edu/covid-19/index.html) of the operational changes currently in place for Dining Services.
-
-**I live in a residence hall; what are my meal plan options?**
-
-Students living in residence halls have [two meal plan options](https://dining.ucsc.edu/res-hall-meal-plans/index.html) that satisfy their meal plan requirement. Your plan is included with your housing contract.
-
-**I don’t live in a residence hall; can I have a meal plan?**
-
-If you are a student living in campus apartments, ARCH communities, or local off-campus housing, you may purchase a [voluntary meal plan](https://dining.ucsc.edu/voluntary-meal-plans/index.html).
-
-**Where else can I get food on campus, besides the dining hall?**
-
-Visit the [Dining locations](https://dining.ucsc.edu/eat/index.html) page to see what’s open today.
-
-**What if I forget my mask?**
-
-The requirement to wear a face covering is a state/county regulation, and you must have a face covering to enter any dining facility. Unfortunately, if you forget your face covering, you will not be able to enter the facility. Additional face coverings are not available, and you will be asked to leave until you are able to return with your face covering. Please note: You will also need to be properly wearing a face covering to pick up to-go food orders.
+Students who are already on campus or in the area will find increasing opportunities for in-person interaction and learning over the next several weeks.
 
 
-## Getting Around Campus
+## Housing
 
-**Are the campus shuttles operating at this time? **
+### If a student wishes to cancel their housing contract due to Covid-related reasons, can the cancellation fee be waived?
 
-Yes they are! Please review [Transportation and Parking FAQs](https://taps.ucsc.edu/taps-archive/covid-19-taps-faq.html) related to COVID-19. Face covering are [required](https://news.ucsc.edu/2021/08/face-coverings-guidance.html) to board and ride Campus Transit and METRO buses. No mask, no ride. 
-
-**Are city buses running?**
-
-Yes, and the lines that serve the campus are 10, 15, 16, 19, and 20 Metro buses - more [here](https://www.scmtd.com/en/).
+Yes. Please know that students wishing to cancel their housing contract must provide their housing office with a date on which they will be completely moved out of their residential assignment and turn in their keys. All requests for housing contract cancellation must be initiated through the [Housing Portal](https://studenthousing.ucsc.edu/). Moving out or turning in keys without official approval will not release you from your contractual obligation, and you will continue to be billed accordingly.
 
 
-## Health and Wellbeing
+### My roommate has tested positive. Why haven’t they already been relocated to isolation housing?
 
-**What are my responsibilities to the UCSC community in light of the COVID-19 pandemic?**
+We are working diligently to move all students living on-campus who test positive to isolation housing. Due to the high case load right now, there are unavoidable delays. Until the known COVID positive student is moved, please continue to follow [campus guidelines](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf) to minimize your risk of exposure: all roommates/housemates should wear a[ well-fitting mask](https://ehs.ucsc.edu/programs/safety-ih/covid-resources.html) (such as, a fitted N95, KN95, KF94) at all times – even while sleeping. Masks can be picked up from your local housing office. Ventilate your living space by keeping windows open as much as possible, physically distance among yourselves as much as possible, and regularly disinfecting shared spaces. If they’re not there already, custodial services will soon be leaving disinfectant supplies in residence hall shared bathrooms. Make use of those supplies. 
 
-Among the most important things all of us can do is to become and remain acutely aware of the condition of our health. Register with [Health e-Messenger](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html) to sign up for text reminders, take the daily surveys of your health status, and make appointments to be COVID-19 tested as needed or desired. Training Requirement:
+Make sure to schedule/get your booster as soon as possible. The deadline to get and submit proof of your booster is Monday, January 31st. 
 
-All students (undergraduate and graduate) living on campus must complete COVID awareness and best-practices training: Staying Healthy in a Changing Environment for Students on Campus. Campus residents are automatically enrolled in this course and notified of its availability around the time of their arrival to campus.
+We realize this is an uncomfortable situation. There are many steps that must be taken until a positive student can be moved. We are getting better at this every day. We are adding resources every day to speed up this process. Meanwhile, please be kind and supportive toward each other. If possible, support your ill roommate/housemate by offering to pick up meals for them at the dining hall. 
 
-**Where can I get tested on campus?**
 
-Testing is available at the Merrill Cultural Center. Please note that the kiosk is not open on the weekends, so plan your testing accordingly through the Health e-Messenger system.
+### Are guests allowed in on-campus housing?
 
-**What if I don’t feel well the day of my testing appointment?**
+There are no guest restrictions at this time, but we advise that you check with your roommates or housemates to make sure you are on the same page on how to handle guests. All visitors to the campus must complete a [daily symptom check](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX) for guests. If a guest or visitor is not feeling well or tests positive for COVID, they should not come to campus. Guests should complete this form before arriving on campus.  
 
-If you feel unwell on the day of your appointment, do not come to the testing site. Instead, remain isolated from others and contact the Student Health Center’s Nurse Advice line at 831/459-2591 for direction on next steps.
 
-**How will I know the results of my test and when will I receive those results?**
+### Will there be any college or athletics programming?
 
-Test results should be available between 24 and 72 hours after testing. You will receive an email with instructions on how to access those.
+The College Programming Offices are focusing on virtual events to keep our communities connected and thriving. Athletics and Recreation highlights a number of winter quarter offerings in their [newsletter](https://ucsc-expghost.imodules.com/controls/email_marketing/view_in_browser.aspx?sid=1069&gid=1001&sendId=3093899&ecatid=29&puid=f947afef-6807-486c-8f0c-81d4a3299ede).
 
-**What is asymptomatic testing?**
 
-Asymptomatic testing is different from what is commonly known as antibody testing – that is, testing to determine if someone has had COVID-19 and has developed antibodies in response to it. Asymptomatic testing tests for COVID-19 viral RNA particles and lets you know if you are currently or have recently been infected with the virus. This kind of testing is like a snapshot in time – the results of testing indicate what an individual’s status was at the moment they took the test. This is why repeated testing is necessary.
+## Testing
 
-**How can I best prepare to return to campus?**
 
-Stay healthy and practice all CDC recommended measures for resisting infection, including but not limited to wearing face coverings when indoors with others, observe at least six feet of physical distance between yourself and others, etc. Face coverings are required when in all campus buildings, including classrooms, on the UC Santa Cruz campus regardless of vaccination status. UCSC’s Student Health Center has plenty of information for you. Consider reviewing prevention measures offered by the [Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). 
+### How can I get tested for COVID-19?
 
-**Is UCSC doing COVID-19 testing for students?**
+Students, faculty, and staff can sign up for an appointment to get a COVID-19 test with Fulgent Genetics from Monday through Friday. Instructions are available [online](https://healthcenter.ucsc.edu/services/covid-19/covid19-staff.html#start) and the samples are collected at the Merrill Cultural Center. 
 
-In addition to the testing kiosk described above, the [Student Health Center](https://healthcenter.ucsc.edu/index.html) is providing [testing services](https://healthcenter.ucsc.edu/services/covid-19-testing.html) to students – an appointment is necessary. If you are a currently registered student, please call the Student Health Center (831-459-2500) to make an appointment to test there. If you are not yet a registered active student, please contact your private health provider for evaluation and next steps.  Do not come to campus if you have symptoms. 
+Weekend testing is also available with self-administered kits that will be provided and collected on a first-come first-served basis from 10 a.m. to 3 p.m. on Saturday and Sunday outside the Porter Dining Hall, as well as at the Merrill Cultural Center.
 
-**What if I begin feeling unwell?**
+**If you are not feeling well or test positive, do not come to campus.** Please call 1-800-809-6097 for additional instructions, or [read this information](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf) about what to do. You will need to isolate per CDPH guidelines.  You will need to postpone your return until your COVID test is negative or your healthcare provider has cleared you. 
 
-Be responsible by isolating yourself away from others, notify important people in your life (family, friends, professors, etc.), and call the [Student Health Center](https://healthcenter.ucsc.edu/services/covid-19-testing.html).
 
-**How do I clean and disinfect my living/eating/studying/bathroom spaces?**
+### I’ve tested positive. What should I do?
 
-The [Center for Disease Control and Protection](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html) has a lot of information on this topic.
+If you are a student, you can call 1-800-809-6097 for additional instructions, or [read this information](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf) about what to do. 
 
-**How has UC Santa Cruz prepared quarantine/isolation housing?**
+If you are an employee, please immediately notify your manager and Cindy Delgado with Risk Services at [cadelgad@ucsc.edu](mailto:cadelgad@ucsc.edu) or 831-888-7253 for next steps and available resources. Stay home and do not go in-person to work. 
 
-UC Santa Cruz has created a temporary housing solution for residents in need of quarantine or isolation housing related to COVID-19, in accordance with guidelines set by Center for Disease Control and the California Department of Public Health.
 
-**How is Quarantine/Isolation Housing used?**
+### My roommate has tested positive. Why haven’t they already been relocated to isolation housing?
 
-When a UC Santa Cruz resident has potentially been exposed to COVID19, but does not display any symptoms (asymptomatic) or displays any of the COVID19 symptoms, the resident should be evaluated by the Student Health Center, which could be by phone. The resident may be tested for COVID19, under the direction of staff at the Student Health Center. If the Student Health Center has cause for concern, the resident may be requested to either isolate in place or temporarily relocate away from shared campus housing to limit the potential of exposure to others. If deemed necessary, staff at the Student Health Center will initiate arrangements for Quarantine/Isolation Housing. The resident may be requested to stay in Quarantine/Isolation Housing for up to 14 days, under the daily phone care of healthcare professionals from the Student Health Center. The university will arrange transportation to and from the quarantine/isolation housing, located on campus, if necessary. If the resident is tested for COVID19 and the result comes back negative, the resident may immediately move back to their residence in their community. The Student Health Center can be reached at (831)459-2500 or the Nurse Advice Line at (831459-2591.
+We are working diligently to move all students living on-campus who test positive to isolation housing. Due to the high case load right now, there are unavoidable delays. Until the known COVID positive student is moved, please continue to follow [campus guidelines](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf) to minimize your risk of exposure: all roommates/housemates should wear a[ well-fitting mask](https://ehs.ucsc.edu/programs/safety-ih/covid-resources.html) (such as, a fitted N95, KN95, KF94) at all times – even while sleeping. Masks can be picked up from your local housing office. Ventilate your living space by keeping windows open as much as possible, physically distance among yourselves as much as possible, and regularly disinfecting shared spaces. If they’re not there already, custodial services will soon be leaving disinfectant supplies in residence hall shared bathrooms. Make use of those supplies. 
 
-Once a resident is able to safely check out of Quarantine/Isolation Housing, Custodial Services will sanitize and disinfect the space using CDC recommended cleaning procedures.
+Make sure to schedule/get your booster as soon as possible. The deadline to get and submit proof of your booster is Monday, January 31st. 
 
-**How do residents in Quarantine/Isolation Housing receive dining service?**
+We realize this is an uncomfortable situation. There are many steps that must be taken until a positive student can be moved. We are getting better at this every day. We are adding resources every day to speed up this process. Meanwhile, please be kind and supportive toward each other. If possible, support your ill roommate/housemate by offering to pick up meals for them at the dining hall. 
 
-UC Santa Cruz CHES-Dining Services has created a unique system to provide high quality snacks, meals and beverages, delivered directly to residents in Quarantine/Isolation Housing. The online meal ordering system link is provided to residents when they arrive at Quarantine/Isolation Housing. The meal order program takes into account special dietary needs/requests of the individual. Each room in Quarantine/Isolation Housing is outfitted with a microwave and refrigerator. Each room is also equipped with an electric tea kettle.
+
+### How is the campus minimizing the spread of COVID-19 at the testing sites?
+
+Students, faculty and staff should upgrade their masks, wearing an N95, KN95 or a surgical mask beneath a cloth mask whenever they are indoors. 
+
+By scheduling appointments, UC Santa Cruz is working to minimize lines at the testing sites as well. 
+
+
+### Why is the campus working with outside vendors for COVID-19 testing?
+
+Since the fall quarter, Fulgent Genetics provided COVID-19 testing for our campus to supplement the testing capacity of our own campus diagnostic laboratory.  As previously [announced](https://news.ucsc.edu/2021/12/covid-19-lab.html), amid regulatory changes and the increase in commercial testing for COVID-19, the Colligan Clinical Diagnostic Lab (CCDL) ended its COVID testing. During winter break, the campus transitioned all of its COVID-19 testing to Fulgent Genetics.  As you may be aware, the CCDL was created at the beginning of the pandemic when there was not enough readily available commercial testing for COVID-19.  Two years into the pandemic, there are now many more testing options allowing this opportunity to work with vendors consistent with our goal to make operational decisions based on the evolving conditions of the pandemic and campus needs.    
+
+
+### Why are some samples sequenced by Fulgent Genetics?
+
+Sequencing COVID-19 positive samples is a critical component for researchers to track the evolution of the virus and detect and identify different COVID-19 variants.  Like many COVID-19 diagnostic testing laboratories, Fulgent sequences some, but not all, of the COVID-19 positive samples that are tested in its lab. Sequencing results are deidentified and shared (not sold) with the Centers for Disease Control & Prevention and the California Department of Public Health. 
+
+An individual's DNA is not being sequenced and Fulgent is not selling any individual genetic information. When a positive sample is sequenced they are sequencing the virus to get the particular SARS-CoV-2 genomic sequence that was present in that positive sample. They are not sequencing human DNA. Sequencing the virus helps researchers identify which COVID-19 variants are in a particular community and identify new variants. 
+
+
+### Will there be additional testing options?
+
+UC Santa Cruz is planning to expand testing availability and will share more information later this quarter. We want to make sure that testing for COVID-19 is quick and easy. 
+
+
+## Dining
+
+
+### Are dining halls open?
+
+Yes, all Dining Halls scheduled to be open for the winter quarter are operational and serving food. 
+
+As of Jan. 10, however, no one may sit inside the dining halls to eat their meals. Students must instead take meals to go. This change, along with several other important announcements, was communicated in a [message sent on Jan. 10](https://news.ucsc.edu/2022/01/housing-assignment-survey.html) to all students holding a winter quarter housing assignment. 
+
+There are no changes to menu offerings, operating hours, or any restrictions on how many times a student may visit the dining halls in accordance with the terms of their dining plan.
+
+Given that eating requires the removal of a face-covering, it is likely best that students eat their meals outdoors or in as private a location as possible.
+
+
+## Transportation
+
+
+### Are campus shuttles still running? 
+
+Yes, Loop, Upper Campus, and Night Upper Campus shuttles are continuing to run on their [regular schedule](https://taps.ucsc.edu/buses-shuttles/campus-shuttles.html). The[ Bike Shuttle](https://taps.ucsc.edu/bike-programs/bike-shuttles.html) will continue to run in a limited capacity for winter, with service changes for breaks, holidays, and rainy days. Make sure you’re following TAPS on[ Instagram](https://www.instagram.com/ucsc_taps/) and [Twitter](https://twitter.com/ucsc_taps) for updates. Also, remember, no mask, no ride.
+
+
+### Are METRO buses still running?
+
+Yes, METRO buses are continuing to run on their regular schedule. [Visit scmtd.com](http://scmtd.com/en/) to view current schedules and to sign up for text or email updates. Also, remember, no mask, no ride.
+
+
+### Will TAPS be issuing permit refunds due to the remote instruction extension?
+
+At this time, TAPS is adhering to the current refund/return policy for long term permits and bus passes. TAPS has posted recommendations for whether or not a permit return would be advised for various situations with next steps for your situation. [You can view their recommendations here.](https://taps.ucsc.edu/news-events/news/2022-01-11-winter-permit-recommendations.html) 
+
+
+### I have scratch-off permits that expired December 31st, can I return them?
+
+As an exception to policy in light of COVID impacts, TAPS is accepting scratch-off permits that expired December 31, 2021 for exchange for scratch off permits with a later expiration date through January 31, 2022. [View the eligibility and return process guidelines here](https://taps.ucsc.edu/news-events/news/2021-11-17-scratch-off-exchanges.html). 
+
+
+### Is the TAPS Sales Office still open?
+
+The TAPS Sales Office is continuing to operate during their [regular business hours](https://taps.ucsc.edu/about/index.html). Please be advised that an increase in permit returns, exchanges, and reinstatement may cause delays and longer than normal lines at this time. 
+
+
+## Study Spaces
+
+
+### Are there spaces on campus where I can take remote classes?
+
+Classrooms are open for students to use for watching lecturers or studying. Upgraded masks, such as KN95 or a surgical mask underneath a cloth mask, must be worn indoors. The library's [study rooms](https://guides.library.ucsc.edu/reserve-a-study-room) also are available for reservation. Weather permitting, the Quarry Amphitheatre is also a great outdoor, safe space to study in the bleachers and it has its own wifi. 
 
 
 ## Holding Up Under the Stress of COVID-19
 
-I am concerned about affording the costs associated with my studies and/or residency at UCSC – what resources are available to help me develop a plan for success?
+### I am concerned about affording the costs associated with my studies and/or residency at UCSC – what resources are available to help me develop a plan for success?
 
 The campus offers a number of services for students facing all manner of challenges. The [Financial Aid and Scholarships office](https://financialaid.ucsc.edu/about-us/index.html) regularly works to minimize financial barriers to support students in achieving their educational goals. The [Division of Student Affairs and Success](https://studentsuccess.ucsc.edu/index.html) and their [Slug Support Team](https://deanofstudents.ucsc.edu/slug-support/program/) can also provide advice and support to students facing challenges.
 
-**COVID-19 makes me feel isolated and afraid. Who can I speak with about managing all the stresses related to this situation?**
+### COVID-19 makes me feel isolated and afraid. Who can I speak with about managing all the stresses related to this situation?
 
 [Student Health Outreach & Promotion](https://shop.ucsc.edu/) (SHOP) offers wellness coaching on a broad variety of topics including General Wellness, Sexual Health, Alcohol and Drugs, Nutrition, Time Management and more.
 
-**I’m feeling worse than just being stressed out – who can I speak with?**
+### I’m feeling worse than just being stressed out – who can I speak with?
 
 [Counseling & Psychological Services](https://caps.ucsc.edu/) (CAPS) offers a variety of Counseling services that are available for any registered UCSC student and are confidential. There is no out-of-pocket fee for CAPS services, and you don’t need UC SHIP or CruzCare to be seen at CAPS.
 
@@ -136,34 +173,29 @@ There are times when I really want to talk to or spend time with people who have
 
 The [Resource Centers](https://resourcecenters.ucsc.edu/) comprise the four Ethnic Resource Centers: African American Resource and Cultural Center, American Indian Resource Center, Asian American / Pacific Islander Resource Center, and “El Centro” the Chicano Latino Resource Center; as well as the Cantú Queer Center, and the Women’s Center. The centers are currently physically closed, but staff can still be reached by phone or email.
 
-**Accommodations are important to my success. Who can I speak with to help secure these valuable resources?**
+### Accommodations are important to my success. Who can I speak with to help secure these valuable resources?
 
 The [Disability Resource Center](https://drc.ucsc.edu/) (DRC), exists to assist the UCSC campus with equal educational access for students with disabilities. Its offices are currently closed but is holding remote appointments via phone and video.
 
 
 ## Staying Informed
 
-Information about the pandemic keeps changing – where can I easily find up-to-date information that ranges from right here in Santa Cruz on up to the global situation?
+### Information about the pandemic keeps changing – where can I easily find up-to-date information that ranges from right here in Santa Cruz on up to the global situation?
 
 The [State of California](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx), [Santa Cruz County](https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/PublicInformation.aspx), and the [City of Santa Cruz](https://www.cityofsantacruz.com/community/city-newsroom/response-to-covid-19) each have regularly updated sites where you should be able to find information about current public health orders and more.
 
 UCSC maintains a page that [tracks incidences of COVID-19](https://slugstrong.ucsc.edu/reporting-covid/) among students, faculty and staff. The Health Services Agency for Santa Cruz County provides a [forecast model and analyses](https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/LocalCOVID-19ForecastModels.aspx) providing historical data as well as projections. Johns Hopkins University & Medicine keeps a [dashboard](https://coronavirus.jhu.edu/map.html) with statistical data and maps (from global down to individual counties) that tracks the spread of this disease.
 
 
-## Athletics and Recreation
-
-**Are Athletics and Recreation facilities open?**
-
-The [Fitness Center reopened](https://recreation.ucsc.edu/news/fitnesscenter-reopens-821.html) on Aug. 1. The pool is open for lap swimming and the East Tennis Courts are available for tennis on a reservation system. The reservations are available during limited operating hours and require full participation in campus COVID protocol, including the badge system. [Reserve a time online](https://campusrec.ucsc.edu/). In addition, the outdoor jogging path around the Upper East Field, the Disc Golf Course, and the West Tennis Courts are currently available for drop-in use. Visit [goslugs.com](https://goslugs.com/) or [recreation.ucsc.edu](http://recreation.ucsc.edu/) to learn more about the Athletics & Recreation department and to stay updated on department news and announcements.
-
-
 ## Students Living Off-Campus
 
-**Do you have any advice on how I would go about looking for off-campus living arrangements?**
+### Do you have any advice on how I would go about looking for off-campus living arrangements?
 
 UCSC’s [Community Rentals Office](https://communityrentals.ucsc.edu/covid-19/index.html) has helpful information available for both renters and landlords.
 
-**Where in Santa Cruz County can I be COVID-19 tested?**
+### Where in Santa Cruz County can I be COVID-19 tested?
 
 In addition to the [on-campus testing locations](https://healthcenter.ucsc.edu/services/covid19.html), there are several locations in the county that offer COVID-19 Testing. The County’s Health Services Agency has a[Testing Locator](https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/SAVELivesSantaCruzCounty/GetTested.aspx) that provides a map showing testing locations with address, hours of service, and contact information.
+
+
 
