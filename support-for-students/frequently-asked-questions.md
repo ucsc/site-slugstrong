@@ -12,7 +12,7 @@ button:
   icon: "weather-134.svg"
 ---
 
-The Omicron variant has required UC Santa Cruz to adjust its plans for winter quarter. The questions below are mean to provide answers to some of the most commonly asked questions. 
+The Omicron variant has required us to adjust our plans for winter quarter. The questions below are mean to provide answers to some of the most commonly asked questions. 
 
 Please be advised that some descriptions may refer to resources, buildings, or providers of activities whose offices are currently closed. However, in nearly every case, those offices are available via the web, email, phone, etc. If you aren’t finding the information you are looking for here, [please share your questions with us](https://docs.google.com/forms/d/1c00n6EeLEtfQVSzkTt-UTiRrRQ0977dWSe5CI8vlCe0/edit), and we’ll get back to you.
 
