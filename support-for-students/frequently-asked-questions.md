@@ -31,7 +31,7 @@ Students who are already on campus or in the area will find increasing opportuni
 
 ### If a student wishes to cancel their housing contract due to Covid-related reasons, can the cancellation fee be waived?
 
-Yes. Please know that students wishing to cancel their housing contract must provide their housing office with a date on which they will be completely moved out of their residential assignment and turn in their keys. All requests for housing contract cancellation must be initiated through the [Housing Portal](https://studenthousing.ucsc.edu/). Moving out or turning in keys without official approval will not release you from your contractual obligation, and you will continue to be billed accordingly.
+Yes, through Jan. 31. Please know that students wishing to cancel their housing contract must provide their housing office with a date on which they will be completely moved out of their residential assignment and turn in their keys. All requests for housing contract cancellation must be initiated through the [Housing Portal](https://studenthousing.ucsc.edu/). Moving out or turning in keys without official approval will not release you from your contractual obligation, and you will continue to be billed accordingly.
 
 
 ### My roommate has tested positive. Why haven’t they already been relocated to isolation housing?
