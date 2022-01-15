@@ -25,6 +25,8 @@ The data is comprised of test samples collected through the campus testing progr
 
 UCSC cautions against drawing broad conclusions from the data about the prevalence of COVID-19 on campus, particularly since the student data set includes symptomatic and asymptomatic individuals and only data collected through the campus testing program and any cases that are self-reported by students or employees. In addition, data for prior days may change as more test results are received.
 
+_Note: The dashboard's default view now only shows information for the current academic year. Information from earlier in the pandemic is available by adjusting the date range._
+
 <script type='text/javascript' src='https://visualizedata.ucop.edu/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1000px; height: 2227px;'><object class='tableauViz' width='1000' height='2227' style='display:none;'><param name='host_url' value='https%3A%2F%2Fvisualizedata.ucop.edu%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;UCSCpublic' /><param name='name' value='COVID-19DashboardV2&#47;COVID-19Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param
 
 name='showAppBanner' value='false' /></object></div>
