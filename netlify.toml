@@ -30,6 +30,12 @@
   status = 301
   headers = {X-From = "Netlify"}
   force = true
+[[redirects]]
+  from = "/returning-to-campus/face-coverings/"
+  to = "https://ehs.ucsc.edu/programs/safety-ih/covid-resources.html"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
 
 [[headers]]
   for = "/*"
