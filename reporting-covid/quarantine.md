@@ -68,3 +68,7 @@ _*Booster eligible: You are considered booster eligible if:_
 * It has been two months after your single dose of Johnson and Johnson.
 * It has been six months of getting all recommended doses of a World Health Organization (WHO) emergency use listing COVID-19 vaccine
 * It has been six months after getting all recommended doses of a mix-and-match series of any combination of FDA-approved, FDA-authorized, or WHO emergency use listing COVID-19 vaccine.
+
+Household Rule:  if you are an asymptomatic close contact and live with a COVID positive person and are sharing a bathroom, kitchen or other living space with them, your date of last exposure is the last day of the positive case’s isolation period.
+
+
