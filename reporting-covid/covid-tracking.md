@@ -24,7 +24,7 @@ The COVID-19 dashboard provides a regularly updated status on COVID-19 and vacci
 
 University of California [policy on COVID-19 vaccinations](https://policy.ucop.edu/doc/5000695/SARS-Cov-2) requires, with few exceptions, that all students, faculty and staff be vaccinated against the COVID-19 virus and that they remain up-to-date with all recommended boosters. 
 
-The campus is requiring the students and employees receive a booster and submit proof by Jan. 31, 2002. If students or employees are not eligible for a booster by Jan. 31, they are required to get a booster and submit proof of a booster within two weeks of becoming eligible in order to remain in compliance with UC policy for physical presence on campus.
+The campus is requiring the students and employees receive a booster and submit proof by Jan. 31, 2022. If students or employees are not eligible for a booster by Jan. 31, they are required to get a booster and submit proof of a booster within two weeks of becoming eligible in order to remain in compliance with UC policy for physical presence on campus.
 
 The dashboard currently shows campus vaccination rates as well as total compliance with the UC policy. It will be updated on Friday, Feb. 4 to include information about up-to-date campus vaccination rates after the Jan. 31 booster requirement goes into effect.
 
