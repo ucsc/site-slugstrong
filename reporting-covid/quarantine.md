@@ -31,15 +31,12 @@ Isolation and quarantine are proven public health interventions fundamental to r
 **Residential students** in campus-provided isolation or quarantine housing will be notified by the Quarantine Coordinator when they can end their time in isolation. 
 
 ### Isolation Instructions (I am COVID-19 positive, what do I do?)
-Everyone who tests positive, regardless of vaccination status:
+If you test positive for COVID-19 (regardless of vaccination or symptom status), isolate for at least 5-10 days. To calculate your 5-10 day isolation period, day 0 is the day your positive test was taken. You can leave isolation on day 6 if:
 
-* Should stay home for at least 5 days.
-* Can end isolation on Day 6 if you are fever-free for 24 hours without the use of fever-reducing medication and your other symptoms have improved 
-* Should continue to wear a well-fitting mask around others at home and in public for 5 additional days (day 6 through day 10) after the end of your 5-day isolation period.
-* A Rapid Antigen test (BinaxNOW, QuickVue) on or after Day 5 is recommended if you have access to one
-* Should continue isolation if a fever is present and continue isolating until the fever resolves.
-* Should continue isolating if symptoms, other than fever, are not resolving after day 10.
-* Must wear a well-fitting mask around others for a total of 10 days, especially while in indoor settings.
+1. Symptoms are not present or are resolving and a diagnostic test (rapid antigen test) collected on day 5 or later tests negative. If the test results positive on day 5 or later, complete the full 10 days of isolation. 
+2. If unable to test or choosing not to test, and symptoms are not present or are resolving, isolation can end on day 11.
+3. You are fever-free for 24 hours without the use of fever-reducing medication and your other symptoms have improved (Loss of taste and smell may persist for weeks or months after recovery and need not delay the end of isolation).
+4. You should continue to wear a [well-fitting mask](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Get-the-Most-out-of-Masking.aspx) around others at home and in public for a total of 10 days. Avoid people who are [immunocompromised or at high risk for severe disease](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html), and nursing homes and other high-risk settings, until after at least 10 days.
 
 ### Notification of Close Contacts That They Were Exposed to COVID-19
 Inform others who you have been around in the two days before your symptoms started - or two days from before your positive test result if you have no symptoms - that they may have been exposed to COVID-19. Those who are UCSC students or employees should follow exposure instructions below.
@@ -63,11 +60,11 @@ If you are unvaccinated OR vaccinated and booster eligible* but have not yet rec
 * If symptoms develop, test and stay home.
 
 _*Booster eligible: You are considered booster eligible if:_
-* It has been six months since your second dose of Moderna.
+* It has been five months since your second dose of Moderna.
 * It has been five months since your second dose of Pfizer-BioNTech.
 * It has been two months after your single dose of Johnson and Johnson.
-* It has been six months of getting all recommended doses of a World Health Organization (WHO) emergency use listing COVID-19 vaccine
-* It has been six months after getting all recommended doses of a mix-and-match series of any combination of FDA-approved, FDA-authorized, or WHO emergency use listing COVID-19 vaccine.
+* For students who have received a WHO approved vaccine, contact the Student Health Services COVID team by logging into Health e-Messenger --> Messages --> New Message --> COVID-19 Questions.
+* It has been five months after getting all recommended doses of a mix-and-match series of any combination of FDA-approved, FDA-authorized, or WHO emergency use listing COVID-19 vaccine.
 
 Household Rule:  if you are an asymptomatic close contact and live with a COVID positive person and are sharing a bathroom, kitchen or other living space with them, your date of last exposure is the last day of the positive case’s isolation period.
 
