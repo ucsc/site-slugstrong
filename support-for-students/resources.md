@@ -16,6 +16,7 @@ button:
 
 - [Website](https://studentsuccess.ucsc.edu/index.html)
 - [Contact](https://studentsuccess.ucsc.edu/staff/index.html)
+- [Students as Parents](https://studentsuccess.ucsc.edu/students-as-parents/index.html)
 
 ## Health and Wellness
 
