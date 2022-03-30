@@ -13,7 +13,7 @@ description: >
 category: return
 ---
 
-## Department can request multiple rapid antigen tests
+## Departments can request multiple rapid antigen tests
 UCSC departments [can request multiple rapid antigen test kits](https://risk.ucsc.edu/workers-comp/at-home-covid-19-test-kit-request-eligibility.html) for their operations. 
 
 ## Guidelines for new guidelines for meetings, events, and visitors
