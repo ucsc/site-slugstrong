@@ -13,6 +13,9 @@ description: >
 category: return
 ---
 
+## New office signs about mask preferences
+UC Santa Cruz has printable office signs available about mask preferences for in-person interactions on campus. Members of the campus community can [download them online](https://slugstrong.ucsc.edu/assets/images/covid-office-signs-r1.pdf). 
+
 ## Departments can request multiple rapid antigen tests
 UCSC departments [can request multiple rapid antigen test kits](https://risk.ucsc.edu/workers-comp/at-home-covid-19-test-kit-request-eligibility.html) for their operations. 
 
