@@ -14,20 +14,25 @@ category: return
 ---
 
 ## New office signs about mask preferences
-UC Santa Cruz has printable office signs available about mask preferences for in-person interactions on campus. Members of the campus community can [download them online](https://slugstrong.ucsc.edu/assets/images/covid-office-signs-r1.pdf). 
+
+UC Santa Cruz has printable office signs available about mask preferences for in-person interactions on campus. Members of the campus community can [download them online](https://slugstrong.ucsc.edu/assets/images/covid-office-signs-r1.pdf).
 
 ## Departments can request multiple rapid antigen tests
-UCSC departments [can request multiple rapid antigen test kits](https://risk.ucsc.edu/workers-comp/at-home-covid-19-test-kit-request-eligibility.html) for their operations. 
 
-## Guidelines for new guidelines for meetings, events, and visitors
-The campus's guidelines for meetings, events, and visitors, published on Nov. 18, 2021, are [available online](https://slugstrong.ucsc.edu/assets/images/Event-Meeting-and-Visitor-COVID-19-Protocol.pdf). The [campus guidelines and resources booklet](https://slugstrong.ucsc.edu/assets/images/ucsc-recovery-resiliency-briefing-booklet.pdf) provides additional information about campus operations. 
+UCSC departments [can request multiple rapid antigen test kits](https://risk.ucsc.edu/workers-comp/at-home-covid-19-test-kit-request-eligibility.html) for their operations.
+
+## Guidelines for meetings, events, and visitors
+
+Coming soon! The campus is currently updating the "Event, Meeting, and Visitor COVID-19 Protocol."
 
 ## COVID-19 Boosters
+
 The Student Health Center is hosting booster shot clinics for students. Appointments can be scheduled [online](https://healthcenter.ucsc.edu/information/health-e-messenger-new.html). You can also find a location providing them in your area on the [Santa Cruz County Health website](https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx) or California’s [MyTurn website](https://myturn.ca.gov/).
 
 Check out the [Santa Cruz County Health website](https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx) to find a location providing them in your area.
 
 ## Slug Strong Actions
+
 Most COVID-19 requirements have been lifted, though some requirements and recommendations remain:
 
 - **COVID-19 Testing:** The campus's extensive testing strategy, which was extremely effective in fall quarter 2021, is designed to lay a solid foundation for our spring quarter. Learn more about testing requirements [for students](https://healthcenter.ucsc.edu/services/covid-19/protocol.html) and [for employees](https://healthcenter.ucsc.edu/services/covid-19/protocol.html). [Schedule](https://healthcenter.ucsc.edu/services/covid-19/covid19-faq.html#on_campus_covid_tests) a test online.
