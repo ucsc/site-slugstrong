@@ -9,7 +9,7 @@ order: 2
 sidebar: true
 title: Returning to Campus
 description: >
-  UC Santa Cruz is resuming more on-campus operations. Employees can learn more about what is needed to return to UC Santa Cruz sites. 
+  UC Santa Cruz has largely resumed on-campus operations. Students and employees can learn more about what is needed to visit to UC Santa Cruz sites. 
 category: return
 ---
 
