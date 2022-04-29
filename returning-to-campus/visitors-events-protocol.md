@@ -12,10 +12,11 @@ Public health agency requirements and guidelines regarding COVID-19 mitigation p
 This protocol remains in effect while the [Santa Cruz County COVID-19 Community Level](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=California&data-type=CommunityLevels&list_select_county=6087) remains “low.” Additional mitigations may be required if the County Level reaches “medium,” and some events may be postponed or rescheduled if the County Level reaches “high.” 
 
 
-<a href="#requirements">Requirements for Campus Visitors</a>
-Events at UCSC Locations
-Campus Tours
-Overnight Programs and Events (including summer camps) utilizing University Owned or Leased Facilities
+<a href="#requirements">Requirements for Campus Visitors</a>  
+<a href="#events">Events at UCSC Locations</a>  
+<a href="#tours">Campus Tours</a>  
+<a href="#overnight">Overnight Programs and Events (including summer camps) utilizing University Owned or Leased Facilities  </a>  
+
 
 <h2 id="requirements">Requirements for Campus Visitors</h2>
 
@@ -40,7 +41,7 @@ Currently, there are no guest restrictions in student housing and dining but cam
 * Visitors must be hosted by a residential student at all times and access is limited to the residential student’s assigned living area.
 * The University may amend the UCSC Housing Visitor/Guest Policy, including implementing a “no guest” policy for residential students, as needed to attempt to reduce the spread of COVID-19 or to comply with public health orders or guidance. Students will be given notice via UCSC email if a residential “no-guest” restriction is put into place or modiﬁed.
 
-## Events at UCSC Locations
+<h2 id="events">Events at UCSC Locations</h2>
 
 “Event” means any planned gathering where 25 or more people are in attendance or are reasonably anticipated to be in attendance at a UCSC location, including but not limited to celebrations, dances, lectures, forums, performances, social gatherings, concerts, speaker presentations, conferences or athletic contests or tournaments. Events do not include regularly scheduled academic classes, seminars, labs, or non-campus sponsored events where a third party rents a campus facility for a private event (e.g., a wedding reception).
 
@@ -64,15 +65,15 @@ Currently, there are no guest restrictions in student housing and dining but cam
 * Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) are not required for mega-events. Event organizers may choose to require these measures as long as they apply to all attendees.
 * Event organizers are strongly encouraged to consider requiring face coverings for mega-events where there is the possibility of high density or close contact, although doing so is not required at this time.
 
-## Campus Tours
+<h2 id="tours">Campus Tours</h2>
 
 All visitors, regardless of vaccination status, who are participating in on-site and/or self-guided tours of campus are required to abide by the following:
 * Visitors may be required to complete a [Daily Symptom Survey](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX) prior to entering UCSC facilities and physical spaces.
 * Approved face coverings are recommended for everyone regardless of vaccination status.
 * Approved face coverings *may be required* to board and ride Campus Transit. Follow instructions posted at transit stops and on vehicles. 
 
+<h2 id="overnight">Overnight Programs and Events (including summer camps) utilizing University Owned or Leased Facilities</h2>
 
-## Overnight Programs and Events (including summer camps) utilizing University Owned or Leased Facilities
 
 **UC-operated overnight programs and events**
 - All UC employees and students who are participating in the overnight program or event in their capacity as a UC employee or student are required to comply with the UC Vaccination Policy. 
