@@ -44,4 +44,4 @@ Most COVID-19 requirements have been lifted, though some requirements and recomm
 - **COVID-19 training:** [COVID-19 training](https://recovery.ucsc.edu/returning-to-campus/get-trained/) is still required for all employees who are on site at any UCSC facility. The current training is being revised, and we will pass along the revised information when it is ready.
 - **UC vaccination policy:** With limited exceptions, [COVID-19 vaccinations are required](https://news.ucsc.edu/2021/07/systemwide-vaccination-policy.html) for all faculty, staff, academic appointees, and students accessing facilities at any UC campus this fall. Employees and students can [submit proof of vaccination online](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html#requirement) or [request an exemption](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html#exception).
 
-_Last update: March 30, 2022_
+_Last update: March 30, 2022_ 
