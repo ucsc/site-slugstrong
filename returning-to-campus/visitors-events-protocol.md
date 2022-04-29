@@ -11,13 +11,13 @@ Public health agency requirements and guidelines regarding COVID-19 mitigation p
 
 This protocol remains in effect while the [Santa Cruz County COVID-19 Community Level](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=California&data-type=CommunityLevels&list_select_county=6087) remains “low.” Additional mitigations may be required if the County Level reaches “medium,” and some events may be postponed or rescheduled if the County Level reaches “high.” 
 
-Requirements for Campus Visitors
+
+<a href="#requirements">Requirements for Campus Visitors</a>
 Events at UCSC Locations
 Campus Tours
 Overnight Programs and Events (including summer camps) utilizing University Owned or Leased Facilities
 
- 
-## Requirements for Campus Visitors
+<h2 id="requirements">Requirements for Campus Visitors</h2>
 
 **All campus visitors** must follow campus COVID-19 mitigation requirements:
 * Do not come onto campus or enter any University facilities or physical spaces if you feel unwell or have recently tested positive for COVID-19. 
@@ -32,7 +32,7 @@ Overnight Programs and Events (including summer camps) utilizing University Owne
 * Obtain and have accessible a record of a negative COVID-19 test 1-3 days prior to travel.
 * Self-quarantine for 5 days upon arrival.
 * Obtain and have accessible a record of a negative COVID-19 test result 3-5 days after arrival.
-* If a COVID-19 test is positive, the visit should be canceled or postponed before the visitor arrives on campus, or as soon as the result is received.\
+* If a COVID-19 test is positive, the visit should be canceled or postponed before the visitor arrives on campus, or as soon as the result is received.
 
 ## Visitors to Student Housing and Dining
 
