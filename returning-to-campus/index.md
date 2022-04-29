@@ -21,9 +21,9 @@ UC Santa Cruz has printable office signs available about mask preferences for in
 
 UCSC departments [can request multiple rapid antigen test kits](https://risk.ucsc.edu/workers-comp/at-home-covid-19-test-kit-request-eligibility.html) for their operations.
 
-## Guidelines for meetings, events, and visitors
+## Protocol for visitors and events
 
-Coming soon! The campus is currently updating the "Event, Meeting, and Visitor COVID-19 Protocol."
+UC Santa Cruz has released an updated protocol for visitors and events. [Read more](https://slugstrong.ucsc.edu/returning-to-campus/visitors-events-protocol).
 
 ## COVID-19 Boosters
 
