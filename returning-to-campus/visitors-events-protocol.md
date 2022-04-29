@@ -20,10 +20,10 @@ Public health agency requirements and guidelines regarding COVID-19 mitigation p
 
 This protocol remains in effect while the [Santa Cruz County COVID-19 Community Level](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=California&data-type=CommunityLevels&list_select_county=6087) remains “low.” Additional mitigations may be required if the County Level reaches “medium,” and some events may be postponed or rescheduled if the County Level reaches “high.”
 
-<a href="#requirements">Requirements for Campus Visitors</a>  
-<a href="#events">Events at UCSC Locations</a>  
-<a href="#tours">Campus Tours</a>  
-<a href="#overnight">Overnight Programs and Events (including summer camps) utilizing University Owned or Leased Facilities  </a>  
+* <a href="#requirements">Requirements for Campus Visitors</a>  
+* <a href="#events">Events at UCSC Locations</a>  
+* <a href="#tours">Campus Tours</a>  
+* <a href="#overnight">Overnight Programs and Events (including summer camps) utilizing University Owned or Leased Facilities  </a>  
 
 <h2 id="requirements">Requirements for Campus Visitors</h2>
 
