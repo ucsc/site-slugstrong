@@ -1,16 +1,3 @@
----
-layout: page
-title: COVID-19 Visitors and Events Protocol
-description: >
-  The information below summarizes current guidance for campus visitors and events. 
-sidebar: true
-category: return
-weight: 3
-button:
-  bg: '#00487cff'
-  color: '#fff'
-  icon: "weather-134.svg"
----
 
 
 # COVID-19 Visitors and Events Protocol
