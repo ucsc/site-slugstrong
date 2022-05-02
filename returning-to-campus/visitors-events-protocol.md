@@ -30,8 +30,8 @@ This protocol remains in effect while the [Santa Cruz County COVID-19 Community 
 **All campus visitors** must follow campus COVID-19 mitigation requirements:
 
 * Do not come onto campus or enter any University facilities or physical spaces if you feel unwell or have recently tested positive for COVID-19.
-* For registered volunteers, complete the [Daily Symptom Survey](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX) and be prepared to show proof of clearance prior to entering UCSC facilities and physical spaces.
-* For visitors other than registered volunteers, completing the [Daily Symptom Survey](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX) is *recommended* prior to entering UCSC facilities and physical spaces.
+* For volunteers, complete the [Daily Symptom Survey](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX) and be prepared to show proof of clearance prior to entering UCSC facilities and physical spaces.
+* For visitors other than volunteers, completing the [Daily Symptom Survey](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX) is *recommended* prior to entering UCSC facilities and physical spaces.
 * [Face coverings](https://news.ucsc.edu/2021/08/face-coverings-guidance.html) are *recommended* for everyone, regardless of vaccination status.
 * Campus visitors who do not comply with policies will not be permitted to access the facility and will be asked to leave.
 
