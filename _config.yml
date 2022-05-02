@@ -19,7 +19,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/main.jpg
+      image: /assets/images/preview.jpg
 
 include:
   - _redirects
