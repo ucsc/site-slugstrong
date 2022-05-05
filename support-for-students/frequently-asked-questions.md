@@ -12,7 +12,7 @@ button:
   icon: "weather-134.svg"
 ---
 
-The Omicron variant has required us to adjust our plans for winter quarter. The questions below are mean to provide answers to some of the most commonly asked questions. 
+COVID-19 requires us to be flexible. The questions below are mean to provide answers to some of the most commonly asked questions. 
 
 Please be advised that some descriptions may refer to resources, buildings, or providers of activities whose offices are currently closed. However, in nearly every case, those offices are available via the web, email, phone, etc. If you aren’t finding the information you are looking for here, [please share your questions with us](https://docs.google.com/forms/d/1c00n6EeLEtfQVSzkTt-UTiRrRQ0977dWSe5CI8vlCe0/edit), and we’ll get back to you.
 
@@ -29,18 +29,12 @@ Students who are already on campus or in the area will find increasing opportuni
 
 ## Housing
 
-### If a student wishes to cancel their housing contract due to Covid-related reasons, can the cancellation fee be waived?
-
-Yes, through Jan. 31. Please know that students wishing to cancel their housing contract must provide their housing office with a date on which they will be completely moved out of their residential assignment and turn in their keys. All requests for housing contract cancellation must be initiated through the [Housing Portal](https://studenthousing.ucsc.edu/). Moving out or turning in keys without official approval will not release you from your contractual obligation, and you will continue to be billed accordingly.
-
 
 ### My roommate has tested positive. Why haven’t they already been relocated to isolation housing?
+We are working diligently to move all students living on-campus who test positive to isolation housing. Due to the high case load right now, there are unavoidable delays. Until the known COVID positive student is moved, please continue to follow [campus guidelines](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf) to minimize your risk of exposure: all roommates/housemates should wear a [well-fitting mask](https://ehs.ucsc.edu/programs/safety-ih/covid-resources.html) (such as, a fitted N95, KN95, KF94) at all times – even while sleeping. Masks can be picked up from your local housing office. Ventilate your living space by keeping windows open as much as possible, physically distance among yourselves as much as possible, and regularly disinfecting shared spaces. Disinfectant supplies can be obtained from your local Housing Office.
 
-We are working diligently to move all students living on-campus who test positive to isolation housing. Due to the high case load right now, there are unavoidable delays. Until the known COVID positive student is moved, please continue to follow [campus guidelines](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf) to minimize your risk of exposure: all roommates/housemates should wear a[ well-fitting mask](https://ehs.ucsc.edu/programs/safety-ih/covid-resources.html) (such as, a fitted N95, KN95, KF94) at all times – even while sleeping. Masks can be picked up from your local housing office. Ventilate your living space by keeping windows open as much as possible, physically distance among yourselves as much as possible, and regularly disinfecting shared spaces. If they’re not there already, custodial services will soon be leaving disinfectant supplies in residence hall shared bathrooms. Make use of those supplies. 
+We realize this is an uncomfortable situation. There are many steps that must be taken until a positive student can be moved. Please be kind and supportive toward each other during this time.
 
-Make sure to schedule/get your booster as soon as possible. The deadline to get and submit proof of your booster is Monday, January 31st. 
-
-We realize this is an uncomfortable situation. There are many steps that must be taken until a positive student can be moved. We are getting better at this every day. We are adding resources every day to speed up this process. Meanwhile, please be kind and supportive toward each other. If possible, support your ill roommate/housemate by offering to pick up meals for them at the dining hall. 
 
 
 ### Are guests allowed in on-campus housing?
@@ -109,14 +103,10 @@ UC Santa Cruz is planning to expand testing availability and will share more inf
 
 
 ### Are dining halls open?
+Yes, dining halls are open and serving food, visit the [Dining website](https://dining.ucsc.edu/eat/index.html) for more details.
 
-Yes, all Dining Halls scheduled to be open for the winter quarter are operational and serving food. 
 
-As of Jan. 10, however, no one may sit inside the dining halls to eat their meals. Students must instead take meals to go. This change, along with several other important announcements, was communicated in a [message sent on Jan. 10](https://news.ucsc.edu/2022/01/housing-assignment-survey.html) to all students holding a winter quarter housing assignment. 
 
-There are no changes to menu offerings, operating hours, or any restrictions on how many times a student may visit the dining halls in accordance with the terms of their dining plan.
-
-Given that eating requires the removal of a face-covering, it is likely best that students eat their meals outdoors or in as private a location as possible.
 
 
 ## Transportation
