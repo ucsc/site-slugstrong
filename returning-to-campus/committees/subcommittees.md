@@ -59,7 +59,7 @@ button:
 * Marie Yoo, Cowell and Stevenson colleges
 * Patrick Register, Financial Aid and Scholarships Office
 * Onuttom Narayan, Committee on Educational Policy
-* Flora Lu, Colleges Nine and Ten
+* Flora Lu, College Nine and John R. Lewis College
 * Manel Camps, Crown College
 * Tracy Larabee, Baskin School of Engineering
 * Other members pending
@@ -121,21 +121,21 @@ button:
 * Cindy Delgado
 * Dan Henderson
 * Dave Keller
-* Denise Dolezal 
+* Denise Dolezal
 * Elizabeth Miller
 * Grace McClintock
-* Jim Kari 
-* John Bono 
+* Jim Kari
+* John Bono
 * John MacMillan
 * Lisa Ehret
 * Lisa Wisser
 * Lucy Rojas
-* Magge McCue 
+* Magge McCue
 * Sarah Barron
 * Sue Matthews
 * Fiona Weigant
 
-### OERR Operational Resiliency Work Group Task Team members: 
+### OERR Operational Resiliency Work Group Task Team members
 
 * Alex Belisario
 * Amanda Gullings
@@ -162,12 +162,12 @@ button:
 * John Bono
 * John Macmillan
 * Julie Munnerlyn
-* Karen Schloss 
+* Karen Schloss
 * Lisa Ehret
 * Lisa Wisser
 * Liz Miller
 * Lucy Rojas
-* Madlyn Norman-Terrance 
+* Madlyn Norman-Terrance
 * Maggie McCue
 * Marm Kilpatrick
 * Meagan Edwards
@@ -187,12 +187,12 @@ button:
 ### OERR Employee Resiliency Work Group
 
 * Adrienne Harrell (Chair)
-* Courtnie Prather 	
-* Gary Dunn 
+* Courtnie Prather  
+* Gary Dunn
 * Janice Lizaso
 * Jessica Bulleri
 * Joshua Strong
-* Linda Scholz 
+* Linda Scholz
 
 ### OERR Community and Morale Work Group
 
@@ -200,21 +200,20 @@ button:
 * Amy Bruinooge
 * Danny Gray
 * Leah Kahn
-* Linda Scholz 
-* Mirjam Kuusik 
+* Linda Scholz
+* Mirjam Kuusik
 
 ### OERR Leveraging Opportunity Work Group
 
 * Biju Kamaleswaran (Chair)
-* Al Covington 
+* Al Covington
 * Bennett Williamson
 * Elida Erickson
 * Jean Nilsson
-* Kelly Roberts 
-* Marie Logan 
-* Sabrina Shaver 
-* Shelby Young 
+* Kelly Roberts
+* Marie Logan
+* Sabrina Shaver
+* Shelby Young
 * Stephanie Nielsen
 * Brian Macdonald
 * Leslie Geary
-
