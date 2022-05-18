@@ -102,7 +102,7 @@ Effective Sept. 28, the Bookstore will be open 9 a.m. to 3 p.m. Monday through F
  <tr>
     <td><b>Health Center</b></td>
     <td>To address the needs of students during COVID-19, SHS has many new telehealth services for off-campus students, as well as in-person primary care services for students living in Santa Cruz. Medical, mental health, wellness coaching, and advocacy services are available.
-Read <a href="https://healthcenter.ucsc.edu/news-events/news/corona-virus.html">Health Center COVID-19 updates.</a></td>
+Read <a href="https://healthcenter.ucsc.edu/services/covid-19/index.html">Health Center COVID-19 updates.</a></td>
     <td><a href="https://healthcenter.ucsc.edu/news-events/news/shs-covid-19-services.html">Website</a></td>
   </tr>
 
