@@ -20,7 +20,7 @@ Preventing the spread of COVID-19 is one of our highest priorities. UC Santa Cru
 
 - **Employees:** If you have tested positive for COVID-19, or were exposed to someone who tested positive, please email your supervisor.
 - **Supervisors:** Report confirmed COVID-19 cases or exposures to the COVID-19 Symptom Check Officer at [check@ucsc.edu](mailto:check@ucsc.edu). Do not include additional health information.
-- **Students:** If you've tested positive for COVID-19, please follow [these instructions](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf) provided by the Student Health Center. If you have questions about what to do, you can also call the 24/7 call center at 1-800-809-6097.
+- **Students:** If you've tested positive for COVID-19, please follow [these instructions](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf) provided by the Student Health Center. If you have questions about what to do, you can also call the free nurse advice line at (831) 459-2591.
 
 Santa Cruz County has [instructions online](http://www.santacruzhealth.org/Portals/7/pdfs/coronavirus/COVID-19_Patient_Instruction_Booklet_self_quarantine_and_self_isolation.pdf?version=052520) for people about how to self-quarantine if they have been exposed to someone with COVID-19. People with questions about COVID-19 can call Santa Cruz County at 831-454-4242 between 8 a.m. and 6 p.m., Monday through Friday. Outside of these hours, people can call United Way of Santa Cruz County at 211 or text "covid19" to 211211.
 
