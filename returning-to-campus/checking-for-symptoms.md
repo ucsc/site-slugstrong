@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Checking for Symptoms -- updated July 14, 2022
+title: Checking for Symptoms (updated July 14, 2022)
 description: >
   COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.
 sidebar: true
