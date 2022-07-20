@@ -39,6 +39,6 @@ Questionnaire results may only be used for limited purposes, e.g. COVID-19 expos
 * [Campus announcement](https://news.ucsc.edu/2020/06/on-site-employees-required-to-participate-in-covid-19-daily-symptom-check.html)
 * [Privacy statement](https://www.ucsc.edu/coronavirus/symptom-check-privacy-policy.html)
 * [FAQ in English](https://www.ucsc.edu/coronavirus/symptom-check-faq.html)
-* [Appendix A: Symptom check questionnaire (PDF)](https://www.ucsc.edu/coronavirus/assets/new-empoylee-survey.pdf)
+* [Appendix A: Symptom check questionnaire (PDF)](https://www.ucsc.edu/coronavirus/assets/new-employee-survey.pdf)
 * [FAQ en Español](https://www.ucsc.edu/coronavirus/symptom-check-faq-esp.html)
-* [Apéndice A en Español](https://www.ucsc.edu/coronavirus/assets/new-empoylee-survey-spanish.pdf)
+* [Apéndice A en Español](https://www.ucsc.edu/coronavirus/assets/new-employee-survey-spanish.pdf)
