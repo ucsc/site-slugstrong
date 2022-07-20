@@ -22,7 +22,7 @@ Continue to self-assess your health status and possible COVID symptoms each day.
 ### For employees
 
 Continue to self-assess your health status and possible COVID symptoms each day before coming to a UCSC owned or leased facility.  If you experience COVID symptoms, complete the symptom check questionnaire and report any positive test results to your manager or supervisor. 
-You can access the online symptom check questionnaire [online](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_2o9mmhtmU0iqhYa). You can also [print a copy of the questionnaire in (English)](https://www.ucsc.edu/coronavirus/assets/new-empoyee-survey.pdf) or [in Spanish (Español](https://www.ucsc.edu/coronavirus/assets/new-empoyee-survey-spanish.pdf). 
+You can access the online symptom check questionnaire [online](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_2o9mmhtmU0iqhYa). You can also [print a copy of the questionnaire in (English)](https://www.ucsc.edu/coronavirus/assets/new-empoyee-survey.pdf) or [in Spanish (Español)](https://www.ucsc.edu/coronavirus/assets/new-empoyee-survey-spanish.pdf). 
 
 If you do not currently receive daily symptom check reminder email messages, but would like to do so, you may [enroll online](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR).
 
@@ -39,6 +39,6 @@ Questionnaire results may only be used for limited purposes, e.g. COVID-19 expos
 * [Campus announcement](https://news.ucsc.edu/2020/06/on-site-employees-required-to-participate-in-covid-19-daily-symptom-check.html)
 * [Privacy statement](https://www.ucsc.edu/coronavirus/symptom-check-privacy-policy.html)
 * [FAQ in English](https://www.ucsc.edu/coronavirus/symptom-check-faq.html)
-* [Appendix A: Symptom check questionnaire (PDF)](https://www.ucsc.edu/coronavirus/assets/new-empoyee-survey.pdf)
+* [Appendix A: Symptom check questionnaire (PDF)](https://www.ucsc.edu/coronavirus/assets/new-empoylee-survey.pdf)
 * [FAQ en Español](https://www.ucsc.edu/coronavirus/symptom-check-faq-esp.html)
-* [Apéndice A en Español](https://www.ucsc.edu/coronavirus/assets/new-empoyee-survey-spanish.pdf)
+* [Apéndice A en Español](https://www.ucsc.edu/coronavirus/assets/new-empoylee-survey-spanish.pdf)
