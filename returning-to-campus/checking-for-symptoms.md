@@ -21,11 +21,7 @@ Continue to self-assess your health status and possible COVID symptoms each day.
 
 ### For employees
 Continue to self-assess your health status and possible COVID symptoms each day before coming to a UCSC owned or leased facility. If you experience COVID symptoms, complete the symptom check questionnaire and report any positive test results to your manager or supervisor. 
-To access the online employee symptom check questionnaire click on the following link: [online Employee Symptom Check Questionnaire](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_2o9mmhtmU0iqhYa). You can also [print a copy of the Employee Symptom Check Questionnaire in (English)](https://www.ucsc.edu/coronavirus/assets/new-empoyee-survey.pdf) or [in Spanish (Español) Cuestionario de verificacion de simtomas del empleado.](https://www.ucsc.edu/coronavirus/assets/new-empoyee-survey-spanish.pdf)
-
-If you do not currently receive daily symptom check reminder email messages, but would like to do so, you may [enroll online](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR).
-
-
+To access the online employee symptom check questionnaire click on the following link: [online Employee Symptom Check Questionnaire](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_2o9mmhtmU0iqhYa). You can also [print a copy of the Employee Symptom Check Questionnaire in (English)](https://www.ucsc.edu/coronavirus/assets/new-employee-survey.pdf) or [in Spanish (Español) Cuestionario de verificacion de simtomas del empleado.](https://www.ucsc.edu/coronavirus/assets/new-employee-survey-spanish.pdf)
 
 If you do not currently receive daily symptom check reminder email messages, but would like to do so, you may [enroll online](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR).
 
