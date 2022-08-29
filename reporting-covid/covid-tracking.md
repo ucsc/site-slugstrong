@@ -22,21 +22,15 @@ The COVID-19 dashboard provides a regularly updated status on COVID-19 and vacci
 
 ### About the COVID-19 vaccination data
 
-University of California [policy on COVID-19 vaccinations](https://policy.ucop.edu/doc/5000695/SARS-Cov-2) requires, with few exceptions, that all students, faculty and staff be vaccinated against the COVID-19 virus and that they remain up-to-date with all recommended boosters. 
-
-The campus is requiring the students and employees receive a booster and submit proof by Jan. 31, 2022. If students or employees are not eligible for a booster by Jan. 31, they are required to get a booster and submit proof of a booster within two weeks of becoming eligible in order to remain in compliance with UC policy for physical presence on campus.
-
-The dashboard currently shows campus vaccination rates as well as total compliance with the UC policy. It will be updated on Friday, Feb. 4 to include information about up-to-date campus vaccination rates after the Jan. 31 booster requirement goes into effect.
+University of California [policy on COVID-19 vaccinations](https://policy.ucop.edu/doc/5000695/SARS-Cov-2) requires, with few exceptions, that all students, faculty and staff be vaccinated against the COVID-19 virus and that they remain up-to-date with all recommended boosters. The dashboard shows total compliance with the UC policy. 
 
 ### About the COVID-19 testing data
 
 The UCSC testing data in the dashboard will be updated daily. This data will help inform decisions about on-campus operations and activities. A map of the recent campus work or residential locations of people who tested positive for COVID-19 is [available online](https://ehs.ucsc.edu/programs/safety-ih/campus_covid_cases.html). 
 
-The dashboard’s default view shows information for the current academic year. Information from earlier in the pandemic is available by adjusting the date range.
-
 Cases include those reported by the UCSC Colligan Clinical Diagnostic Laboratory from May 2020 through Dec. 31, 2021, a third-party vendor from Jan. 1, 2022 to the present, and those cases self-reported by students and employees who received testing off campus.
 
-The dashboard includes the daily total of new cases. New cases are shown on the day the sample was collected. The data is further broken down to the positive results for students living on-campus, students living off-campus, and employees. The data also includes a seven-day positivity rate for all tests performed through the campus testing program.
+The dashboard includes the daily total of new cases. New cases are shown on the day the sample was collected. The data is further broken down to the positive results for students living on-campus, students living off-campus, and employees. 
 
 UCSC cautions against drawing broad conclusions from the data about the prevalence of COVID-19 on campus, particularly since the student data set includes symptomatic and asymptomatic individuals and only data collected through the campus testing program and any cases that are self-reported by students or employees. In addition, data for prior days may change as more test results are received.
 
