@@ -14,7 +14,7 @@ button:
 
 
 
-***Updated 4/22/22***
+***Updated 8/29/22***
 
 Public health agency requirements and guidelines regarding COVID-19 mitigation protocols change regularly. The information below summarizes current guidance for campus visitors and events. Some programs may have additional requirements, such as performances through the [Arts Division](https://arts.ucsc.edu/covid-protocols), the [Seymour Center](https://seymourcenter.ucsc.edu/visit/), and the [UCO Lick Observatory](https://www.lickobservatory.org/events/#:~:text=Starting%20April%2010th%2C%20wearing%20a,the%20start%20of%20the%20event). Prior to coming to campus, visitors should check with program organizers for the most up-to-date protocols.
 
