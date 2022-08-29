@@ -33,7 +33,7 @@ The [Student Health Center recommends](https://healthcenter.ucsc.edu/services/co
 
 Most COVID-19 requirements have been lifted, though some requirements and recommendations remain:
 
-- **COVID-19 Testing:** Asymptomatic testing for COVID-19 is avaible for students and employees and required for some individuals. Learn more about testing requirements [for students](https://healthcenter.ucsc.edu/services/covid-19/protocol.html) and [for employees](https://healthcenter.ucsc.edu/services/covid-19/protocol.html). [Schedule](https://healthcenter.ucsc.edu/services/covid-19/covid19-faq.html#on_campus_covid_tests) a test online.
+- **COVID-19 Testing:** Asymptomatic testing for COVID-19 is avaible for students and employees. Learn more [online](https://healthcenter.ucsc.edu/services/covid-19/protocol.html).
 - **Obtain a booster when eligible** The UC system COVID-19 vaccination policy requires faculty, staff, and students to obtain a booster shot as soon as they are eligible. UCSC’s deadline for compliance with the booster requirement was Jan. 31, 2022. [Upload proof](https://healthcenter.ucsc.edu/services/covid-19/covid19-faq.html#boosterupload) of your booster.
 - **Face Coverings:** Masks [are not required for most indoor settings](https://news.ucsc.edu/2022/03/indoor-masking-policy-update.html) at UC Santa Cruz facilities, but their use is **still strongly recommended.** Masks are in clinical settings, such as the Student Health Center and at indoor COVID-19 testing sites. [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Guidance-on-Isolation-and-Quarantine-for-COVID-19-Contact-Tracing.aspx) and [Cal/OSHA guidelines](https://www.dir.ca.gov/dosh/coronavirus/COVID19FAQs.html) both state that individuals who test positive for COVID-19 must mask for 10 days following a positive test. As well, asymptomatic exposed individuals must mask for 10 days following an identified close contact to someone with COVID-19.
   
@@ -41,4 +41,4 @@ KN95 masks and surgical masks are available on campus at many locations includin
 - **COVID-19 training:** [COVID-19 training](https://recovery.ucsc.edu/returning-to-campus/get-trained/) is still required for all employees who are on site at any UCSC facility. The current training is being revised, and we will pass along the revised information when it is ready.
 - **UC vaccination policy:** With limited exceptions, [COVID-19 vaccinations are required](https://news.ucsc.edu/2021/07/systemwide-vaccination-policy.html) for all faculty, staff, academic appointees, and students accessing facilities at any UC campus this fall. Employees and students can [submit proof of vaccination online](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html#requirement) or [request an exemption](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html#exception).
 
-_Last update: June 9, 2022_ 
+_Last update: Aug 29, 2022_ 
