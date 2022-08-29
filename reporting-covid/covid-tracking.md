@@ -18,7 +18,9 @@ back_text: Back
 <a href="{{ page.back }}" class="pill tracking-back">{% include svg/arrow-72.svg %}{{ page.back_text }}</a>
 {% endif %}
 
-The COVID-19 dashboard provides a regularly updated status on COVID-19 and vaccination rates at UCSC. Testing requirements for all students and employees who come to campus is dependent on vaccination status and evolving community conditions. [Learn more](https://slugstrong.ucsc.edu/returning-to-campus/).
+The COVID-19 dashboard provides a regularly updated status on COVID-19 and vaccination rates at UCSC. Ongoing (surveillance) testing is not currently required for students, faculty, or staff (unless they are a university healthcare worker). However, free asymptomatic testing is still available for the campus at the [following locations]([url](https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html#TestingHours)).
+
+[Learn more](https://slugstrong.ucsc.edu/returning-to-campus/).
 
 ### About the COVID-19 vaccination data
 
