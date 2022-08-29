@@ -30,12 +30,8 @@ This protocol remains in effect while the [Santa Cruz County COVID-19 Community 
 **All campus visitors** must follow campus COVID-19 mitigation requirements:
 
 * Do not come onto campus or enter any University facilities or physical spaces if you feel unwell or have recently tested positive for COVID-19.
-* For volunteers, complete the [Daily Symptom Survey](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX) and be prepared to show proof of clearance prior to entering UCSC facilities and physical spaces.
-* For visitors other than volunteers, completing the [Daily Symptom Survey](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX) is *recommended* prior to entering UCSC facilities and physical spaces.
 * [Face coverings](https://news.ucsc.edu/2021/08/face-coverings-guidance.html) are *recommended* for everyone, regardless of vaccination status.
 * Campus visitors who do not comply with policies will not be permitted to access the facility and will be asked to leave.
-
-**Casual visitors**, who are individuals without specific meetings or appointments, have no requirements beyond the recommendation to wear face coverings in all shared indoor spaces.
 
 **Visitors from outside California** should follow the Centers for Disease Control and Prevention (CDC) travel guidance. Additionally, individuals who are not [up to date](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html) with COVID-19 vaccinations must also:
 
@@ -57,7 +53,7 @@ Currently, there are no guest restrictions in student housing and dining but cam
 
 ## Indoor Events
 
-* Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) are not required for indoor events. Event organizers may choose to require these measures as long as they apply to all attendees.
+* Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) is not required for indoor events. Event organizers may choose to require these measures as long as they apply to all attendees.
     * The host or event coordinator should provide attendees reasonable notice of the requirements of the event in advance. If proof of being up to date with COVID-19 vaccinations or a negative test is required, the entrance requirements can be met in the following ways:
         * Any attendee can show their CDC Vaccine Card (phone image acceptable) or digital vaccine record from the State of California. International attendees may show their translated vaccine record.
         * Any attendee can show a negative COVID-19 test result from the last 72 hours (must be a lab PCR test; home tests/antigen tests are not valid).
@@ -68,21 +64,20 @@ Currently, there are no guest restrictions in student housing and dining but cam
 
 ## Outdoor Events
 
-* Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) are not required for outdoor events. Event organizers may choose to require these measures as long as they apply to all attendees.
+* Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) is not required for outdoor events. Event organizers may choose to require these measures as long as they apply to all attendees.
 * Event organizers may require face coverings for specific events, such as those with the possibility of high density or close contact, although doing so is not required at this time.
 
 ## “Mega Events”
 
 [Mega-events](https://covid19.ca.gov/mega-events/) are deﬁned by the California Department of Public Health (CDPH) as indoor events with 1,000 or more people and outdoor events with 10,000 or more people.
 
-* Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) are not required for mega-events. Event organizers may choose to require these measures as long as they apply to all attendees.
+* Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) is not required for mega-events. Event organizers may choose to require these measures as long as they apply to all attendees.
 * Event organizers are strongly encouraged to consider requiring face coverings for mega-events where there is the possibility of high density or close contact, although doing so is not required at this time.
 
 <h2 id="tours">Campus Tours</h2>
 
 All visitors, regardless of vaccination status, who are participating in on-site and/or self-guided tours of campus are required to abide by the following:
 
-* Visitors may be required to complete a [Daily Symptom Survey](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_24vMSiDcxZp6VRX) prior to entering UCSC facilities and physical spaces.
 * Approved face coverings are recommended for everyone regardless of vaccination status.
 * Approved face coverings *may be required* to board and ride Campus Transit. Follow instructions posted at transit stops and on vehicles.
 
