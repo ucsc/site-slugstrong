@@ -27,7 +27,7 @@ UC Santa Cruz has released an updated protocol for visitors and events. [Read mo
 
 ## COVID-19 Boosters
 
-The [Student Health Center recommends](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html) visiting [Vaccines.gov](https://www.vaccines.gov/#alternative)) to find a location near you to obatin a COVID-19 booster. 
+The [Student Health Center recommends](https://healthcenter.ucsc.edu/services/covid-19/covid-vaccine.html) visiting [Vaccines.gov](https://www.vaccines.gov/#alternative) to find a location near you to obatin a COVID-19 booster. 
 
 ## Slug Strong Actions
 
