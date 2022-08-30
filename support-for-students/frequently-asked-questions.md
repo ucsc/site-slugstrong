@@ -82,6 +82,9 @@ Kits are available at the College Housing Offices, Bay Tree Campus Store, McHenr
 
 Ongoing (surveillance) testing is not currently required for students, faculty, or staff (unless you are a university healthcare worker). However, free asymptomatic testing is still available for the campus at [the following locations.](https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html#TestingHours) Testing will help to protect your health and your fellow Slugs. 
 
+___
+
+
 ## Isolation
 
 
@@ -107,6 +110,7 @@ Students living in university housing with underlying medical conditions that ha
 
 Students who test positive are advised to follow the [COVID-19 Positive Test Result Instructions](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf). The campus isolation team will work with students living in university housing to provide guidance and assistance such as how long to isolate, how to inform faculty and close contacts, and the UC Dining Buddy Meal Program.
 
+___
 
 ## Badging
 
@@ -115,6 +119,7 @@ Students who test positive are advised to follow the [COVID-19 Positive Test Res
 
 The campus COVID-19 student badging system is no longer in use. The campus notification system remains in operation. When students test positive using a campus testing facility, notifications will be sent to the student's instructors. For all students who test positive (either on campus or off), they have been asked to notify all of their close contacts including their instructors.
 
+___
 
 
 ## Vaccinations
@@ -135,6 +140,7 @@ Student Health Services will hold vaccination clinics for COVID and flu for stud
 
 Risk Services is partnering with [Kaiser to provide flu shot clinics](https://risk.ucsc.edu/employee-wellness/flu-shot-clinic/index.html) for employees on Tuesday, Sept. 27, 8:30 a.m. - 3:30 p.m. at the Bay Tree Conference Center.
 
+___
 
 ## MPX (Monkeypox)
 
@@ -161,6 +167,7 @@ Students with questions or concerns about their MPX risk, [symptoms](https://www
 
 Please contact Student Health Services immediately at (831) 459-2591 or [Health e-Messenger](https://studenthealth.ucsc.edu/) to get instructions. **If you live in university housing, our campus isolation team will work with you to coordinate the next steps.** You will be asked to immediately relocate to off-site accommodations for a maximum 24-hour period while family members or friends come to take you home. For those who need special accommodations, we will work with you and your family to help make appropriate arrangements. 
 
+___
 
 
 
@@ -179,6 +186,7 @@ The university is continuing to provide free masks to the campus community. They
 
 Masks are **strongly recommended** to board and ride Campus Transit vehicles.
 
+___
 
 
 ## Dining
@@ -195,6 +203,7 @@ The protocol this quarter is:
 * If you want seconds in a dining hall, grab a clean plate after putting your used plate on the dish return.
 * Follow the guidance on the signs posted throughout the facility.
 
+___
 
 ## Dean of Students and College Student Life
 
