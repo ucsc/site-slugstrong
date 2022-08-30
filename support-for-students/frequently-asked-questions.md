@@ -34,7 +34,7 @@ You can sign up for alternative days using the appointment link that was emailed
 
 ### I tested positive before move-in. What should I do?
 
-**Please do not come to campus if you test positive or are symptomatic. **Please contact your [Housing Coordinator](https://housing.ucsc.edu/contact/index.html#housing) to reschedule your move-in date and [follow these instructions from Student Health Services. ](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf)
+**Please do not come to campus if you test positive or are symptomatic.** Please contact your [Housing Coordinator](https://housing.ucsc.edu/contact/index.html#housing) to reschedule your move-in date and [follow these instructions from Student Health Services. ](https://healthcenter.ucsc.edu/services/covid-19/images-pdfs/covid_positive_directions_students.pdf)
 
 
 ### Are guests allowed on campus?
