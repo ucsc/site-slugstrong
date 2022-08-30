@@ -41,7 +41,7 @@ You can sign up for alternative days using the appointment link that was emailed
 
 There are no guest restrictions at this time, but we advise you to check with your roommates or housemates to ensure you are on the same page regarding expectations around having guests. You can also have “helpers” (friends or family) assist you with move-in.   
 
-
+___
 
 ## Testing
 
