@@ -82,6 +82,9 @@ Kits are available at the College Housing Offices, Bay Tree Campus Store, McHenr
 
 Ongoing (surveillance) testing is not currently required for students, faculty, or staff (unless you are a university healthcare worker). However, free asymptomatic testing is still available for the campus at [the following locations.](https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html#TestingHours) Testing will help to protect your health and your fellow Slugs. 
 
+### I’m a graduate student, and I never left campus. Do I need to test?
+Since you haven’t left campus, you do not need to take a pre-arrival test. However, we are asking all students to take one PCR test within the first week of the fall quarter.  Please [pick up a PCR test kit](https://healthcenter.ucsc.edu/services/covid-19/covid19-students.html). Kits are available after Sept. 17 at the College Housing Offices, Bay Tree Campus Store, McHenry Library, or the Science and Engineering Library.
+
 ___
 
 
