@@ -14,11 +14,9 @@ button:
 
 
 
-***Updated 8/29/22***
+***Updated 9/14/22***
 
 Public health agency requirements and guidelines regarding COVID-19 mitigation protocols change regularly. The information below summarizes current guidance for campus visitors and events. Some programs may have additional requirements, such as performances through the [Arts Division](https://arts.ucsc.edu/covid-protocols), the [Seymour Center](https://seymourcenter.ucsc.edu/visit/), and the [UCO Lick Observatory](https://www.lickobservatory.org/events/#:~:text=Starting%20April%2010th%2C%20wearing%20a,the%20start%20of%20the%20event). Prior to coming to campus, visitors should check with program organizers for the most up-to-date protocols.
-
-This protocol remains in effect while the [Santa Cruz County COVID-19 Community Level](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=California&data-type=CommunityLevels&list_select_county=6087) remains “low.” Additional mitigations may be required if the County Level reaches “medium,” and some events may be postponed or rescheduled if the County Level reaches “high.”
 
 * <a href="#requirements">Requirements for Campus Visitors</a>  
 * <a href="#events">Events at UCSC Locations</a>  
@@ -33,12 +31,12 @@ This protocol remains in effect while the [Santa Cruz County COVID-19 Community 
 * [Face coverings](https://news.ucsc.edu/2021/08/face-coverings-guidance.html) are *recommended* for everyone, regardless of vaccination status.
 * Campus visitors who do not comply with policies will not be permitted to access the facility and will be asked to leave.
 
-**Visitors from outside California** should follow the Centers for Disease Control and Prevention (CDC) travel guidance. Additionally, individuals who are not [up to date](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html) with COVID-19 vaccinations must also:
+**Travelers** should follow the Centers for Disease Control and Prevention (CDC) [travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html):
 
-* Obtain and have accessible a record of a negative COVID-19 test 1-3 days prior to travel.
-* Self-quarantine for 5 days upon arrival.
-* Obtain and have accessible a record of a negative COVID-19 test result 3-5 days after arrival.
-* If a COVID-19 test is positive, the visit should be canceled or postponed before the visitor arrives on campus, or as soon as the result is received.
+* Obtain and have accessible a record of a negative COVID-19 test no more than 3 days prior to travel.
+* Monitor yourself for COVID-19 symptoms.
+* Consider getting tested after arrival.
+* If a COVID-19 test is positive, the travel should be canceled or postponed before the visitor arrives on campus, or as soon as the result is received.
 
 ## Visitors to Student Housing and Dining
 
@@ -53,8 +51,8 @@ Currently, there are no guest restrictions in student housing and dining but cam
 
 ## Indoor Events
 
-* Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) is not required for indoor events. Event organizers may choose to require these measures as long as they apply to all attendees.
-    * The host or event coordinator should provide attendees reasonable notice of the requirements of the event in advance. If proof of being up to date with COVID-19 vaccinations or a negative test is required, the entrance requirements can be met in the following ways:
+* Proof of being Up-To-Date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) is not required for indoor events. Event organizers may choose to require these measures as long as they apply to all attendees.
+    * The host or event coordinator should provide attendees reasonable notice of the requirements of the event in advance. If proof of being Up-To-Date with COVID-19 vaccinations or a negative test is required, the entrance requirements can be met in the following ways:
         * Any attendee can show their CDC Vaccine Card (phone image acceptable) or digital vaccine record from the State of California. International attendees may show their translated vaccine record.
         * Any attendee can show a negative COVID-19 test result from the last 72 hours (must be a lab PCR test; home tests/antigen tests are not valid).
 * Attendees who do not meet speciﬁed event requirements will not be permitted entry.
@@ -64,14 +62,14 @@ Currently, there are no guest restrictions in student housing and dining but cam
 
 ## Outdoor Events
 
-* Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) is not required for outdoor events. Event organizers may choose to require these measures as long as they apply to all attendees.
+* Proof of being Up-To-Date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) is not required for outdoor events. Event organizers may choose to require these measures as long as they apply to all attendees.
 * Event organizers may require face coverings for specific events, such as those with the possibility of high density or close contact, although doing so is not required at this time.
 
-## “Mega Events”
+## “Mega-Events”
 
 [Mega-events](https://covid19.ca.gov/mega-events/) are deﬁned by the California Department of Public Health (CDPH) as indoor events with 1,000 or more people and outdoor events with 10,000 or more people.
 
-* Proof of being up to date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) is not required for mega-events. Event organizers may choose to require these measures as long as they apply to all attendees.
+* Proof of being Up-To-Date with COVID-19 vaccinations or a recent negative COVID-19 test result (taken within 72 hours of the start of an event) is not required for mega-events. Event organizers may choose to require these measures as long as they apply to all attendees.
 * Event organizers are strongly encouraged to consider requiring face coverings for mega-events where there is the possibility of high density or close contact, although doing so is not required at this time.
 
 <h2 id="tours">Campus Tours</h2>
@@ -85,21 +83,20 @@ All visitors, regardless of vaccination status, who are participating in on-site
 
 **UC-operated overnight programs and events**
 
-* All UC employees and students who are participating in the overnight program or event in their capacity as a UC employee or student are required to comply with the UC Vaccination Policy.
-* All other participants (covered non-affiliates), including attendees, organizers, or participants in some other capacity and minors attending overnight programs or events are required to 1) show proof of being up to date with COVID-19 vaccinations or 2) have an approved medical exemption and regular COVID-19 testing.
-* The department or unit running the camp/conference will be responsible for verification of the above requirements.
+* All UC employees and students who are participating in the overnight program or event in their capacity as a UC employee or student are required to comply with the [UC Vaccination Policy](https://policy.ucop.edu/doc/5000695/VaccinationProgramsPolicy).
+* All other participants (covered non-affiliates), including attendees, organizers, or participants in some other capacity and minors attending overnight programs or events are required to 1) show proof of being Up-To-Date with COVID-19 vaccinations or 2) have an approved medical exemption.
+
+  The department or unit running the camp/conference will be responsible for verification of the above requirements.
 * All overnight program or event participants, attendees and organizers must comply with all public health requirements.
 * More information can be found in the UCSC Conference Services contract agreement [Exhibit 5: COVID Mitigations Addendum (UC Operated)](https://conferenceservices.ucsc.edu/covid-19/covid-mitigations-addendum-uc-operated.html).
 
 **Non-UC-operated overnight programs and events**
 
-* Third-party organizers, participants, and attendees, including minors, are required to 1) show proof of being up to date with COVID-19 vaccinations; or 2) have an approved medical exemption and submit to regular COVID-19 testing every four days (PCR or rapid antigen) as a condition of using UCSC-owned or -leased facilities for their overnight program or event.
+* Third-party organizers, participants, and attendees, including minors, are required to 1) show proof of being Up-To-Date with COVID-19 vaccinations; or 2) have an approved medical exemption.
 * Third parties who contract with UCSC are responsible for administration, compliance, and verification of the above requirements.
 * All camp and program participants, attendees and organizers must comply with all public health requirements.
 * More information can be found in the UCSC Conference Services contract agreement [Exhibit 5: COVID Mitigations Addendum (Non-UC Operated)](https://conferenceservices.ucsc.edu/covid-19/covid-mitigations-addendum-non-uc-operated.html).
 
 ## NOTES
 
-**Up to date:** An individual is considered up to date with COVID-19 vaccinations when they have received all recommended COVID-19 vaccines, including any booster dose(s) when eligible ([CDC, “Stay Up to Date With Your COVID-19 Vaccines”](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html))
-
-**Not up to date:** Individuals who are not up to date with COVID-19 vaccinations include: (i) individuals of all ages, including children, who have not completed a primary vaccination series to protect against COVID-19; (ii) individuals <2 weeks post primary vaccination series; (iii) individuals with an approved exception or deferral to the [UC Policy: SARS-CoV-2 (COVID-19) Vaccination Program](https://policy.ucop.edu/doc/5000695/SARS-Cov-2); (iv) individuals who have completed a primary vaccination series and are booster-eligible, but have not received a booster dose.
+[Up-To-Date:](https://policy.ucop.edu/doc/5000695/VaccinationProgramsPolicy) A person is Up-To-Date with required Vaccines when they have received all doses in a Primary Series and any boosters recommended by the CDC or by CDPH. A person need not obtain boosters that are authorized but not explicitly recommended by CDC or CDPH in order to be considered Up-To-Date.
