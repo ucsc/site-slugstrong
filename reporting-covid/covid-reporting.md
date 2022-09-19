@@ -14,7 +14,8 @@ button:
 
 **COVID-19 requires all of us to be even more attentive to our health, regularly checking for symptoms associated with the virus.**
 
-All employees who work on-site at a UCSC property (owner or leased) must complete a daily COVID-19 symptom check questionnaire prior to reporting for work. Effective immediately, these employees must [enroll in the program](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_007UYZZnkIAUmkR). [Learn more](https://www.ucsc.edu/coronavirus/symptom-check.html) about the program.
+**For employees**
+Continue to self-assess your health status and possible COVID symptoms each day before coming to a UCSC owned or leased facility. If you experience COVID symptoms, complete the symptom check questionnaire and report any positive test results to your manager or supervisor. To access the online employee symptom check questionnaire click on the following link: [online Employee Symptom Check Questionnaire](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_2o9mmhtmU0iqhYa). You can also [print a copy of the Employee Symptom Check Questionnaire in (English)](https://www.ucsc.edu/coronavirus/assets/new-employee-survey.pdf) or [in Spanish (Español) Cuestionario de verificacion de simtomas del empleado](https://www.ucsc.edu/coronavirus/assets/new-employee-survey-spanish.pdf).
 
 Preventing the spread of COVID-19 is one of our highest priorities. UC Santa Cruz is responding to concerns from the campus community regarding COVID-19.
 
