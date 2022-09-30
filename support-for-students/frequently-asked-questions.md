@@ -106,7 +106,7 @@ Most of our campus community is up-to-date on their vaccinations and there are m
 
 **COVID-19**
 
-Students living in university housing with underlying medical conditions that have a roommate who has tested positive, we have temporary accommodations available for the period in which their roommate is testing positive. 
+For students living in university housing with underlying medical conditions that have a roommate who has tested positive, we may have temporary accommodations available for the period in which their roommate is testing positive. 
 
 
 ### What resources are available if I need to isolate?
@@ -206,18 +206,3 @@ The protocol this quarter is:
 * If you want seconds in a dining hall, grab a clean plate after putting your used plate on the dish return.
 * Follow the guidance on the signs posted throughout the facility.
 
-___
-
-## Dean of Students and College Student Life
-
-
-### Is there a boardwalk frolic event this year?
-
-Yes! It’s coming up on Sept. 19. Stay tuned for more details.
-
-
-### Will there be an in-person welcome week?
-
-Yes! Check our calendar for [Mandatory Welcome Week sessions.](https://orientation.ucsc.edu/fall/index.html) Most optional Welcome Week events will be virtual, and some will be in-person.  
-
-Check your [college’s calendar](https://orientation.ucsc.edu/fall/college-schedule.html) for Welcome Week activities/sessions.
