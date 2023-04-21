@@ -10,6 +10,10 @@ description: >
 
 **Together we are Slug Strong**
 
-This site will continue to provide everyone in our campus community with crucial information about the campus response to COVID-19.
+UC Santa Cruz has lifted most of its COVID-19 mitigations and is no longer updating its Slug Strong website. For more information about COVID-19, please visit the following sites:
+
+- [Student Health Center](https://healthcenter.ucsc.edu/services/covid-19/index.html)
+- [Staff Human Resources](https://shr.ucsc.edu/)
+- [Environmental Health and Safety](https://ehs.ucsc.edu)
 
 *Questions or feedback? Please email [publicaffairs@ucsc.edu](mailto:publicaffairs@ucsc.edu).*
