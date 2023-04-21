@@ -19,26 +19,6 @@ layout: default
             </div>
           </section>
         {% endif %}
-<div class="row">
-           <ul class="grid-container">
-              {% assign blocks = site.pages | sort: "order" %}
-              {% for p in blocks %}
-              {% if p.front %}
-                <li>
-                  <a style="background-color: {{ p.front.bg }}; color: {{ p.front.color }};" href="{{ p.url | relative_url }}">
-                  {% include svg/{{ p.front.icon }} %}
-                  <div class="block profile-block" id="profile">
-                    <h3 class="block-header">{{ p.title }}</h3>
-                    <p class="inner">
-                    {{ p.description }}
-                    </p>
-                  </div>
-                  </a>
-                </li>
-              {% endif %}
-              {% endfor %}
-            </ul>
-          </div>
           <div class="row">
             <div class="main-content">
               {{ content }}
