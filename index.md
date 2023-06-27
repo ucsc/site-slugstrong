@@ -15,5 +15,6 @@ UC Santa Cruz has lifted most of its COVID-19 mitigations and is no longer updat
 - [Student Health Center](https://healthcenter.ucsc.edu/services/covid-19/index.html)
 - [Staff Human Resources](https://shr.ucsc.edu/)
 - [Environmental Health and Safety](https://ehs.ucsc.edu)
+- [Risk Services](https://risk.ucsc.edu/workers-comp/covid-19-supp/index.html)
 
 *Questions or feedback? Please email [publicaffairs@ucsc.edu](mailto:publicaffairs@ucsc.edu).*
