@@ -36,6 +36,12 @@
   status = 301
   headers = {X-From = "Netlify"}
   force = true
+[[redirects]]
+  from = "/*.html"
+  to = "/"
+  status = 401
+  headers = {X-From = "Netlify"}
+  force = true
 
 [[headers]]
   for = "/*"
