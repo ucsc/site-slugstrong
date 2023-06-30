@@ -5,38 +5,6 @@
   headers = {X-From = "Netlify"}
   force = true
 [[redirects]]
-  from = "/keep-teaching"
-  to = "https://keepteaching.ucsc.edu"
-  status = 301
-  headers = {X-From = "Netlify"}
-  force = true
-
-[[redirects]]
-  from = "/returning-to-campus/download-worksite-signs/"
-  to = "https://docs.google.com/forms/d/e/1FAIpQLSfIWvy5HuA79kkwPw6jLovRw4_SYzUJHq0g7UPbxHLEgtp_hg/viewform"
-  status = 301
-  headers = {X-From = "Netlify"}
-  force = true
-
-[[redirects]]
-  from = "/returning-to-campus/get-tested/"
-  to = "https://healthcenter.ucsc.edu/services/covid19.html"
-  status = 301
-  headers = {X-From = "Netlify"}
-  force = true
-[[redirects]]
-  from = "/returning-to-campus/do-your-part/"
-  to = "/"
-  status = 301
-  headers = {X-From = "Netlify"}
-  force = true
-[[redirects]]
-  from = "/returning-to-campus/face-coverings/"
-  to = "https://ehs.ucsc.edu/programs/safety-ih/covid-resources.html"
-  status = 301
-  headers = {X-From = "Netlify"}
-  force = true
-[[redirects]]
   from = "/:splat"
   to = "/"
   status = 301
