@@ -37,9 +37,9 @@
   headers = {X-From = "Netlify"}
   force = true
 [[redirects]]
-  from = "/*.html"
+  from = "/:splat"
   to = "/"
-  status = 401
+  status = 301
   headers = {X-From = "Netlify"}
   force = true
 
